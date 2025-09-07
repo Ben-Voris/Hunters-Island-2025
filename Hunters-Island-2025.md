@@ -682,6 +682,8 @@ At Twin Falls, the portage I had marked was not the one that is commonly
 used. As a consequence, we used what we dubbed the &ldquo;Not that island
 Island Portage&rdquo;.
 
+![Royce looking at Twin Falls on Maligne River](./attachments/202508181329-000.jpeg "Royce lookng at Twin Falls on Maligne River")
+
 We're on the campsite we used in the early 2000s&mdash;maybe 2004&mdash;a trip
 with Royce, his two sons, and me and was the occasion of the great
 dunking.
