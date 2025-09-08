@@ -1,6 +1,14 @@
 # Quetico Hunter Island 2025
 
-## 2025-08-04T01:19:27-05:00 (44.77713892786335, -91.45782599458062) 871 feet Eau Claire
+[2025-08-06 - Day 1 - Lac la Croix to Crooked Lake](#2025-08-06t175331-0500-4820686--9184773-1244-feet-day-1-lac-la-croix-to-crooked-lake-north-of-saturday-bay)
+
+[2025-08-07 - Day 2 - Crooked Lake to Basswood River](#2025-08-07t181217-0500-4814664--9169657-1254-feet-day-2-crooked-lake-to-moose-bay-of-basswood-river)
+
+[2025-08-08 - Day 3 - Basswood River to Basswood Lake](#2025-08-08-day-4-moose-bay-of-basswood-river-to-canadian-point-english-channel-on-basswood-lake)
+
+[2025-08-09 - Day 4 - Basswood Lake to Basswood Lake to Carp Lake](#2025-08-09t094052-0500-4806107--9156269-1297-feet-day-4-basswood-river-to-canadian-point-english-channel-on-basswood-lake)
+
+## 2025-08-04T01:19:27-05:00 (44.77714, -91.45783) 871 feet Eau Claire
 
 Royce & Brenda's in Eau Claire.
 
@@ -18,19 +26,25 @@ The drive to Crane Lake was easy, except for some construction around Duluth. At
 the marina, we unloaded our gear and canoe into Zups' boat, arranged parking,
 and headed off.
 
+![Royce in Zups boat on the way to Canadian customs](./attachments/202508051556-000.jpeg "Royce in Zups boat on the way to Canadian customs")
+
 Clearing customs on Sandpoint Lake was painless. We were met by two agents and
 briefly chatted with one. The fact that we were slightly over our duty-free
-liquor allotment was waved off, and we were on our way.
+liquor allotment was waved off, and we were on our way, including two rail
+portages.
 
-![Table for two at Zups 2025-08-05 18:03:22](./attachments/202508051803-000.jpeg "Table for two at Zups 2025-08-05 18:03:22")
+![Beatty rail Portage around Loon Falls](./attachments/202508051638-001.jpeg "Beatty rail Portage around Loon Falls")
 
 Cold beer. Dinner is minestrone soup, pasta salad, good prime rib, baked
 potato, and asparagus. Carrot cake for dessert. Our server was a young woman
 from New Zealand who works at a similar operation in New Zealand during
 their summer.
 
-After dinner, we were shuttled to rooms on another island. The room
-was acceptably shabby, but we were surprised at the lack of potable water. Fortunately, I'd filled our bottles at the dining hall.
+![Table for two at Zups 2025-08-05 18:03:22](./attachments/202508051803-000.jpeg "Table for two at Zups 2025-08-05 18:03:22")
+
+After dinner, we were shuttled to rooms on another island. The room was
+acceptably shabby, but we were surprised at the lack of potable water.
+Fortunately, I'd filled our bottles at the dining hall.
 
 A small group was cleaning fish on the dock.
 
@@ -38,7 +52,7 @@ A small group was cleaning fish on the dock.
 
 Threatening rain.
 
-## 2025-08-06T17:53:31-05:00 (48.20686426247584, -91.84773315137875) 1244 feet Day 1: Lac la Croix to Crooked Lake, north of Saturday Bay
+## 2025-08-06T17:53:31-05:00 (48.20686, -91.84773) 1244 feet Day 1: Lac la Croix to Crooked Lake, north of Saturday Bay
 
 We've been in camp for an hour or so.
 
@@ -68,18 +82,22 @@ Royce used trekking poles on the portages, which he said helped.
 
 Saw a few groups on portages.
 
-The paddle through Bottle Lake and Iron Lake was easy and fast. The
-Curtain Falls portage took something out of both of us&mdash;and then the
-wind really kicked up. We paddled deep into Sunday Bay to protect
-ourselves from the SSW wind. Then the wind really started to gust. We
-both got so tired we pulled onto shore to take a break. This is why
-we're camping in BWCA.
+The paddle through Bottle Lake and Iron Lake was easy and fast.
 
-Wind also gave us some difficulty setting up the tent. With that done, we have
-&ldquo;cocktail a few minutes&rdquo;: snacks and El Jimador, with lime and salt.
-We miss Jim and reminisce about our 2002 trip with him and Royce's boys.
+![Royce at Crooked Lake side of Curtain Falls](./attachments/202508061209-002.jpeg "Royce at Crooked Lake side of Curtain Falls")
 
-![Tequila Camp on Crooked Lake 2025-08-06 17:44:35](./attachments/202508061744-000.jpeg "Tequila Camp on Crooked Lake 2025-08-06 17:44:35")
+The Curtain Falls portage took something out of both of us. On Crooked, the wind
+started to build, so I took us deep into Sunday Bay for protection from the SSW
+wind. The wind kept building, but the gusts were my biggest concern. We both got
+so tired we pulled up next to shore to take a break. Since we have a BWCA
+permit, we decided to not fight the wind and to camp on the US side.
+
+The wind made is somewhat difficult to set up the tent, but with that done, we
+have &ldquo;cocktail a few minutes&rdquo;&mdash;El Jimador with lime and salt,
+and snacks. We miss Jim and reminisce about our 2002 trip with him and Royce's
+boys.
+
+![Tequila on Crooked Lake 2025-08-06 17:44:35](./attachments/202508061744-000.jpeg "Tequila on Crooked Lake 2025-08-06 17:44:35")
 
 Dinner is a bag salad and Royce's ropa vieja (old rope), with &ldquo;that's
 not rice&rdquo; rice.
@@ -90,23 +108,24 @@ the bugs are whining outside of tent.
 Some beetles, the same shade of green as the rain fly, were crawling on the
 tent. We both got a kick out of that.
 
-## 2025-08-07T18:12:17-05:00 (48.1466384898777, -91.69656623540166) 1254 feet Day 2: Crooked Lake to Moose Bay of Basswood River
+## 2025-08-07T18:12:17-05:00 (48.14664, -91.69657) 1254 feet Day 2: Crooked Lake to Moose Bay of Basswood River
 
-We're unsure when we were on the water but it was after 8:00. We both
-slept hard until thunder and a short rain storm woke us. When the rain
-came, we learnt that there is a trick&mdash;one I did not master&mdash;to
-releasing the toggle that holds the rain fly out of the way.
+We both slept hard until thunder and a short rain storm woke us. When the rain
+came, we learnt that there is a trick to releasing the toggle that holds the
+rain fly out of the way. One must take care to slide the toggle directly out of
+the loop without any twist.
 
 ![Royce having coffee. Crooked Lake north of Saturday Bay 2025-08-07 07:51:58](./attachments/202508070751-000.jpeg "Royce having coffee. Crooked Lake north of Saturday Bay 2025-08-07 07:51:58")
 
-Sunny and calm, enervating humidity.
+On the water sometime after 8:00.
+
+Sunny, calm, enervating humidity.
 
 The scout paddled past as we were breaking camp
 
-We paddled fast in the light riffles. I was so into it that I was't
-watching the map closely and took use part way into a dead-end bay. By
-the time I realized what I had done, we had paddled a mile or so out of
-the way.
+We paddled fast in the light riffles. I was so into it that I was't watching the
+map closely and took use part way into a dead-end bay. By the time I realized
+what I had done, we had paddled a mile or so out of the way.
 
 A south wind picked up. The skies clouded over and cleared off several times.
 After paddling for a few hours we slowed down, but we were still averaging
@@ -123,6 +142,8 @@ years. However, the nearby Quetico campsite was right where the map said it
 should be *and* it had a broken BWCA fire grate. We wonder if, when the BWCA
 camp was closed, some enterprising soul moved the grate across the border.
 
+![Royce. Lunch break on Crooked Lake north of Thursday Bay](./attachments/202508071248-001.jpeg "Royce. Lunch break on Crooked Lake north of Thursday Bay")
+
 When we entered the narrows of Crooked Lake/Basswood River, the current slowed
 us to just go over 1 mph.
 
@@ -134,27 +155,33 @@ Royce fished and I took a couple of short swims. &ldquo;Cocktail much less than
 an hour&rdquo; with lime, salt, El Jimador, and snacks. Royce has dinner is
 cooking.
 
-Our plan is to set off early so that we can make it past the Horse Portage with
+Our plan was to set off early so that we can make it past the Horse Portage with
 enough time to paddle far enough to reach a nice campsite on Basswood Lake.
 
-We keep hearing thunder in the distance but the weather overhead blows
-overcast and then clear. Most clouds are mares tales, so we predict good
+We heard thunder in the distance several times and the skies repeatedly cycled
+between overcast and clear. Now, most clouds are mares tales, so we predict good
 weather well into the evening.
 
 ![Royce cooking. Moose Bay on Basswood River 2025-08-07 18:13:14](./attachments/202508071813-000.jpeg "Royce cooking. Moose Bay on Basswood River 2025-08-07 18:13:14")
 
-## 2025-08-09T09:40:52-05:00 (48.06107406331205, -91.56269015654433) 1297 feet Day 3: Basswood River to Canadian Point (English Channel) on Basswood Lake
+## 2025-08-08 Day 4: Moose Bay of Basswood River to Canadian Point (English Channel) on Basswood Lake
 
-We were tired enough last night that I logged nothing before the bugs
-came. Oh God, the bugs.
+Oh God, the bugs. We're lucky that they're not nearly as active in the
+morning.
 
-We leapfrogged the group of seven. We learned that they are a scouting
-group doing their Order of the Arrow trip, which I'm given to believe
-is a significant milestone. A little mental math told me that the sum of
-ages of the seven added up to less than the sum of our ages and that our
-canoe is older than any two of them.
+![Royce and canoe. Camp on Moose Bay of Basswood River](./attachments/202508080656-000.jpeg "Royce and canoe. Camp on Moose Bay of Basswood River")
+
+We leapfrogged the group of seven. We learned that they are a scouting group
+doing their Order of the Arrow trip, which I'm given to believe is a significant
+milestone. Quick math told me that the sum of ages of the scouts & their guides
+added up to less than the sum of our ages and that our canoe is older than any
+two of them.
 
 The Lower Basswood Falls portage was easy.
+
+![Downstream of Lower Basswood Falls](./attachments/202508080840-000.jpeg "Downstream of Lower Basswood Falls")
+
+## 2025-08-09T09:40:52-05:00 (48.06107, -91.56269) 1297 feet Day 5: Basswood River to Canadian Point (English Channel) on Basswood Lake
 
 It's been so long since I've done the Wheelbarrow Falls portage that
 I'd forgotten that the downstream end has some tricky
@@ -188,10 +215,11 @@ time we were off, we were paddling through rollers but no chop, which made for
 easy and fast paddling. With the coffee on board, we paddled at morning pace for
 more than an hour.
 
-The overcast so thick that I wondered how late it was (it was only
-1900). As usual distances and sizes are not intuitive to us, so we spent
-time double checking the map and GPS. Mildly annoying, but we never went
-astray.
+![Royce with canoe at Basswood Lake end of Horse Portage](./attachments/202508081609-000.jpeg "Royce with canoe at Basswood Lake end of Horse Portage")
+
+The overcast so thick that I wondered how late it was (it was only 19:00). As
+usual distances and sizes are not intuitive to us, so we spent time double
+checking the map and GPS. Mildly annoying, but we never went astray.
 
 Got into camp, set up the tent, and have tequila and limes. This is a
 pleasant campsite although footing is bad&mdash;rocks and sticks everywhere.
@@ -221,19 +249,17 @@ As the rain petered out, I drifted off. Then the big storm rolled in.
 It rained hard for a while&mdash;no idea how long. The tent was lit by
 lightning several times and there was loud thunder.
 
-This morning, some noise woke Royce and we slowly crawled out of the
-tent. Yesterday was a big day for us and we're not spritely. So, we
-enjoy our coffee, chat, and amble around camp, stopping to stare at
-things and to shake water off the tent and our packs. (Everything
-important was in a pack and was dry. So far, our camp discipline is
-good.)
+This morning, some noise woke Royce and we slowly crawled out of the tent.
+Yesterday was a big day for us and we're not spritely. So, we enjoy our coffee,
+chat, and amble around camp, stopping to stare at things and to shake water off
+the tent and our packs. (Everything important was in a pack and was dry. So far,
+our camp discipline is good.)
 
-There is still a slight breeze from the south, so the thunderstorm
-brought no major weather change. The overcast is moderately thick, but
-not as thick as yesterday evening. A few bugs are around but not too
-many.
+There is still a slight breeze from the south, so the thunderstorm brought no
+major weather change. The overcast is moderately thick, but not as thick as
+yesterday evening. A few bugs are around but not too many.
 
-## 2025-08-10T08:36:25-05:00 (48.09173675449339, -91.31099707635022) 1370 feet: Day 4: Canadian Point on Basswood Lake to Carp Lake
+## 2025-08-10T08:36:25-05:00 (48.09174, -91.31100) 1370 feet: Day 5: Canadian Point on Basswood Lake to Carp Lake
 
 The landing for this camp is through brush and there is no place to sit
 out or swim, but it's the best of a bad lot.
@@ -288,7 +314,7 @@ how many down trees there in the water. A few trees are standing well
 out in the lake. The first dam at Prairie Portage was built around 1900.
 Could these standing dead trees be from before that?
 
-## 2025-08-10T20:28:15-05:00 (48.15676274115463, -91.12723775321433) 1409 feet Day 5 Carp Lake to Ottertrack Lake
+## 2025-08-10T20:28:15-05:00 (48.15676, -91.12724) 1409 feet Day 5 Carp Lake to Ottertrack Lake
 
 Saw many loons. One pair of let us paddle within 6 feet.
 
@@ -340,7 +366,7 @@ obnoxious/aggressive chipmunks.
 Tomorrow, we turn north into a bay of Ottertrack that I've never seen.
 THen we head into Jasper and further north into Quetico.
 
-## 2025-08-11T19:04:01-05:00 (48.26726366904253, -91.04823488056672) 1411 feet Day 6: Ottertrack Lake to Saganons Lake
+## 2025-08-11T19:04:01-05:00 (48.26726, -91.04823) 1411 feet Day 6: Ottertrack Lake to Saganons Lake
 
 Ottertrack Lake was as pretty as I remember. I snapped a few pictures
 that I'm sure do not do justice.
@@ -381,7 +407,7 @@ In tent at 2020. When the wind started to die down, the mosquitoes
 started to buzz. But by then we had camp set for the night, our teeth
 brushed, etc., and so were ready to pop into the tent.
 
-## 2025-08-12T18:35:35-05:00 (48.31219584075835, -91.11030809065099) 1346 feet Day 7: dinner on Little Falls portage
+## 2025-08-12T18:35:35-05:00 (48.31220, -91.11031) 1346 feet Day 7: dinner on Little Falls portage
 
 We make dinner at the end of Little Falls portage since we figure that
 if we wait to make dinner until we're in camp, it'll be dark and we'd
@@ -400,7 +426,7 @@ Thunderstorm blew through while we were portaging. Hazy overcast now.
 ![View downstream of Little Falls 2025-08-12 18:37:35](./attachments/202508121837-000.jpeg "View downstream of Little Falls 2025-08-12 18:37:35")
 ![Royce with dinner at downstream end of Little Falls 2025-08-12 18:37:39](./attachments/202508121837-001.jpeg "Royce with dinner at downstream end of Little Falls 2025-08-12 18:37:39")
 
-### 2025-08-12T21:14:03-05:00 (48.31543201259302, -91.11355634924607) 1365 feet Day 7: Camp near Koko Falls, off the portage
+### 2025-08-12T21:14:03-05:00 (48.31543, -91.11356) 1365 feet Day 7: Camp near Koko Falls, off the portage
 
 We've been the tent for a few minutes. Another party was camped across
 the river from the start of the portage.
@@ -417,7 +443,7 @@ travel time from the map. And of course, we did not expect up to paddle
 around the peninsula. And, something has happened in the last 23 years
 to make the portages harder.
 
-## 2025-08-13T20:25:34-05:00 (48.38172774306525, -91.30457791216836) 1325 feet Day 8: Koko Falls to west of Rose Island on Kawnipi Lake
+## 2025-08-13T20:25:34-05:00 (48.38173, -91.30458) 1325 feet Day 8: Koko Falls to west of Rose Island on Kawnipi Lake
 
 We were out of camp by 9:15 and on the water by 10:00.
 
@@ -463,7 +489,7 @@ Maybe someone just decided the tree needed to go?
 Kawnipi was kind to us and gifted us with swift travels. She's a big lake and
 and we've already covered most of her.
 
-### 2025-08-14T20:56:40-05:00 (48.45242827397907, -91.34913293776796) 1279 feet Day 8 West of Rose Island on Kawnipi Lake to Shelly Lake
+### 2025-08-14T20:56:40-05:00 (48.45243, -91.34913) 1279 feet Day 8 West of Rose Island on Kawnipi Lake to Shelly Lake
 
 As we were packing, the wind started gusting. Two guys paddled past in what
 looks like MN2. They were making good time but were paddling hard. By the time
@@ -519,7 +545,7 @@ usually on both sides tend to be narrow (bow on), which requires a great
 deal of fiddling to get the stern paddler (me) and our packs out or the
 packs and the bow paddler in.
 
-## 2025-08-15T20:39:27-05:00 (48.47555542659583, -91.45538769863569) 1246 feet Day 9: Shelly Lake to Keats Lake
+## 2025-08-15T20:39:27-05:00 (48.47556, -91.45539) 1246 feet Day 9: Shelly Lake to Keats Lake
 
 We went off track twice before we found the portage to Keats. It's a nice
 portage.
@@ -575,7 +601,7 @@ glasses case, and damaged my wallet, raincoat, etc. We *must* have a different
 way to carry bug dope. Or get something that's not as good as solvent as DEET.
 Vickie recommended something but I didn't look into it.
 
-## 2025-08-16T20:37:53-05:00 (48.42722355339809, -91.71705667455677) 1249 feet Day 10: Russell Lake to the end of Sturgeon Lake
+## 2025-08-16T20:37:53-05:00 (48.42722, -91.71706) 1249 feet Day 10: Russell Lake to the end of Sturgeon Lake
 
 While we were goofing around in camp this morning, two middle-aged women
 paddle past, followed by two loud and chatty younger women.
@@ -610,11 +636,11 @@ cloudless skies. The trailing wind occasionally threatened to build up to
 something worrisome but always subsided. I don't know our average speed, but I
 would expect it to be around 4 mph.
 
-## 2025-08-17T09:18:27-05:00 (48.42743896891473, -91.71691798584142) 1249 feet Day 11: Camp on Sturgeon near portage to Maligne River
+## 2025-08-17T09:18:27-05:00 (48.42744, -91.71692) 1249 feet Day 11: Camp on Sturgeon near portage to Maligne River
 
 ![Royce eating breakfast on Sturgeon Lake 2025-08-17 08:52:30](./attachments/202508170852-000.jpeg "Royce eating breakfast on Sturgeon Lake 2025-08-17 08:52:30")
 
-### 2025-08-17T14:32:14-05:00 (48.41287704192223, -91.751455610424) 1242 feet
+### 2025-08-17T14:32:14-05:00 (48.41288, -91.75146) 1242 feet
 
 Long lunch on a pleasant campsite that is on the third portage going
 west. Portages are well traveled and mostly easy.
@@ -627,7 +653,7 @@ they manage with two people and a dog?
 
 Leave camp at 10 or 11. We only have a short distance to cover today.
 
-### 2025-08-17T20:18:52-05:00 (48.38552256086547, -91.84600490228132) 1213 feet
+### 2025-08-17T20:18:52-05:00 (48.38552, -91.84600) 1213 feet
 
 Ran a few minor rapids that the couple referred to as &ldquo;swifts&rdquo;. I.e.,
 not really rapids. They obviously have much more experience with white
@@ -650,7 +676,7 @@ It's on a long trail that runs off of the map. Mushers?
 Twice tonight we heard what sounds like a Tijuana taxi but we're pretty
 are swans. We've seen more swans this year than I've ever seen.
 
-## 2025-08-18T19:47:56-05:00 (48.28605651, -92.18402862000001) 0 feet Day 12: Maligne River to Twin Falls on the Maligne River
+## 2025-08-18T19:47:56-05:00 (48.28606, -92.18403) 0 feet Day 12: Maligne River to Twin Falls on the Maligne River
 
 ![Royce packing. Tanner Lake 2025-08-18 09:41:09](./attachments/202508180941-000.jpeg "Royce packing. Tanner Lake 2025-08-18 09:41:09")
 
@@ -678,21 +704,20 @@ We took great care on each of the small &ldquo;swifts&rdquo;. Maybe too much car
 but neither of us have experience reading a river. As it was, there were
 no surprises.
 
-At Twin Falls, the portage I had marked was not the one that is commonly
-used. As a consequence, we used what we dubbed the &ldquo;Not that island
-Island Portage&rdquo;.
+At Twin Falls, the portage I had marked was not the one that is commonly used.
+As a consequence, we used what I dubbed the &ldquo;Not that island Island
+Portage&rdquo;.
 
 ![Royce looking at Twin Falls on Maligne River](./attachments/202508181329-000.jpeg "Royce lookng at Twin Falls on Maligne River")
 
-We're on the campsite we used in the early 2000s&mdash;maybe 2004&mdash;a trip
-with Royce, his two sons, and me and was the occasion of the great
-dunking.
+We're on the campsite we used on any early 2000s&mdash;maybe 2004&mdash;trip
+with Royce, his two sons, and me and was the occasion of the great dunking.
 
 Royce recalls that the flow being much, much lower then, and that the
 frothy bowl below the falls (and our camp) was relatively placid and
 that he fished it.
 
-## 2025-08-19T07:49:27-05:00 (48.37089463435001, -91.93477965894975) 1198 feet Day 13: Twin Falls on Maligne to Lac la Croix
+## 2025-08-19T07:49:27-05:00 (48.37089, -91.93478) 1198 feet Day 13: Twin Falls on Maligne to Lac la Croix
 
 ![Camp on Twin Falls of Maligne River](./attachments/202508190750-000.jpeg "Camp on Twin Falls of Maligne River")
 
@@ -716,6 +741,6 @@ on the docks at Crane Lake. Fortunately, someone at Scott's brought the
 pack and my PFD in and will hold them. Royce will get them after the
 party for Ripley.
 
-## 2025-08-21T06:26:23-05:00 (44.76583112614404, -91.48504073747534) 841 feet
+## 2025-08-21T06:26:23-05:00 (44.76583, -91.48504) 841 feet
 
 Leaving Eau Claire to celebrate Ripley's 1 1/2 birthday.
