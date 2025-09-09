@@ -426,9 +426,9 @@ Today, the portages were hard to find and and had difficult landings.
 
 The portage from Ottertrack to Jasper stopped at a pond (48.20708, -91.07873 to
 48.20694, -91.07861) where we had to paddle a few hundred feet to get to the
-next portage.
+next part of the portage.
 
-![Royce on portage after mid trail pond on Ottertrack to Jasper](./attachments/202508111219-000.jpeg "oyce on portage after mid trail pond on Ottertrack to Jasper")
+![Royce on portage after mid trail pond on Ottertrack to Jasper](./attachments/202508111219-000.jpeg "Royce on portage after mid trail pond on Ottertrack to Jasper")
 
 The landings for the portage between Jasper Lake and Lillypad Lake was
 difficult on both sides, but the trail was fairly easy and showed recent
@@ -449,6 +449,8 @@ and into the canoe. Taking a page from Peter delValle, we loaded the canoe and
 then pushed it while sinking past our knees in the muck and floating grass,
 until eventually the water was deep enough to float the canoe while we
 oh-so-gracefully embarked.
+
+![Royce on Saganons end of portage from Lillypad](./attachments/202508111537-000.jpeg "Royce on Saganons end of portage from Lillypad")
 
 We saw toad on the portage and a leopard frog at the lake. That portage
 left us both so tired enough we stopped early. We got the tent up and
