@@ -479,6 +479,8 @@ not to take the time to look there. We made good time heading east and
 reasonably good time heading west. I don't know how much time or if we
 lost time paddling an extra seven miles vs. an unknown portage.
 
+![Royce. Lunch break on Saganons Lake](./attachments/202508121303-000.jpeg "Royce. Lunch break on Saganons Lake")
+
 Thunderstorm blew through while we were portaging. Hazy overcast now.
 
 ![View downstream of Little Falls 2025-08-12 18:37:35](./attachments/202508121837-000.jpeg "View downstream of Little Falls 2025-08-12 18:37:35")
