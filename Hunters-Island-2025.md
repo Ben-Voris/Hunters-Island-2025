@@ -1,8 +1,10 @@
 # Quetico Hunter Island 2025
 
+## Index
+
 1. [Lac la Croix to Crooked Lake](#2025-08-06-day-1-lac-la-croix-to-crooked-lake-north-of-saturday-bay)
 2. [Crooked Lake to Basswood River](#2025-08-07-day-2-crooked-lake-to-moose-bay-of-basswood-river)
-3. [Basswood River to Basswood Lake](#2025-08-08-day-3-moose-bay-of-basswood-river-to-canadian-point-english-channel-on-basswood-lake)
+3. [Basswood River to Basswood Lake](#2025-08-08-day-3-moose-bay-of-basswood-river-to-canadian-point-on-basswood-lake)
 4. [Basswood Lake to Basswood Lake to Carp Lake](#2025-08-09-day-4-basswood-river-to-canadian-point-english-channel-on-basswood-lake)
 5. [Carp Lake to Ottertrack Lake](#2025-08-10-day-5-carp-lake-to-ottertrack-lake)
 6. [Ottertrack Lake to Saganons Lake](#2025-08-11-day-6-ottertrack-lake-to-saganons-lake)
@@ -21,12 +23,13 @@ Claire. We have a nightcap, look at pictures, and chat.
 
 ## 2025-08-04 Preparations in Eau Claire
 
-Mighty were their preparations.
+*Mighty were their preparations.*
 
-Royce has things well organized&mdash;food and fuel bought, shared gear found,
-tested, and organized, but we still manage to run hither and thither. We put
-things into things and then those things into other things and those things into
-his truck. We even pack our passports so that they'll be easy to access.
+Royce has things well organized&mdash;food, drink, and fuel bought, and shared
+gear found, tested, and organized. But we still manage to run hither and
+thither. We put things into things and then those things into other things and
+those things into his truck. We even pack our passports so that they'll be easy
+to access.
 
 ## 2025-08-05 Eau Claire to Zups
 
@@ -67,31 +70,24 @@ Threatening rain.
 
 ## 2025-08-06 Day 1: Lac la Croix to Crooked Lake, north of Saturday Bay
 
-### 2025-08-06T17:53:31-05:00 (48.20686, -91.84773) 1244 feet Day 1: Lac la Croix to Crooked Lake, north of Saturday Bay
-
-We've been in camp for an hour or so.
-
-I used the inReach to let the home front know that we are here and are
-safe.
+We've been in camp for an hour or so. I used the inReach to let the home front
+know that we are here and that we are safe.
 
 Zups picked us up promptly at 6:30. After breakfast, at around 9:00, they
-dropped us off at Bottle Portage. Before they were were dropped off at Black
-Robe Portage, we shared the boat with a family that was taking their first canoe
-trip. Mom was *way* out of her comfort zone but was being brave&mdash;she was in
-a boat for the first time and had taken swim lessons for the trip. Dad had done
-fishing trips before but had been one of the guys and not the guide. The
-daughter, who I guessed to be about 10, was all in on whatever dad was doing.
-Grandma and grandpa seemed bemused. Mom's brother seemed to think he would be
-lounging on a beach. Their tent was meant for car camping&mdash;it even included
-a porch. It had little wheels that might've been appropriate for a paved
-campground. As I understood, they planned to put six people in one large canoe
-and to tow a solo canoe which would hold their gear. I wish them well.
+dropped us off at Bottle Portage.
 
-We leapfrogged a group of seven that were traveling in aluminum canoes.
-(We later learned they are scouts.) Because of the differences between
-canoes and our better technique, we moved much faster on the water than
-they did. But even the woman that needed help getting her pack on moved
-faster on the trail than I.
+Before they were were dropped off at Black Robe Portage, we shared the boat with
+a family that was taking their first canoe trip. Mom was *way* out of her
+comfort zone but was being brave&mdash;the ride to Zups was her first time in a
+boat, and she had taken her first swim lessons. Dad had been on fishing trips
+before but had been one of the guys, not the guide. The daughter, who I guessed
+to be about 10, was all in on whatever dad was doing. Grandma and grandpa seemed
+bemused. Mom's brother seemed to think he would be lounging on a beach. Their
+tent was huge and was meant for car camping&mdash;it even included a porch. It's
+case had little wheels that might've been appropriate for a paved campground but
+not for even the best of portages. As I understood them, their plan was to put
+six people in one large canoe and to tow a solo canoe, which would hold their
+gear. I wish them well.
 
 Royce used trekking poles on the portages, which he said helped.
 
@@ -107,6 +103,12 @@ wind. The wind kept building, but the gusts were my biggest concern. We both got
 so tired we pulled up next to shore to take a break. Since we have a BWCA
 permit, we decided to not fight the wind and to camp on the US side.
 
+We leapfrogged a group of seven that were traveling in aluminum canoes.
+(We later learned they are scouts.) Because of the differences between
+canoes and our better technique, we moved much faster on the water than
+they did. But even the woman that needed help getting her pack on moved
+faster on the trail than I.
+
 The wind made is somewhat difficult to set up the tent, but with that done, we
 have &ldquo;cocktail a few minutes&rdquo;&mdash;El Jimador with lime and salt,
 and snacks. We miss Jim and reminisce about our 2002 trip with him and Royce's
@@ -114,18 +116,19 @@ boys.
 
 ![Tequila on Crooked Lake 2025-08-06 17:44:35](./attachments/202508061744-000.jpeg "Tequila on Crooked Lake 2025-08-06 17:44:35")
 
-Dinner is a bag salad and Royce's ropa vieja (old rope), with &ldquo;that's
+Dinner is a bag salad and Royce's *ropa vieja* (old rope), with &ldquo;that's
 not rice&rdquo; rice.
+
+As we were pitching the tent, green beetles&mdash;the same hue as the rain
+fly&mdash;were crawling on the tent. They had perfect camouflage, just in the
+wrong place. We both got a kick out of that.
 
 There are a few breaks in the clouds. It's quite still and humid and
 the bugs are whining outside of tent.
 
-Some beetles, the same shade of green as the rain fly, were crawling on the
-tent. We both got a kick out of that.
-
 ## 2025-08-07 Day 2: Crooked Lake to Moose Bay of Basswood River
 
-### 2025-08-07T18:12:17-05:00 (48.14664, -91.69657) 1254 feet
+### 2025-08-07T18:12:17-05:00 (48.14664, -91.69657) 1254 feet: Camp in Moose Bay
 
 We both slept hard until thunder and a short rain storm woke us. When the rain
 came, we learnt that there is a trick to releasing the toggle that holds the
@@ -134,20 +137,26 @@ the loop without any twist.
 
 ![Royce having coffee. Crooked Lake north of Saturday Bay 2025-08-07 07:51:58](./attachments/202508070751-000.jpeg "Royce having coffee. Crooked Lake north of Saturday Bay 2025-08-07 07:51:58")
 
-On the water sometime after 8:00.
+On the water well after 8:00.
 
 Sunny, calm, enervating humidity.
 
-The scout paddled past as we were breaking camp
+The scouts paddled past as we were breaking camp
 
-We paddled fast in the light riffles. I was so into it that I was't watching the
-map closely and took use part way into a dead-end bay. By the time I realized
-what I had done, we had paddled a mile or so out of the way.
+When we left camp, I was so into how fast we were paddling through the light
+riffles that I was't watching the map closely enough&mdash;and took us part way
+into a dead-end bay. By the time I realized what I had done, we had paddled a
+mile or so out of the way. I still can't paddle and navigate at the same time.
 
-A south wind picked up. The skies clouded over and cleared off several times.
+A south wind picked up. The sky went from clear to cloudy and back again a few
+times.
+
 After paddling for a few hours we slowed down, but we were still averaging
-around 3 mph. When the wind shifted to our beam, we slowed more because more of
-my strength went towards keep us on course.
+around 3 mph. When the wind shifted to our beam, we slowed more because a lot of
+my effort went towards keep us on course.
+
+***I feel like this next paragraph is on the wrong day.***
+The following picture was taken Aug 7, 2025 at 12:48:39 and 't look like right.*** The fol
 
 We decide to take a break and have a snack. Because BWCA campsites usually have
 a reasonably easy out and are often open the the breeze, we headed towards the
@@ -181,10 +190,15 @@ weather well into the evening.
 
 ![Royce cooking. Moose Bay on Basswood River 2025-08-07 18:13:14](./attachments/202508071813-000.jpeg "Royce cooking. Moose Bay on Basswood River 2025-08-07 18:13:14")
 
-## 2025-08-08 Day 3: Moose Bay of Basswood River to Canadian Point (English Channel) on Basswood Lake
+## 2025-08-08 Day 3: Moose Bay of Basswood River to Canadian Point on Basswood Lake
 
-Oh God, the bugs. We're lucky that they're not nearly as active in the
-morning.
+<!-- I logged this location the next morning. Coordinates and elevation got from that. The coordinates are very close to the GPS waypoint 20250808 and the elevation from map. -->
+### 2025-08-08T17:59:40-05:00 (48.06107, -91.56269) 1297 feet: Camp on Canadian Point
+
+![Royce in camp on Canadian Point of Basswood Lake](./attachments/202508081915-001.jpeg "Royce in camp on Canadian Point of Basswood Lake")
+
+Oh God, the bugs last night. We've been lucky that they're not nearly as active
+in the morning.
 
 ![Royce and canoe. Camp on Moose Bay of Basswood River](./attachments/202508080656-000.jpeg "Royce and canoe. Camp on Moose Bay of Basswood River")
 
@@ -198,15 +212,18 @@ The Lower Basswood Falls portage was easy.
 
 ![Downstream of Lower Basswood Falls](./attachments/202508080840-000.jpeg "Downstream of Lower Basswood Falls")
 
-## 2025-08-09 Day 4: Basswood River to Canadian Point (English Channel) on Basswood Lake
+## 2025-08-09 Day 4: Basswood Lake to Carp Lake
 
-### 2025-08-09T09:40:52-05:00 (48.06107, -91.56269) 1297 feet
+### 2025-08-09T09:40:52-05:00 (48.06107, -91.56269) 1297 feet: Breakfast on camp on Canadian Point
 
-It's been so long since I've done the Wheelbarrow Falls portage that
-I'd forgotten that the downstream end has some tricky
-paddling&mdash;particularly when coming upstream&mdash;where the currents of the
-two falls collide. In spots, the river had flooded the portage, but the
-trail bed was good and so we just sloshed through the water.
+THE FOLLOWING SEEMS TO BELONG TO 2025-08-08 BUT THEN WHERE IS
+
+It's been so long since I've done this route that that I'd forgotten that there
+is slightly tricky paddling where the currents of the two falls collide on the
+downstream end of the Wheelbarrow Falls Portage.
+
+In spots, the river had flooded the portage, but the trail bed was good and so
+we just sloshed through the water.
 
 I'd entirely forgotten about the short portage before the Horse Portage. The
 current was such that we couldn't land where I wanted to, which turned out to be
@@ -278,7 +295,11 @@ There is still a slight breeze from the south, so the thunderstorm brought no
 major weather change. The overcast is moderately thick, but not as thick as
 yesterday evening. A few bugs are around but not too many.
 
-#### 2025-08-10T08:36:25-05:00 (48.09174, -91.31100) 1370 feet: Day 5: Canadian Point on Basswood Lake to Carp Lake
+![Royce in camp on Carp Lake](./attachments/202508091826-000.jpeg "Royce in camp on Carp Lake")
+
+## 2025-08-10  Day 5: Canadian Point on Basswood Lake to Carp Lake
+
+### 2025-08-10T08:36:25-05:00 (48.09174, -91.31100) 1370 feet: Camp on Carp Lake
 
 The landing for this camp is through brush and there is no place to sit
 out or swim, but it's the best of a bad lot.
@@ -309,7 +330,7 @@ to continue on our planned route. I.e., paddle back to the portage to
 Seed Lake.
 
 The paddle across Basswood was as easy as I've ever had and we made
-very good time to Prairie.
+very good time to Prairie (we arrived there at 14:53).
 
 (Packing note: yesterday, we had moved both pairs of our Chaco &ldquo;magic
 sandals&rdquo; from the personal pack to the gear pack and were surprised how
@@ -335,7 +356,9 @@ Could these standing dead trees be from before that?
 
 ## 2025-08-10 Day 5: Carp Lake to Ottertrack Lake
 
-### 2025-08-10T20:28:15-05:00 (48.15676, -91.12724) 1409 feet
+![Royce on Big Knife Portage](./attachments/202508101133-000.jpeg "Royce on Big Knife Portage")
+
+### 2025-08-10T20:28:15-05:00 (48.15676, -91.12724) 1409 feet: Camp on Ottertrack Lake
 
 We made camp on the US side of Ottertrack, shortly after the portage from Knife
 Lake.
@@ -394,14 +417,18 @@ THen we head into Jasper and further north into Quetico.
 
 ## 2025-08-11 Day 6: Ottertrack Lake to Saganons Lake
 
-### 2025-08-11T19:04:01-05:00 (48.26726, -91.04823) 1411 feet
+### 2025-08-11T19:04:01-05:00 (48.26726, -91.04823) 1411 feet: Camp on Saganons Lake
 
 Ottertrack Lake was as pretty as I remember. I snapped a few pictures
 that I'm sure do not do justice.
 
 Today, the portages were hard to find and and had difficult landings.
-The portage from Ottertrack to Jasper stopped at a pond where we paddled
-a few hundred feet to get to the next portage.
+
+The portage from Ottertrack to Jasper stopped at a pond (48.20708, -91.07873 to
+48.20694, -91.07861) where we had to paddle a few hundred feet to get to the
+next portage.
+
+![Royce on portage after mid trail pond on Ottertrack to Jasper](./attachments/202508111219-000.jpeg "oyce on portage after mid trail pond on Ottertrack to Jasper")
 
 The landings for the portage between Jasper Lake and Lillypad Lake was
 difficult on both sides, but the trail was fairly easy and showed recent
@@ -409,20 +436,19 @@ maintenance.
 
 We had lunch on Jasper at quite a nice site. But we have miles to go.
 
-The last portage, from Lillypad to Saganons was, by far, the worst of
-the day. The start was so steep that when I tipped the bow far enough
-up, it was a fight to keep the boat balanced. Before each step, I had to
-carefully pick where to put my feet and to gather my strength&mdash;nothing
-like the quick &ldquo;giant step, quick step, step, step, giant step&rdquo; of years
-past. On the descent, the canoe repeatedly slid forward, off my
-shoulders, until it rested on my neck. The finish was a muddy stream
-that was &ldquo;too thin to portage and too thick to paddle.&rdquo; which gradually
-opened to Saganons. It required much shenanigans to get our gear, and
-then ourselves away from shore and into the canoe. Taking a page from
-Peter delValle, we loaded the canoe and then pushed it while sinking
-past our knees in the muck and floating grass, until eventually the
-water was deep enough to float the canoe while we oh-so-gracefully
-embarked.
+The last portage, from Lillypad to Saganons was, by far, the worst of the day.
+The start was so steep that when I tipped the bow far enough up, I had to fight
+to keep the boat from sliding off backwards. Before each step, I had to
+carefully pick where to put my feet and to gather my strength&mdash;nothing like
+the quick &ldquo;giant step, quick step, step, step, giant step&rdquo; of years
+past. On the descent, the canoe repeatedly slid forward, off my shoulders, until
+it rested on my neck. The finish was a muddy stream that was &ldquo;too thin to
+portage and too thick to paddle.&rdquo; which gradually opened to Saganons. It
+required much shenanigans to get our gear, and then ourselves away from shore
+and into the canoe. Taking a page from Peter delValle, we loaded the canoe and
+then pushed it while sinking past our knees in the muck and floating grass,
+until eventually the water was deep enough to float the canoe while we
+oh-so-gracefully embarked.
 
 We saw toad on the portage and a leopard frog at the lake. That portage
 left us both so tired enough we stopped early. We got the tent up and
