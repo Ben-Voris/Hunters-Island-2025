@@ -211,6 +211,8 @@ The Lower Basswood Falls portage was easy.
 
 ![Downstream of Lower Basswood Falls 2025-08-08 08:40](./attachments/202508080840-000.jpeg "Downstream of Lower Basswood Falls 2025-08-08 08:40")
 
+Camp around 18:00
+
 ## 2025-08-09 Day 4: Basswood Lake to Carp Lake
 
 ### 2025-08-09T09:40:52-05:00 (48.06107, -91.56269) 1297 feet: Breakfast on camp on Canadian Point
@@ -256,8 +258,13 @@ The overcast so thick that I wondered how late it was (it was only 19:00). As
 usual distances and sizes are not intuitive to us, so we spent time double
 checking the map and GPS. Mildly annoying, but we never went astray.
 
-Got into camp, set up the tent, and have tequila and limes. This is a
-pleasant campsite although footing is bad&mdash;rocks and sticks everywhere.
+<!-- Got into camp time of 18:00 is for 2025-08-09 and is based on the picture.
+     However, the 20250809 waypoint was created at 18:41. -->
+
+![Royce in camp on Carp Lake 2025-08-09 18:26](./attachments/202508091826-000.jpeg "Royce in camp on Carp Lake 2025-08-09 18:26")
+
+Got into camp after 18:00. We set up the tent and had tequila and limes. This is
+a pleasant campsite although footing is bad&mdash;rocks and sticks everywhere.
 
 We are tired. Royce made a quick meal of dried chicken, dried vegetables, and
 ramen. It was better than the backpacker meals and only a little messier (one
@@ -293,8 +300,6 @@ our camp discipline is good.)
 There is still a slight breeze from the south, so the thunderstorm brought no
 major weather change. The overcast is moderately thick, but not as thick as
 yesterday evening. A few bugs are around but not too many.
-
-![Royce in camp on Carp Lake 2025-08-09 18:26](./attachments/202508091826-000.jpeg "Royce in camp on Carp Lake 2025-08-09 18:26")
 
 ## 2025-08-10 Day 5: Canadian Point on Basswood Lake to Carp Lake
 
@@ -359,31 +364,28 @@ Could these standing dead trees be from before that?
 
 ### 2025-08-10T20:28:15-05:00 (48.15676, -91.12724) 1409 feet: Camp on Ottertrack Lake
 
-We made camp on the US side of Ottertrack, shortly after the portage from Knife
-Lake.
+We paddled into a headwind when we left camp on Carp, but then most of the day
+we were paddling in ideal conditions. The last couple of hours on Knife were
+challenging with quartering winds on the stern. Even so, we made great time,
+topping out at 5 mph for short stretches.
 
-We paddled into a headwind when we left camp on Carp, but then most of
-the day we were paddling in ideal conditions. The last couple of hours
-on Knife were challenging with quartering winds on the stern. Even so,
-we made great time, topping out at 5 mph for short stretches.
+The portage from Carp to Melon, our first, was packed. There were at least three
+parties: one couple and two groups of guys. The guys were carrying a menagerie
+of gear: packs, duffels, boxes, and hand-junk. Though I sometimes I feel we need
+to improve how we portage, when I see something like them, I don't feel quite so
+bad.
 
-The portage from Carp to Melon, our first, was packed. There were at
-least three parties: one couple and two groups of guys. The guys were
-carrying a menagerie of gear: packs, duffels, boxes, and hand-junk.
-Though I sometimes I feel we need to improve how we portage, when I see
-something like them, I don't feel quite so bad.
+Saw a lot of loons today. One pair of let us paddle within 6 feet.
 
-Saw many loons. One pair of let us paddle within 6 feet.
-
-On one of the portages, we met a couple and their seven-year-old and
+On one of the Knife river portages, we met a couple and their seven-year-old and
 five-year-old girls. Mom made it known that both daughters were experienced
 voyageurs and &ldquo;portage queens&rdquo;. The older had made her first canoe
 trip at age 3 on Seagull Lake and said that she remembered how fun it was to
 portage to Alpine for a picnic. The younger raised her arms and yelled
 &ldquo;Yay!&rdquo; whenever mom or dad said &ldquo;portage queens&rdquo;.
 
-Had lunch on the west campsite on Robbins Island and took a 15 or 20
-minute rest. It is a lovely site.
+Had lunch on the west campsite on Robbins Island at around 12:40 and took a 15
+or 20 minute rest. It is a lovely site.
 
 I had trouble finding the Knife Lake narrows. That is, I went directly to the
 right place but couldn't believe that what I was looking at was &ldquo;the
@@ -395,24 +397,24 @@ narrows.
 The Little Knife Portage (Knife to Ottertrack) was hidden by brush and was hard
 to find. It had the steepest climb&mdash;a real up-and-down.
 
-BWCA portages tend to be easy to find, well-traveled, and well
-maintained. The portages today were no exception.
+BWCA portages tend to be easy to find, well-traveled, and well maintained. The
+portages today were no exception.
 
-We finished the last of the tequila and switched to bourbon and had our
-first backpacker meal. As before, it is food. They have reduced the
-sodium but have not improved the taste. Royce had a particularly
-reprehensible take on Spanish Rice called *Italian Style Pepper Steak*.
-I found it boring but edible.
+We finished the last of the tequila and switched to bourbon and had our first
+backpacker meal. As before, it is food. They have reduced the sodium but have
+not improved the taste. Royce had a particularly reprehensible take on Spanish
+Rice called *Italian Style Pepper Steak*. I found it boring but edible.
 
-Good day and good weather. Paddling was challenging enough to keep me
-focused. The wind forced me to paddle on one side for long stretches
-which was awfully tiring, but needs must.
+Good day and good weather. Paddling was challenging enough to keep me focused.
+The wind forced me to paddle on one side for long stretches which was awfully
+tiring, but needs must.
 
-Campsite is on the US side. They are notably more heavily used and have
+We made camp around 16:30 on the US side of Ottertrack, shortly after the
+portage from Knife Lake. The US campsites are notably more used and have
 obnoxious/aggressive chipmunks.
 
-Tomorrow, we turn north into a bay of Ottertrack that I've never seen.
-THen we head into Jasper and further north into Quetico.
+Tomorrow, we turn north into a bay of Ottertrack that I've never seen. THen we
+head into Jasper and further north into Quetico.
 
 ## 2025-08-11 Day 6: Ottertrack Lake to Saganons Lake
 
@@ -420,6 +422,9 @@ THen we head into Jasper and further north into Quetico.
 
 Ottertrack Lake was as pretty as I remember. I snapped a few pictures
 that I'm sure do not do justice.
+
+![Cliffs on Ottertrack 2025-08-11 10:42](
+attachments/202508111042-001.jpeg "Cliffs on Ottertrack 2025-08-11 10:42")
 
 Today, the portages were hard to find and and had difficult landings.
 
@@ -429,9 +434,8 @@ next part of the portage.
 
 ![Royce on portage after mid trail pond on Ottertrack to Jasper 2025-08-11 12:19](./attachments/202508111219-000.jpeg "Royce on portage after mid trail pond on Ottertrack to Jasper 2025-08-11 12:19")
 
-The landings for the portage between Jasper Lake and Lillypad Lake was
-difficult on both sides, but the trail was fairly easy and showed recent
-maintenance.
+The landings for the portage between Jasper Lake and Lillypad Lake was difficult
+on both sides, but the trail was fairly easy and showed recent maintenance.
 
 We had lunch on Jasper at quite a nice site. But we have miles to go.
 
@@ -451,16 +455,18 @@ oh-so-gracefully embarked.
 
 ![Royce on Saganons end of portage from Lillypad 2025-08-11 15:37](./attachments/202508111537-000.jpeg "Royce on Saganons end of portage from Lillypad 2025-08-11 15:37")
 
-We saw toad on the portage and a leopard frog at the lake. That portage
-left us both so tired enough we stopped early. We got the tent up and
-took a quick swim to rinse off some of the loon poop.
+We saw toad on the portage and a leopard frog at the lake. That portage left us
+both so tired enough we stopped early. We got the tent up and took a quick swim
+to rinse off some of the loon poop.
 
-Sometime after lunch, the smoke started to blow in. Red sky now even
-though the sun is a couple hand widths above the horizon.
+Sometime after lunch, the smoke started to blow in. Red sky now even though the
+sun is a couple hand widths above the horizon.
 
-In tent at 2020. When the wind started to die down, the mosquitoes
-started to buzz. But by then we had camp set for the night, our teeth
-brushed, etc., and so were ready to pop into the tent.
+Reached camp around 16:00.
+
+In tent at 20:20. When the wind started to die down, the mosquitoes started to
+buzz. But by then we had camp set for the night, our teeth brushed, etc., and so
+were ready to pop into the tent.
 
 ## 2025-08-12 Day 7: Saganons Lake to Koko Falls
 
@@ -488,8 +494,8 @@ Thunderstorm blew through while we were portaging. Hazy overcast now.
 
 ### 2025-08-12T21:14:03-05:00 (48.31543, -91.11356) 1365 feet Camp on Koko Falls Portage
 
-It was getting dark, so we made camp on a marginal site near Koko Falls, just
-off the portage.
+It was getting dark, so we made camp at around 19:20 on a marginal site near
+Koko Falls, just off the portage.
 
 We've been the tent for a few minutes. If only we've been here a few tens of
 minutes earlier so we could've done things like our brush teeth.
@@ -549,6 +555,8 @@ had not been used in a long time. The put-in was horrible&mdash;rocks. Maybe, if
 we'd been wearing magic sandals and had been ten years younger, we might've have
 jumped out on the sloped smooth rock but anything else would have required
 navigating around underwater obstructions.
+
+Arrived in camp around 17:00.
 
 This site has a sand landing and some work has been done to take trees down. Not
 sure why, since we understand that Quetico does not do maintenance of campsites.
@@ -643,12 +651,19 @@ between boulders that were at 3 to 5 feet high, with several feet between each
 bolder. It was extra exciting to step between them while carrying the guide pack
 and the canoe.
 
-Some portages were a few hundred feet off where the maps indicated. With a
-little careful paddling close to shore, the locations were close enough, but I
-updated any location that was off by more than a few tens of feet.
+![Royce on Keats to Chatterton portage - bounding over boulders 2025-08-15 13:22](./attachments/202508151322-001.jpeg "Royce on Keats to Chatterton portage - bounding over boulders 2025-08-15 13:22")
 
-We camped early on Russell Lake. Our plan is to hang out and enjoy the gorgeous
-view from our two-story walk-up campsite.
+Some portages were a few hundred feet off where the maps showed them, so we
+learned to get as close to shore as possible well upstream of the obstacle and
+to paddle carefully. If the actual portage was off by more than a few tens of
+feet from the map/GPS, I updated my waypoint.
+
+We camped early on Russell Lake, around 15:40. The main camp is a two-story
+walkup&mdash;about a hundred yards and a 30 feet or so up from the landing to
+the main camp. Our plan is to hang out and enjoy the pleasant weather and the
+gorgeous view.
+
+![Royce coming into camp on Russell Lake 2025-08-15 16:44](./attachments/202508151644-000.jpeg "Royce coming into camp on Russell Lake 2025-08-15 16:44")
 
 We saw one canoe in the far distance.
 
@@ -706,16 +721,18 @@ advantage of the perfect paddling conditions and push to the end of Sturgeon
 Lake.
 
 After we turned towards the portage into the Maligne River, we took the first
-campsite. It has one reasonable tent site and rocks that have enough breeze that
-we could enjoy the sunset without being chased into the tent. Plus we had a
-number of dragonflies to provide air cover (hunting around us).
+campsite just after 16:30. It has one reasonable tent site and rocks that have
+enough breeze that we could enjoy the sunset without being chased into the tent.
+Plus we had a number of dragonflies to provide air cover (hunting around us).
 
 The canoe gods smiled on us again. We crossed Sturgeon under warm and mostly
 cloudless skies. The trailing wind occasionally threatened to build up to
 something worrisome but always subsided. I don't know our average speed, but I
 would expect it to be around 4 mph.
 
-![View from camp near SW end of Sturgeon Lake 2025-08-16 20:11](./attachments/202508162011-000.jpeg "View from camp near SW end of Sturgeon Lake")
+![Hash browns, hamburger, and gravy on Russell Lake 2025-08-16 18:48](./attachments/202508161848-000.jpeg "Hash browns, hamburger, and gravy on Russell Lake 2025-08-16 18:48")
+
+![Sunset view from camp near SW end of Sturgeon Lake 2025-08-16 20:11](./attachments/202508162011-000.jpeg "Sunset view from camp near SW end of Sturgeon Lake 2025-08-16 20:11")
 
 ## 2025-08-17 Day 11: End of Sturgeon Lake to Maligne River
 
@@ -751,11 +768,11 @@ its sterling qualities on lakes, the MN2 is *not* a white water boat.
 Soon after the Maligne widened to become Tanner Lake, we entered a burn area. We
 found a campsite on an island, but it was pretty depressing.
 
-We found a camp site above a small falls, past the burn, just east of the
-southern tip of May Island. It's a large and well used site, that is surrounded
-by pines and firs. There are multiple tent sites. I pick the one that that
-seemed most level and discover there's not enough dirt over the rock to drive
-even one stake. Fortunately, there are plenty of rocks.
+We found our camp site at around 16:30. It is above a small falls, past the
+burn, and is just east of the southern tip of May Island. It's a large and well
+used site, that is surrounded by pines and firs. There are multiple tent sites.
+I pick the one that that seemed most level and discover there's not enough dirt
+over the rock to drive even one stake. Fortunately, there are plenty of rocks.
 
 ![View of Tanner Lake falls from camp near May Island 2025-08-17 17:14](./attachments/202508171714-000.jpeg "View of Tanner Lake falls from camp near May Island 2025-08-17 17:14")
 
@@ -799,11 +816,10 @@ Portage&rdquo;.
 
 ![Twin Falls on Maligne River 2025-08-18 14:02](./attachments/202508181402-001.jpeg "Twin Falls on Maligne River 2025-08-18 14:02")
 
-We're on the campsite we used on any early 2000s&mdash;maybe 2004&mdash;trip
-with Royce, his two sons, and me and was the occasion of the great dunking.
-
-The river below the falls is quite frothy. Royce recalls that, on the circa 2004
-trip, the flow was much, much less and that he fished below the falls.
+We made camp at around 14:00 on the site we used on our circa 2004 trip with
+Royce, his two sons, and me&mdash; the occasion of &ldquo;the great
+dunking&rdquo;. Today, the water below camp is quite frothy, a far cry from the
+relatively placid water that Royce recalls fishing in back then.
 
 Because of the misting rain and calm winds, the mosquitos chased us into the
 tent earlier than usual.
