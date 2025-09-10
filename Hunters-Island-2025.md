@@ -805,6 +805,9 @@ with Royce, his two sons, and me and was the occasion of the great dunking.
 The river below the falls is quite frothy. Royce recalls that, on the circa 2004
 trip, the flow was much, much less and that he fished below the falls.
 
+Because of the misting rain and calm winds, the mosquitos chased us into the
+tent earlier than usual.
+
 ## 2025-08-19 Day 13: Twin Falls on Maligne to Eau Claire
 
 ### 2025-08-19T07:49:27-05:00 (48.37089, -91.93478) 1198 feet
@@ -813,30 +816,10 @@ trip, the flow was much, much less and that he fished below the falls.
 
 The last morning of the trip. Everything is damp but it's not raining.
 
-Leslie has confirmed our pickup on Bell Island.
-
-Zups picks us up right on schedule and takes to their base. After
-settling our bill, they took us to Crane Lake where we cleared automated
-customs.
-
-For most of the day, mosquitoes were about average. But at around 20:00, they
-turn into a pestilence. Having said that, tonight, because of the misting rain
-and calm winds, they chased us into the tent a bit earlier. On a wind protected
-portage, they were sometimes more of an annoyance.
-
-At the beginning of the trip we sweated a lot on the portages and when we first
-went to the tent.
-
-The new Big Agnes tent is a marked improvement over the Timberline 4 that it
-replaced. It's lighter, smaller when packed, roomy for two and gear, and is more
-stable in the wind. So far, it's only faults are the issues with closing its
-door and undoing the toggle for the rain fly. The Timberline zippers had the
-same problem, though they were less finicky.
-
-Some Apple defect locked the satellite conversation with Leslie, so I'm very
-glad I had the inReach. Also, it was much harder to get a satellite fixed here
-than in Boise. Perhaps a combination of latitude and that there are many more
-trees?
+Yesterday, Leslie confirmed our pickup on Bell Island with Zups and today, they
+pick us up right on schedule. The first run is to their base, where I settle our
+bill. Then they run us to Crane Lake, where we cleared customs at an automated
+kiosk.
 
 We were so focused on tying down the canoe that we left the pack that held all
 of our clothes, sleeping bags etc., and my PFD on the docks at Crane Lake. We
@@ -846,3 +829,29 @@ camp. And then we didn't. Fortunately, someone at Scott's brought them in, and w
 ## 2025-08-21 Leave Eau Claire
 
 Leaving Eau Claire to celebrate Ripley's 1 1/2 birthday.
+
+## General notes
+
+Except around sundown, mosquitoes were about average. But at around 20:00, they
+turn into a pestilence. On a wind protected portage, they were sometimes more of
+an annoyance. Because of them, even on clear nights, we didn't sit out to star
+gaze.
+
+On one of the early nights, I saw a light flashing outside the tent. After a
+while trying and failing to identify what gadget was making the light, I
+realized I was looking a few fire flies. This is the farthest north I've ever
+seen them.
+
+At the beginning of the trip we sweated a lot on the portages and when we first
+went to the tent. I wore my sun hoodie to keep sweat off things.
+
+Compared to the Timberline 4 tent that it replaced, the new Big Agnes is
+lighter, smaller, more stable in the wind, and is roomy for two with our gear.
+So far, its only faults are how careful one must be when closing the zippers and
+when undoing the toggle for the rain fly. The Timberline zippers had the same
+problem, though they were less finicky.
+
+Some Apple defect locked the satellite conversation with Leslie, so I'm very
+glad I had the inReach. Also, it was much harder to get a satellite fixed here
+than in Boise. Perhaps a combination of latitude and that there are many more
+trees?
