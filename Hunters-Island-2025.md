@@ -2,19 +2,20 @@
 
 ## Index
 
-1. [Lac la Croix to Crooked Lake](#2025-08-06-day-1-lac-la-croix-to-crooked-lake-north-of-saturday-bay)
-2. [Crooked Lake to Basswood River](#2025-08-07-day-2-crooked-lake-to-moose-bay-of-basswood-river)
-3. [Basswood River to Basswood Lake](#2025-08-08-day-3-moose-bay-of-basswood-river-to-canadian-point-on-basswood-lake)
-4. [Basswood Lake to Basswood Lake to Carp Lake](#2025-08-09-day-4-basswood-lake-to-carp-lake)
-5. [Carp Lake to Ottertrack Lake](#2025-08-10-day-5-carp-lake-to-ottertrack-lake)
-6. [Ottertrack Lake to Saganons Lake](#2025-08-11-day-6-ottertrack-lake-to-saganons-lake)
-7. [Saganons Lake to Koko Falls](#2025-08-12-day-7-saganons-lake-to-koko-falls)
-8. [Koko Falls to west of Rose Island on Kawnipi Lake](#2025-08-13-day-8-koko-falls-to-west-of-rose-island-on-kawnipi-lake)
-9. [Kawnipi Lake to Russell Lake](#2025-08-15-day-9-kawnipi-lake-to-russell-lake)
-10. [Russell Lake to the end of Sturgeon Lake](#2025-08-16-day-10-russell-lake-to-the-end-of-sturgeon-lake)
-11. [End of Sturgeon Lake to Maligne River](#2025-08-17-day-11-end-of-sturgeon-lake-to-maligne-river)
-12. [Maligne River to Twin Falls on the Maligne River](#2025-08-18-day-12-tanner-lake-to-twin-falls-on-the-maligne-river)
-13. [Twin Falls on Maligne to Eau Claire](#2025-08-19-day-13-twin-falls-on-maligne-to-eau-claire)
+ 1. 2025-08-06 - [Bottle Portage on Lac la Croix to island N of Saturday Bay Crooked Lake](#2025-08-06-day-1-bottle-portage-on-lac-la-croix-to-island-n-of-saturday-bay-crooked-lake)
+ 2. 2025-08-07 - [Crooked Lake to Moose Bay on Basswood River](#2025-08-07-day-2-crooked-lake-to-moose-bay-of-basswood-river)
+ 3. 2025-08-08 - [Basswood River to Canadian Point of Basswood Lake](#2025-08-08-day-3-moose-bay-of-basswood-river-to-canadian-point-on-basswood-lake)
+ 4. 2025-08-09 - [Basswood Lake to small island on Carp Lake](#2025-08-09-day-4-canadian-point-on-basswood-lake-to-carp-lake)
+ 5. 2025-08-10 - [Carp Lake to Ottertrack Lake near Little Knife Portage](#2025-08-10-day-5-carp-lake-to-ottertrack-lake)
+ 6. 2025-08-11 - [Ottertrack Lake to Saganagons Lake](#2025-08-11-day-6-ottertrack-lake-to-saganagons-lake)
+ 7. 2025-08-12 - [Saganagons Lake to Koko Falls portage](#2025-08-12-day-7-saganagons-lake-to-koko-falls)
+ 8. 2025-08-13 - [Koko Falls to island SW of Rose Island on Kawnipi Lake](#2025-08-13-day-8-koko-falls-to-west-of-rose-island-on-kawnipi-lake)
+ 9. 2025-08-14 - [Kawnipi Lake to burned island on Shelly Lake](#2025-08-14-day-9-west-of-rose-island-on-kawnipi-lake-to-shelly-lake)
+10. 2025-08-15 - Shelly Lake to downstream of Chatterton Falls on Russell Lake
+11. 2025-08-16 - Russell Lake to SW end of Sturgeon Lake, near exit to Maligne River
+12. 2025-08-17 - Maligne River to Tanner Lake E of May Island
+13. 2025-08-18 - Tanner Lake to Lou Island below Twin Falls of the Maligne River
+14. 2025-08-19 - [Twin Falls on Maligne to Eau Claire](#2025-08-19-day-13-twin-falls-on-maligne-to-eau-claire)
 
 ## 2025-08-03 Boise to Eau Claire
 
@@ -33,7 +34,7 @@ to access.
 
 ## 2025-08-05 Eau Claire to Zups
 
- We set an alarm for 0-dark-thirty. Brenda takes what she calls &ldquo;the final
+We set an alarm for 0-dark-thirty. Brenda takes what she calls &ldquo;the final
 picture.&rdquo;
 
 ![Ben and Royce, ready to roll 2025-08-05 08:26](./attachments/202508050826-000.jpeg "Ben and Royce, ready to roll 2025-08-05 08:26")
@@ -44,31 +45,39 @@ and headed off.
 
 ![Royce in Zups boat on the way to Canadian customs 2025-08-05 15:56](./attachments/202508051556-000.jpeg "Royce in Zups boat on the way to Canadian customs 2025-08-05 15:56")
 
-Clearing customs on Sandpoint Lake was painless. We were met by two agents and
-briefly chatted with one. The fact that we were slightly over our duty-free
-liquor allotment was waved off, and we were on our way, including two rail
-portages.
+Clearing Canadian customs was painless. We were met by two agents at their dock
+on Sandpoint Lake. One checked Royce's and my passports, briefly chatted with
+us, and waved off that we were slightly over our duty-free liquor allowance. The
+rest of the passengers were handled equally expeditiously, and we were on our
+way.
+
+Years ago, Dwight and I paddled to the Beatty Portage (Little Loon Lake
+to Lac la Croix) because I thought the name was fun. Now I’ve seen the Loon River
+Portage (Little Vermillion Lake to Loon River), and, for the first time, I’ve seen
+both both railroads in operation.
 
 ![Beatty rail Portage for Loon Falls 2025-08-05 16:38](./attachments/202508051638-001.jpeg "Beatty rail Portage for Loon Falls 2025-08-05 16:38")
 
-Cold beer. Dinner is minestrone soup, pasta salad, good prime rib, baked
-potato, and asparagus. Carrot cake for dessert. Our server was a young woman
-from New Zealand who works at a similar operation in New Zealand during
-their summer.
+Royce is very happy that Zups has cold beer. Dinner was minestrone soup, pasta
+salad, generous slices of a well-prepared prime rib, baked potato, and
+bacon-wrapped asparagus, with carrot cake for dessert. Our server was a young
+woman from New Zealand. She told us that she works a similar operations
+year-round, but alternates between northern and southern hemisphere, so that she
+never works in winter weather.
 
 ![Table for two at Zups 2025-08-05 18:03](./attachments/202508051803-000.jpeg "Table for two at Zups 2025-08-05 18:03")
 
-After dinner, we were shuttled to rooms on another island. The room was
-acceptably shabby, but we were surprised at the lack of potable water.
-Fortunately, I'd filled our bottles at the dining hall.
+After dinner, we were shuttled to a room on another island. The room leaned
+run-down Motel 6, but was acceptable. We were surprised at the lack of potable
+water. Fortunately, I'd filled our bottles at the dining hall.
 
 A small group was cleaning fish on the dock.
 
 ![Royce in room at Zups 2025-08-05 19:53](./attachments/202508051953-000.jpeg "Royce in room at Zups 2025-08-05 19:53")
 
-Threatening rain.
+As we head to bed, mosquitoes are starting to bite, and rain is threatening.
 
-## 2025-08-06 Day 1: Lac la Croix to Crooked Lake, north of Saturday Bay
+## 2025-08-06 Day 1: Bottle Portage on Lac la Croix to island N of Saturday Bay Crooked Lake
 
 We've been in camp for an hour or so. I used the inReach to let the home front
 know that we are here and that we are safe.
@@ -78,36 +87,35 @@ dropped us off at Bottle Portage.
 
 Before they were were dropped off at Black Robe Portage, we shared the boat with
 a family that was taking their first canoe trip. Mom was *way* out of her
-comfort zone but was being brave&mdash;the ride to Zups was her first time in a
-boat, and she had taken her first swim lessons. Dad had been on fishing trips
-before but had been one of the guys, not the guide. The daughter, who I guessed
-to be about 10, was all in on whatever dad was doing. Grandma and grandpa seemed
-bemused. Mom's brother seemed to think he would be lounging on a beach. Their
-tent was huge and was meant for car camping&mdash;it even included a porch. It's
-case had little wheels that might've been appropriate for a paved campground but
-not for even the best of portages. As I understood them, their plan was to put
-six people in one large canoe and to tow a solo canoe, which would hold their
-gear. I wish them well.
+comfort zone but was being brave&mdash;her first time in a boat was her trip to
+Zups, yesterday. She took her first swim lessons to prepare for this trip. Dad
+had been on fishing trips before but had not led one. The daughter, who I
+guessed to be about 10, was all in on whatever dad was doing. Grandma and
+grandpa seemed bemused. Mom's brother seemed to think he would be lounging on a
+beach. Their tent was huge and was meant for car camping&mdash;it even included
+a porch. It's case had little wheels that might've been appropriate for a paved
+campground but not for even the best of portages. As I understood them, their
+plan was to put six people in one large canoe and to tow a solo canoe, which
+would hold their gear. I wish them well.
 
-Royce used trekking poles on the portages, which he said helped.
+This year, Royce is trying using trekking poles on the portages. So far, he
+feels they help.
 
-Saw a few groups on portages.
+Saw a few groups on the portages.
 
 The paddle through Bottle Lake and Iron Lake was easy and fast.
 
 ![Royce at Crooked Lake side of Curtain Falls 2025-08-06 12:09](./attachments/202508061209-002.jpeg "Royce at Crooked Lake side of Curtain Falls 2025-08-06 12:09")
 
 The Curtain Falls portage took something out of both of us. On Crooked, the wind
-started to build, so I took us deep into Sunday Bay for protection from the SSW
-wind. The wind kept building, but the gusts were my biggest concern. We both got
+started to build, so to protect us from the SSW wind, I took us deep into Sunday
+Bay. The wind kept building, but the gusts were my biggest concern. We both got
 so tired we pulled up next to shore to take a break. Since we have a BWCA
 permit, we decided to not fight the wind and to camp on the US side.
 
-We leapfrogged a group of seven that were traveling in aluminum canoes.
-(We later learned they are scouts.) Because of the differences between
-canoes and our better technique, we moved much faster on the water than
-they did. But even the woman that needed help getting her pack on moved
-faster on the trail than I.
+We leapfrogged a group of seven young people that are using aluminum canoes. (We
+later learned they are scouts.) Because of the MN2 is a fast boat and our better
+technique, we moved much faster on the water than they did.
 
 The wind made is somewhat difficult to set up the tent, but with that done, we
 have &ldquo;cocktail a few minutes&rdquo;&mdash;El Jimador with lime and salt,
@@ -207,17 +215,14 @@ milestone. Quick math told me that the sum of ages of the scouts & their guides
 added up to less than the sum of our ages and that our canoe is older than any
 two of them.
 
+One of their group, a young women who was outweighed by one of their pack and
+who I helped get into her pack, moved faster on the trail than I.
+
 The Lower Basswood Falls portage was easy.
 
 ![Downstream of Lower Basswood Falls 2025-08-08 08:40](./attachments/202508080840-000.jpeg "Downstream of Lower Basswood Falls 2025-08-08 08:40")
 
 Camp around 18:00
-
-## 2025-08-09 Day 4: Basswood Lake to Carp Lake
-
-### 2025-08-09T09:40:52-05:00 (48.06107, -91.56269) 1297 feet: Breakfast on camp on Canadian Point
-
-<!-- MUCH OF THE FOLLOWING IS FOR 2025-08-08. WHERE DOES 2025-08-09 START? -->
 
 It's been so long since I've done this route that that I'd forgotten that there
 is slightly tricky paddling where the currents of the two falls collide on the
@@ -257,6 +262,10 @@ more than an hour.
 The overcast so thick that I wondered how late it was (it was only 19:00). As
 usual distances and sizes are not intuitive to us, so we spent time double
 checking the map and GPS. Mildly annoying, but we never went astray.
+
+## 2025-08-09 Day 4: Canadian Point on Basswood Lake to Carp Lake
+
+### 2025-08-09T09:40:52-05:00 (48.06107, -91.56269) 1297 feet: Breakfast on camp on Canadian Point
 
 <!-- Got into camp time of 18:00 is for 2025-08-09 and is based on the picture.
      However, the 20250809 waypoint was created at 18:41. -->
@@ -301,7 +310,7 @@ There is still a slight breeze from the south, so the thunderstorm brought no
 major weather change. The overcast is moderately thick, but not as thick as
 yesterday evening. A few bugs are around but not too many.
 
-## 2025-08-10 Day 5: Canadian Point on Basswood Lake to Carp Lake
+## 2025-08-10 Day 5: Carp Lake to Ottertrack Lake
 
 ### 2025-08-10T08:36:25-05:00 (48.09174, -91.31100) 1370 feet: Camp on Carp Lake
 
@@ -358,7 +367,7 @@ how many down trees there in the water. A few trees are standing well
 out in the lake. The first dam at Prairie Portage was built around 1900.
 Could these standing dead trees be from before that?
 
-## 2025-08-10 Day 5: Carp Lake to Ottertrack Lake
+
 
 ![Royce on Big Knife Portage 2025-08-10 11:33](./attachments/202508101133-000.jpeg "Royce on Big Knife Portage 2025-08-10 11:33")
 
@@ -416,9 +425,9 @@ obnoxious/aggressive chipmunks.
 Tomorrow, we turn north into a bay of Ottertrack that I've never seen. THen we
 head into Jasper and further north into Quetico.
 
-## 2025-08-11 Day 6: Ottertrack Lake to Saganons Lake
+## 2025-08-11 Day 6: Ottertrack Lake to Saganagons Lake
 
-### 2025-08-11T19:04:01-05:00 (48.26726, -91.04823) 1411 feet: Camp on Saganons Lake
+### 2025-08-11T19:04:01-05:00 (48.26726, -91.04823) 1411 feet: Camp on Saganagons Lake
 
 Ottertrack Lake was as pretty as I remember. I snapped a few pictures
 that I'm sure do not do justice.
@@ -439,21 +448,21 @@ on both sides, but the trail was fairly easy and showed recent maintenance.
 
 We had lunch on Jasper at quite a nice site. But we have miles to go.
 
-The last portage, from Lillypad to Saganons was, by far, the worst of the day.
+The last portage, from Lillypad to Saganagons was, by far, the worst of the day.
 The start was so steep that when I tipped the bow far enough up, I had to fight
 to keep the boat from sliding off backwards. Before each step, I had to
 carefully pick where to put my feet and to gather my strength&mdash;nothing like
 the quick &ldquo;giant step, quick step, step, step, giant step&rdquo; of years
 past. On the descent, the canoe repeatedly slid forward, off my shoulders, until
 it rested on my neck. The finish was a muddy stream that was &ldquo;too thin to
-portage and too thick to paddle.&rdquo; which gradually opened to Saganons. It
+portage and too thick to paddle.&rdquo; which gradually opened to Saganagons. It
 required much shenanigans to get our gear, and then ourselves away from shore
 and into the canoe. Taking a page from Peter delValle, we loaded the canoe and
 then pushed it while sinking past our knees in the muck and floating grass,
 until eventually the water was deep enough to float the canoe while we
 oh-so-gracefully embarked.
 
-![Royce on Saganons end of portage from Lillypad 2025-08-11 15:37](./attachments/202508111537-000.jpeg "Royce on Saganons end of portage from Lillypad 2025-08-11 15:37")
+![Royce on Saganagons end of portage from Lillypad 2025-08-11 15:37](./attachments/202508111537-000.jpeg "Royce on Saganagons end of portage from Lillypad 2025-08-11 15:37")
 
 We saw toad on the portage and a leopard frog at the lake. That portage left us
 both so tired enough we stopped early. We got the tent up and took a quick swim
@@ -468,7 +477,7 @@ In tent at 20:20. When the wind started to die down, the mosquitoes started to
 buzz. But by then we had camp set for the night, our teeth brushed, etc., and so
 were ready to pop into the tent.
 
-## 2025-08-12 Day 7: Saganons Lake to Koko Falls
+## 2025-08-12 Day 7: Saganagons Lake to Koko Falls
 
 ### 2025-08-12T18:35:35-05:00 (48.31220, -91.11031) 1346 feet
 
@@ -476,7 +485,7 @@ We make dinner at the end of Little Falls portage since we figure that
 if we wait to make dinner until we're in camp, it'll be dark and we'd
 be swarmed by mosquitoes.
 
-We paddled around the big peninsula on Saganons because the portage was
+We paddled around the big peninsula on Saganagons because the portage was
 not where the *Fisher* and *NatGeo* maps show it. (One thing about the
 GPS&mdash;we know for sure where we are.) The *BRMB Paddling Trails* map
 shows the portage to the east, around a small peninsula, but we decided
@@ -484,7 +493,7 @@ not to take the time to look there. We made good time heading east and
 reasonably good time heading west. I don't know how much time or if we
 lost time paddling an extra seven miles vs. an unknown portage.
 
-![Royce. Lunch break on Saganons Lake 2025-08-12 13:03](./attachments/202508121303-000.jpeg "Royce. Lunch break on Saganons Lake 2025-08-12 13:03")
+![Royce. Lunch break on Saganagons Lake 2025-08-12 13:03](./attachments/202508121303-000.jpeg "Royce. Lunch break on Saganagons Lake 2025-08-12 13:03")
 
 Thunderstorm blew through while we were portaging. Hazy overcast now.
 
@@ -502,7 +511,7 @@ minutes earlier so we could've done things like our brush teeth.
 
 Another party was camped across the river from the start of the portage.
 
-We saw two groups of three canoes each. One on Saganons and the other
+We saw two groups of three canoes each. One on Saganagons and the other
 leaving the river.
 
 It was a longer day than we expected. We do a poor job of estimating
@@ -565,7 +574,7 @@ Maybe someone just decided the tree needed to go?
 Kawnipi was kind to us and gifted us with swift travels. She's a big lake and
 and we've already covered most of her.
 
-## 2025-08-14 Day ?: West of Rose Island on Kawnipi Lake to Shell Lake
+## 2025-08-14 Day 9: West of Rose Island on Kawnipi Lake to Shelly Lake
 
 ### 2025-08-14T20:56:40-05:00 (48.45243, -91.34913) 1279 feet
 
