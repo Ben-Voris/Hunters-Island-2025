@@ -2757,6 +2757,116 @@ Focal Length                    : 7.3 mm (35 mm equivalent: 40.0 mm)
 GPS Position                    : 48 deg 5' 29.54" N, 91 deg 18' 39.84" W
 Hyperfocal Distance             : 3.49 m
 Light Value                     : 10.3
+======== ../Hunters-Island-2025/attachments/202508111116-000.jpeg
+ExifTool Version Number         : 13.30
+File Name                       : 202508111116-000.jpeg
+Directory                       : ../Hunters-Island-2025/attachments
+File Size                       : 2.6 MB
+File Modification Date/Time     : 2025:09:11 19:31:37-06:00
+File Access Date/Time           : 2025:09:11 19:31:38-06:00
+File Inode Change Date/Time     : 2025:09:11 19:31:37-06:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Image Description               : OLYMPUS DIGITAL CAMERA
+Make                            : OLYMPUS CORPORATION
+Camera Model Name               : TG-4
+Orientation                     : Horizontal (normal)
+X Resolution                    : 314
+Y Resolution                    : 314
+Resolution Unit                 : inches
+Software                        : Version 1.0
+Modify Date                     : 2025:08:11 11:16:21
+Y Cb Cr Positioning             : Centered
+Exposure Time                   : 1/160
+F Number                        : 3.2
+Exposure Program                : Program AE
+ISO                             : 100
+Sensitivity Type                : Standard Output Sensitivity
+Exif Version                    : 0230
+Date/Time Original              : 2025:08:11 11:16:21
+Create Date                     : 2025:08:11 11:16:21
+Offset Time                     : -05:00
+Offset Time Original            : -05:00
+Offset Time Digitized           : -05:00
+Components Configuration        : Y, Cb, Cr, -
+Exposure Compensation           : 0
+Max Aperture Value              : 2.8
+Metering Mode                   : Multi-segment
+Light Source                    : Unknown
+Flash                           : Auto, Did not fire
+Focal Length                    : 9.0 mm
+Sub Sec Time                    : 000
+Sub Sec Time Original           : 000
+Sub Sec Time Digitized          : 000
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Exif Image Width                : 4608
+Exif Image Height               : 3456
+File Source                     : Digital Camera
+Custom Rendered                 : Normal
+Exposure Mode                   : Auto
+White Balance                   : Auto
+Digital Zoom Ratio              : 1
+Focal Length In 35mm Format     : 49 mm
+Scene Capture Type              : Standard
+Gain Control                    : None
+Contrast                        : Normal
+Saturation                      : Normal
+Sharpness                       : Normal
+GPS Latitude Ref                : North
+GPS Longitude Ref               : West
+GPS Time Stamp                  : 01:28:20
+GPS Date Stamp                  : 2025:09:12
+GPS Horizontal Positioning Error: 1 m
+XMP Toolkit                     : XMP Core 6.0.0
+Creator                         : 
+Rights                          : 
+Description                     : OLYMPUS DIGITAL CAMERA
+Subject                         : portaging, Quetico, Royce Dunbar
+Flash Compensation              : 0
+Serial Number                   : BHG214774
+Person In Image                 : Royce D
+Creator Tool                    : Version 1.0
+HDR Gain Curve Size             : 276
+HDR Gain Curve                  : (Binary data 2084 bytes, use -b option to extract)
+Current IPTC Digest             : 47755e32d17407029121702d6b56e43a
+Coded Character Set             : UTF8
+Application Record Version      : 2
+Digital Creation Date           : 2025:08:11
+Digital Creation Time           : 11:16:21
+Caption-Abstract                : OLYMPUS DIGITAL CAMERA
+Date Created                    : 2025:08:11
+Keywords                        : portaging, Quetico, Royce Dunbar
+Time Created                    : 11:16:21-05:00
+IPTC Digest                     : 47755e32d17407029121702d6b56e43a
+Image Width                     : 3161
+Image Height                    : 4426
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Aperture                        : 3.2
+Image Size                      : 3161x4426
+Megapixels                      : 14.0
+Scale Factor To 35 mm Equivalent: 5.5
+Shutter Speed                   : 1/160
+Create Date                     : 2025:08:11 11:16:21.000-05:00
+Date/Time Original              : 2025:08:11 11:16:21.000-05:00
+Modify Date                     : 2025:08:11 11:16:21.000-05:00
+GPS Date/Time                   : 2025:09:12 01:28:20Z
+GPS Latitude                    : 48 deg 12' 16.67" N
+GPS Longitude                   : 91 deg 4' 44.87" W
+Date/Time Created               : 2025:08:11 11:16:21-05:00
+Digital Creation Date/Time      : 2025:08:11 11:16:21
+Circle Of Confusion             : 0.006 mm
+Field Of View                   : 40.3 deg
+Focal Length                    : 9.0 mm (35 mm equivalent: 49.0 mm)
+GPS Position                    : 48 deg 12' 16.67" N, 91 deg 4' 44.87" W
+Hyperfocal Distance             : 4.58 m
+Light Value                     : 10.7
 ======== ../Hunters-Island-2025/attachments/202508121303-000.jpeg
 ExifTool Version Number         : 13.30
 File Name                       : 202508121303-000.jpeg
@@ -3197,9 +3307,9 @@ ExifTool Version Number         : 13.30
 File Name                       : 202508151644-000.jpeg
 Directory                       : ../Hunters-Island-2025/attachments
 File Size                       : 3.2 MB
-File Modification Date/Time     : 2025:09:10 11:21:09-06:00
-File Access Date/Time           : 2025:09:10 12:01:17-06:00
-File Inode Change Date/Time     : 2025:09:10 11:21:09-06:00
+File Modification Date/Time     : 2025:09:10 17:43:34-06:00
+File Access Date/Time           : 2025:09:10 22:40:35-06:00
+File Inode Change Date/Time     : 2025:09:10 17:43:34-06:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -3419,18 +3529,18 @@ Light Value                     : 11.6
 ExifTool Version Number         : 13.30
 File Name                       : exiftool-output.txt
 Directory                       : ../Hunters-Island-2025/attachments
-File Size                       : 156 kB
-File Modification Date/Time     : 2025:09:10 16:49:47-06:00
-File Access Date/Time           : 2025:09:10 16:49:47-06:00
-File Inode Change Date/Time     : 2025:09:10 16:49:47-06:00
+File Size                       : 164 kB
+File Modification Date/Time     : 2025:09:11 19:33:08-06:00
+File Access Date/Time           : 2025:09:10 22:40:35-06:00
+File Inode Change Date/Time     : 2025:09:11 19:33:08-06:00
 File Permissions                : -rw-r--r--
 File Type                       : TXT
 File Type Extension             : txt
 MIME Type                       : text/plain
 MIME Encoding                   : us-ascii
 Newlines                        : Unix LF
-Line Count                      : 3264
-Word Count                      : 17236
+Line Count                      : 3433
+Word Count                      : 18115
 ======== ../Hunters-Island-2025/attachments/202508181329-000.jpeg
 ExifTool Version Number         : 13.30
 File Name                       : 202508181329-000.jpeg
@@ -4343,9 +4453,9 @@ ExifTool Version Number         : 13.30
 File Name                       : 202508151322-001.jpeg
 Directory                       : ../Hunters-Island-2025/attachments
 File Size                       : 2.1 MB
-File Modification Date/Time     : 2025:09:10 11:40:39-06:00
-File Access Date/Time           : 2025:09:10 12:08:48-06:00
-File Inode Change Date/Time     : 2025:09:10 11:40:39-06:00
+File Modification Date/Time     : 2025:09:10 17:43:34-06:00
+File Access Date/Time           : 2025:09:11 19:31:30-06:00
+File Inode Change Date/Time     : 2025:09:10 17:43:34-06:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -4443,9 +4553,9 @@ ExifTool Version Number         : 13.30
 File Name                       : 202508161848-000.jpeg
 Directory                       : ../Hunters-Island-2025/attachments
 File Size                       : 1550 kB
-File Modification Date/Time     : 2025:09:10 12:01:19-06:00
-File Access Date/Time           : 2025:09:10 12:08:49-06:00
-File Inode Change Date/Time     : 2025:09:10 12:03:22-06:00
+File Modification Date/Time     : 2025:09:10 17:43:34-06:00
+File Access Date/Time           : 2025:09:11 19:31:30-06:00
+File Inode Change Date/Time     : 2025:09:10 17:43:34-06:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -4677,9 +4787,9 @@ ExifTool Version Number         : 13.30
 File Name                       : 202508111042-001.jpeg
 Directory                       : ../Hunters-Island-2025/attachments
 File Size                       : 3.3 MB
-File Modification Date/Time     : 2025:09:10 16:48:08-06:00
-File Access Date/Time           : 2025:09:10 16:48:09-06:00
-File Inode Change Date/Time     : 2025:09:10 16:48:08-06:00
+File Modification Date/Time     : 2025:09:10 17:43:34-06:00
+File Access Date/Time           : 2025:09:11 19:31:30-06:00
+File Inode Change Date/Time     : 2025:09:10 17:43:34-06:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -5482,4 +5592,4 @@ Hyperfocal Distance             : 8.24 m
 Light Value                     : 11.6
 Lens ID                         : iPhone 15 Pro back triple camera 9mm f/2.8
     1 directories scanned
-   43 image files read
+   44 image files read
