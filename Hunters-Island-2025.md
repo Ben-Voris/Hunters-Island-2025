@@ -11,16 +11,18 @@
  7. 2025-08-12 - [Saganagons Lake to Koko Falls portage](#2025-08-12-day-7-saganagons-lake-to-koko-falls)
  8. 2025-08-13 - [Koko Falls to island SW of Rose Island on Kawnipi Lake](#2025-08-13-day-8-koko-falls-to-west-of-rose-island-on-kawnipi-lake)
  9. 2025-08-14 - [Kawnipi Lake to burned island on Shelly Lake](#2025-08-14-day-9-west-of-rose-island-on-kawnipi-lake-to-shelly-lake)
-10. 2025-08-15 - Shelly Lake to downstream of Chatterton Falls on Russell Lake
-11. 2025-08-16 - Russell Lake to SW end of Sturgeon Lake, near exit to Maligne River
-12. 2025-08-17 - Maligne River to Tanner Lake E of May Island
-13. 2025-08-18 - Tanner Lake to Lou Island below Twin Falls of the Maligne River
-14. 2025-08-19 - [Twin Falls on Maligne to Eau Claire](#2025-08-19-day-13-twin-falls-on-maligne-to-eau-claire)
+10. 2025-08-15 - [Shelly Lake to downstream of Chatterton Falls on Russell Lake](#2025-08-15-day-10-shelly-lake-to-downstream-of-chatterton-falls-on-russell-lake)
+11. 2025-08-16 - [Russell Lake to SW end of Sturgeon Lake, near exit to Maligne River](#2025-08-16-day-11-russell-lake-to-the-end-of-sturgeon-lake)
+12. 2025-08-17 - [Maligne River to Tanner Lake E of May Island](#2025-08-17-day-12-end-of-sturgeon-lake-to-maligne-river)
+13. 2025-08-18 - [Tanner Lake to Lou Island below Twin Falls of the Maligne River](#2025-08-18-day-13-tanner-lake-to-twin-falls-on-the-maligne-river)
+14. 2025-08-19 - [Twin Falls on Maligne to Eau Claire](#2025-08-19-day-14-twin-falls-on-maligne-to-eau-claire)
 
 ## 2025-08-03 Boise to Eau Claire
 
 Royce fetches me and my luggage from MSP to Dunbar's Canoe Outfitting in Eau
 Claire. We have a nightcap, look at pictures, and chat.
+
+[index](#index)
 
 ## 2025-08-04 Preparations in Eau Claire
 
@@ -32,6 +34,8 @@ organized it. But we still manage to run hither and thither, putting things into
 things, and then those things into other things, and those things into his
 truck. But we're not entirely lost&mdash;we do pack our passports so that
 they'll be easy to access when we reach customs.
+
+[index](#index)
 
 ## 2025-08-05 Eau Claire to Zups
 
@@ -140,6 +144,8 @@ both got a kick out of that.
 There are a few breaks in the clouds. It's quite still and humid and
 the bugs are whining outside of tent.
 
+[Index](#index)
+
 ## 2025-08-07 Day 2: Crooked Lake to Moose Bay of Basswood River
 
 ### 2025-08-07T18:12:17-05:00 (48.14664, -91.69657) 1254 feet: Camp in Moose Bay
@@ -205,6 +211,8 @@ weather well into the evening.
 
 ![Royce cooking. Moose Bay on Basswood River 2025-08-07 18:13](./attachments/202508071813-000.jpeg "Royce cooking. Moose Bay on Basswood River 2025-08-07 18:13")
 
+[index](#index)
+
 ## 2025-08-08 Day 3: Moose Bay of Basswood River to Canadian Point on Basswood Lake
 
 <!-- I logged this location the next morning. Coordinates and elevation got from
@@ -234,27 +242,28 @@ The Lower Basswood Falls portage was easy.
 
 ![Downstream of Lower Basswood Falls 2025-08-08 08:40](./attachments/202508080840-000.jpeg "Downstream of Lower Basswood Falls 2025-08-08 08:40")
 
-It's been so long since I've done this route that that I'd forgotten that there
-is slightly tricky paddling where the currents of the two falls collide on the
-downstream end of the Wheelbarrow Falls Portage.
+Where the outflow of two parts of Wheelbarrow Falls collide, the paddling is a
+little tricky. It's been so long since I've done this route that that I'd
+forgotten that.
 
-In spots, the river had flooded the portage, but the trail bed was good and so
-we just sloshed through the water.
+The river had flooded the portage in spots but the trail bed was good, so we
+just sloshed through the water.
 
-I'd forgotten about the short portage between Wheelbarrow Falls and the Horse
-Portage. The current close it it kept me bringing the canoe to land where I
-wanted to, which turned out to be a good thing because we ended up at the
-correct place. On this portage, we met a young couple that were heading to
-Crooked. They were carrying only two small packs in addition their canoe and two
-paddles (no spare). We greatly admire their gear discipline.
+In another "it's been a long time", I had forgotten about the short portage that
+comes between Wheelbarrow Falls and Basswood Falls (Horse Portage). The current
+kept me from landing where I wanted to, which turned out to be a good thing
+because we ended up at the correct place. On this portage, we met a young couple
+that were heading to Crooked. They were carrying only two small packs in
+addition their canoe and two paddles (no spare). We greatly admire their gear
+discipline.
 
 We caught up with the scouts again on the Horse Portage. They plan to do it
 halfway and then camp for the night. We slog through. It's long, hot,
 muggy, and hard, but not as hard as I'd feared.
 
 At the Basswood Lake end, the wind was blowing directly into the portage
-landing. The trees were swaying, waves were breaking off shore and, as far as we
-could see, there were white horses.
+landing. The trees were swaying, waves were breaking and, as far as we could
+see, there were white horses.
 
 We had a brief discussion of how we might get through the surf but quickly gave
 that up as silly. So, since the wind was making it quite pleasant on shore and
@@ -295,7 +304,9 @@ door has two zippers that must be brought together carefully so that a little
 flap covers the hole where the zippers don't quite touch).
 
 It was so hot in the tent that I couldn't sleep. We listened to an audio book
-version of *Footfall* while I mopped sweat off my face, until we drifted off.
+version of *Footfall* and I mopped sweat off my face, until we drifted off.
+
+[index](#index)
 
 ## 2025-08-09 Day 4: Canadian Point on Basswood Lake to Carp Lake
 
@@ -332,6 +343,8 @@ before 15:00.
 
 Royce made the popular hash browns with hamburger and gravy for dinner. There
 will be leftovers.
+
+[index](#index)
 
 ## 2025-08-10 Day 5: Carp Lake to Ottertrack Lake
 
@@ -449,6 +462,8 @@ tiring, but needs must.
 Tomorrow, we turn north into a bay of Ottertrack that I've never seen. THen we
 head into Jasper and further north into Quetico.
 
+[index](#index)
+
 ## 2025-08-11 Day 6: Ottertrack Lake to Saganagons Lake
 
 ### 2025-08-11T19:04:01-05:00 (48.26726, -91.04823) 1411 feet: Camp on Saganagons Lake
@@ -507,6 +522,8 @@ In tent at 20:20. When the wind started to die down, the mosquitoes started to
 buzz. But by then we had camp set for the night, our teeth brushed, etc., and so
 only had to pop into the tent.
 
+[index](#index)
+
 ## 2025-08-12 Day 7: Saganagons Lake to Koko Falls
 
 We paddled around the big peninsula on Saganagons because the portage was not
@@ -534,20 +551,22 @@ Thunderstorm blew through while we were portaging. Hazy overcast now.
 ### 2025-08-12T21:14:03-05:00 (48.31543, -91.11356) 1365 feet Camp on Koko Falls Portage
 
 It was getting dark, so we made camp at around 19:20 on a &ldquo;Fort
-Necessity&rdquo;near Koko Falls, a short distance off the portage.
+Necessity&rdquo; near Koko Falls, a short distance off the portage.
 
 We've been the tent for a few minutes. If only we've been here a few tens of
-minutes earlier so we could've done things like our brush teeth.
+minutes earlier so we could've done things like brush our teeth.
 
 Another party was camped across the river from the start of the portage.
 
-We saw two groups of three canoes each. One on Saganagons and the other
-leaving the river.
+We saw two groups of three canoes each. One on Saganagons and the other leaving
+the river.
 
-It was a longer day than we expected. We do a poor job of estimating
-travel time from the map. And of course, we did not expect up to paddle
-around the peninsula. And, something has happened in the last 23 years
-to make the portages harder.
+It was a longer day than we expected. We do a poor job of estimating travel time
+from the map. And of course, we did not expect up to paddle around the
+peninsula. I don't know what it is, but something has happened in the last 23
+years to make the portages harder.
+
+[index](#index)
 
 ## 2025-08-13 Day 8: Koko Falls to west of Rose Island on Kawnipi Lake
 
@@ -556,8 +575,6 @@ to make the portages harder.
 ### 2025-08-13T20:25:34-05:00 (48.38173, -91.30458) 1325 feet Camp on Kawnipi Lake
 
 We were out of camp by 9:15 and done with the portage by 10:00.
-
-![Royce likely on downstream end of Koko Falls portage](./attachments/202508131109-001.jpeg "Royce likely on downstream end of Koko Falls portage 2025-08-13 11:09")
 
 At the end of the portage, we meet Bob and Janice, formally of Calgary. They
 were the couple we saw camped last night, before this portage. Janice told us
@@ -587,16 +604,18 @@ River 17' canoe, which, if memory serves, is about the weight of our MN2. They
 are shopping for a lighter canoe to make it easier for them to continue making
 these trips.
 
-I can't believe that all they had, but that's all I noted&mdash;would've loved
-to have done a pack dump with them.
+I can't believe that all they had, but that's all that I noted&mdash;would've
+loved to have done a pack dump with them.
 
 To give Bob a break, I carried his personal pack on top of our food pack. They
 were a pleasure to chat with and gave hope to both Royce and me that, in 10
 years, we might still be on a trail like this.
 
-When we left them, they were looking at the rapids downstream of the falls and
-were discussing details of how to run them. I gather they did not think the
-rapids would be particularly challenging.
+When we left them to continue downstream, they were looking at the rapids
+downstream of the falls and were discussing how to run them. I gather they did
+not think the rapids would be particularly challenging.
+
+![Royce on downstream end of Koko Falls portage](./attachments/202508131109-000.jpeg "Royce on downstream end of Koko Falls portage 2025-08-13 11:09")
 
 The only the other party we saw yesterday was a young man in a solo
 canoe on Kawnipi Lake. He was traveling the opposite direction.
@@ -605,23 +624,26 @@ We're now back on the Fisher maps that Royce brought. The way the maps are
 divided, we needed a small area from one map and he had decided not to bring it.
 Wish he had&mdash;scrolling around on the tiny GPS screen isn't fun.
 
-As I've noted other years, the campsite locations on the Fisher maps are not
-very reliable. For example, we found one site across the bay from where we are.
-It had not been used in a long time. The put-in was horrible&mdash;rocks. Maybe,
-if we'd been wearing magic sandals and had been ten years younger, we might've
-have jumped out on the sloped smooth rock but anything else would have required
-navigating around underwater obstructions.
+As I've noted, the Quetico campsites that the Fisher maps mark are, a best, a
+suggestion to maybe look nearby. For example, we found one site&mdash;that
+wasn't on the map&mdash;across the bay from where we are. It had not been used
+in a long time. The put-in was horrible&mdash;rocks. Maybe, if we'd been wearing
+magic sandals and had been ten years younger, we might've have jumped out on the
+sloped smooth rock but anything else would have required navigating around
+underwater obstructions.
 
-Arrived in camp around 17:00. The landing is sandy, which makes it easy to hop
-out of the canoe, but makes it difficult to gather un-silted water for the water
-filter.
+We arrived in camp around 17:00. The landing is sandy, which makes it easy to
+hop in and out of the canoe, but does make it difficult to gather un-silted
+water for the water filter.
 
 Some trees have been taken down and left. We're don't know why&mdash;they don't
 look to have been window-makers. Also, we understood that Quetico does not do
 campsite maintenance.
 
-Kawnipi was kind to us and gifted us with swift travels. Itss a big lake and
+Kawnipi was kind to us and gifted us with swift travels. It's a big lake and
 and we've already covered most of it.
+
+[index](#index)
 
 ## 2025-08-14 Day 9: West of Rose Island on Kawnipi Lake to Shelly Lake
 
@@ -638,66 +660,68 @@ Because of the wind, we left my planned, more open route, and went through the
 &ldquo;fiddly bits&rdquo; to reach the portage to Shelly Lake. Most of the shore
 is burnt.
 
-All we could see of the portage were down trees. It might've been cleared, but
+All we could see of the portage were burned trees. It might've been cleared, but
 the way the terrain was, we had to commit to a particular spot or risk being
 swept down the rapids. We could not see the portage, so we backtracked to
 portage to Montgomery Lake.
 
 This portage was hard to find and it was tough&mdash;lots of rocks and a path so
 narrow that the canoe kept catching in the trees. To make it more fun, it had
-mucky areas and a small stream crossing The nearby beaver dam may have changed
-things, but we think that it's just not much used.
+mucky areas and a small stream crossing. The nearby beaver dam might've have
+changed things, but we think it more likely that the portage is not much used.
 
 Montgomery Lake also had been heavily burnt, and was, basically, a spruce swamp.
-We wonder why anyone would portage here.None of the three campsites showed much
-use. The whole place was ugly.
+We wonder why anyone would portage here. None of the three campsites on it
+showed much use. The whole place was ugly.
 
 ![Paddling through burn area on Montgomery Lake 2025-08-14 16:37](./attachments/202508141637-000.jpeg "Paddling through burn area on Montgomery Lake 2025-08-14 16:37")
 
-The short portage to Shelly was also burnt. Some work had been done to
-open it, but just barely enough. There were trees to clamber over,
-boulders to step across, etc. The landing area on the Montgomery side
-was a nightmare&mdash;one very large rock surrounded by mid-calf deep loon
-poop. And there were lots of rocks that we had to dodge around before we
-could get to shore.
+The portage from Montgomery to Shelly was also burnt. Some work had been done to
+open it, but just barely enough. There were trees to clamber over, boulders to
+step across, etc&mdash;short but unpleasant. The landing area on the Montgomery
+side was one very large rock surrounded by mid-calf deep loon poop. And there
+were lots of rocks that we had to dodge around before we could get to shore.
 
 ![Royce resting on portage from Montgomery to Shelly 2025-08-14 17:08](./attachments/202508141708-000.jpeg "Royce resting on portage from Montgomery to Shelly 2025-08-14 17:08")
 
 We headed south towards the first campsite on Shelly, arriving around 17:30.
 
-The camp is on an island that had mostly burned and is growing back to brush.
-But there is green grass and enough space to pitch a tent. The wind was howling
-so hard that we put rocks on the stakes and, for the first time, felt the need
-to pitch the guy lines. Of course, when bug time came, the wind died.
+This camp is on an island that had mostly burned and is growing back to brush.
+But there an open area with enough space to pitch a tent. The wind was howling
+so hard that we put rocks on all the stakes and, for the first time, felt the
+need to pitch the guy lines. Of course, when bug time came, the wind died.
 
 ![Ben standing near tent on a fire-scarred island on Shelly Lake 2025-08-14 19:36](./attachments/202508141936-000.jpeg "Ben standing near tent on a fire-scarred island on Shelly Lake 2025-08-14 19:36")
 
 Curried rice and bacon for dinner.
 
 When I dug my cat hole, I saw a very thin layer of organic matter over carbon
-from the last fire, then a few inches of mineral soil, and then another layer of
-carbon. I wonder how long ago the fire was that produced the lower layer of carbon?
+from the last fire, then a few inches of soil, and then another layer of carbon,
+then mineral soil. I wonder, how long ago was the fire that produced the lower
+layer of carbon?
 
-The portages have slowed us down more than we expected. In retrospect,
-the Horse (aka Mile) portage was relatively easy because, once we had
-our load on, it was just a matter of plodding. The portages for the last
-few days have required careful attention to every step. The landings,
-usually on both sides tend to be narrow (bow on), which requires a great
-deal of fiddling to get the stern paddler (me) and our packs out or the
-packs and the bow paddler in.
+The portages are taking longer more than we expected. In retrospect, the
+Horse/Mile/Basswood Falls portage was relatively easy because, once we had our
+load on, it was just a matter of plodding. The portages over the last few days
+have required more careful attention. The landings, usually on both sides, tend
+to be narrow which requires a bow on approach and and bow out departure, which
+requires a great deal of fiddling to get the stern paddler (me) and our packs
+out of the canoe or the packs and the bow paddler into it.
 
-## 2025-08-15 Day 9: Kawnipi Lake to Russell Lake
+[index](#index)
+
+## 2025-08-15 Day 10: Shelly Lake to downstream of Chatterton Falls on Russell Lake
 
 ### 2025-08-15T20:39:27-05:00 (48.47556, -91.45539) 1246 feet
 
 We went off track twice before we found the portage to Keats. It's a nice
 portage.
 
-We meet six young women (Royce guesses they're 20 and younger). They're using
-two aluminum canoes that have been treated to look a bit like they were made of
-wood and canvas. One had a brass name plate on the bow but I couldn't make it
-out. One woman carried each canoe, but they rolled the canoe up in teams of
-three&mdash;an interesting technique.
+We met six young women (Royce guessed they're 20 or younger) that are using two
+aluminum canoes that, at first glance, look as if they are wood and canvas. One
+had a brass name plate on the bow but I couldn't make it out. One woman carried
+each canoe, but they rolled the canoe up in teams of three&mdash;an interesting
+technique.
 
 The day started gray and calm then cleared up and got breezy. With the
 blue skies and a better vantage, the falls here are more impressive than
@@ -711,10 +735,11 @@ and the canoe.
 
 ![Royce on Keats to Chatterton portage - bounding over boulders 2025-08-15 13:22](./attachments/202508151322-001.jpeg "Royce on Keats to Chatterton portage - bounding over boulders 2025-08-15 13:22")
 
-Some portages were a few hundred feet off where the maps showed them, so we
-learned to get as close to shore as possible well upstream of the obstacle and
-to paddle carefully. If the actual portage was off by more than a few tens of
-feet from the map/GPS, I updated my waypoint.
+We found some of the portages a few hundred feet off where the maps showed them,
+so we learned to get as close to shore as possible, well upstream of the
+obstacle, and to carefully scan the shore while paddling slowly. If we found the
+actual portage to off by more than a few tens of feet from the map/GPS, I
+updated my GPS waypoint.
 
 We camped early on Russell Lake, around 15:40. The main camp is a two-story
 walkup&mdash;about a hundred yards and a 30 feet or so up from the landing to
@@ -723,13 +748,14 @@ gorgeous view.
 
 ![Royce coming into camp on Russell Lake 2025-08-15 16:44](./attachments/202508151644-000.jpeg "Royce coming into camp on Russell Lake 2025-08-15 16:44")
 
-We saw one canoe in the far distance.
+We saw one canoe in the far distance but otherwise have the lake to ourselves.
 
-We had whiskey and then some more, snacks, then more whiskey. This is the first
-time we've been in camp early enough to hang out with nothing urgent to do. It's
+We had whiskey and then more, snacks, then more whiskey. This is the first time
+we've been in camp early enough to hang out with nothing urgent to do. It's
 quite nice. And we *will* have camp ready before the bug time.
 
-I took a brief, pleasant swim.
+I took a brief but pleasant swim. It was refreshing to not be sticky.
+Afterwards, I enjoyed the warm sun.
 
 Royce rehydrated refried beans and served them in tortillas with cheese, rice,
 and hot sauce. That meal is a two-time hit.
@@ -745,25 +771,29 @@ helped that the portages were not as exhausting.
 Royce discovered that he was depending on his trekking poles too much and that
 one pole worked better for him.
 
-DEET leaked out of the pump bottle into the waterproof bag that I carry in the
-guide pack and melted through the bottom of the bag, melted the outside of my
-glasses case, and damaged my wallet, raincoat, etc. We *must* have a different
-way to carry bug dope. Or get something that's not as good as solvent as DEET.
-Vickie recommended something but I didn't look into it.
+When we stopped for lunch, I discovered that DEET had leaked out of the pump
+bottle into the waterproof bag that I carry in the guide pack. It melted through
+the bottom of the bag, melted the outside of my glasses case, and damaged my
+wallet, raincoat, etc. We *must* have a different way to carry bug dope. Or get
+something that's not as good as solvent as DEET. Vickie recommended something
+but I didn't look into it.
 
-## 2025-08-16 Day 10: Russell Lake to the end of Sturgeon Lake
+[index](#index)
+
+## 2025-08-16 Day 11: Russell Lake to the end of Sturgeon Lake
 
 ### 2025-08-16T20:37:53-05:00 (48.42722, -91.71706) 1249 feet
 
-While we were goofing around in camp this morning, two middle-aged women
-paddle past, followed by two loud and chatty younger women.
+While we were goofing around in camp this morning, two middle-aged women paddle
+past, followed by two chatty and much louder younger women.
 
-The portage had a mildly difficult landing, which was followed by a steep climb, then a
-corduroy section, and then a horrible descent to a landing that must've taken us
-20 minutes to half an hour to figure out how to load the boat. Rocks where
-everywhere and most of them were scraped with aluminum where others had simply
-drug their boats over them. We loaded the boat off of one rock and then I tossed
-the line to Royce, who pulled it over to where we could get him. What a mess!
+The portage had a mildly difficult landing, which was followed by a steep climb,
+then a corduroy section, and then a horrible descent to a landing that must've
+taken us 20 minutes to half an hour to figure out how to load the boat. Rocks
+where everywhere and most of them were scraped with aluminum where others had
+simply drug their boats over them. We loaded the boat off of one rock and then I
+tossed the line to Royce, who pulled it over to where we could get him. What a
+mess!
 
 About 40 minutes away from the portage we stopped for lunch at the first easy
 place to land. Man, that portage was tough.
@@ -792,7 +822,7 @@ would expect it to be around 4 mph.
 
 ![Sunset view from camp near SW end of Sturgeon Lake 2025-08-16 20:11](./attachments/202508162011-000.jpeg "Sunset view from camp near SW end of Sturgeon Lake 2025-08-16 20:11")
 
-## 2025-08-17 Day 11: End of Sturgeon Lake to Maligne River
+## 2025-08-17 Day 12: End of Sturgeon Lake to Maligne River
 
 ### 2025-08-17T09:18:27-05:00 (48.42744, -91.71692) 1249 feet
 
@@ -840,9 +870,11 @@ miles to the west, through swamps. A winter trail for mushers?
 ![Camp on Tanner Lake near May Island 2025-08-17 19:58](./attachments//202508171958-000.jpeg "Camp on Tanner Lake near May Island 2025-08-17 19:58")
 
 Twice tonight we heard what sounds like a Tijuana taxi but we're pretty
-are swans. We've seen more swans this year than I've ever seen.
+we're hearing swans. We've seen more swans this year than I've ever seen.
 
-## 2025-08-18 Day 12: Tanner Lake to Twin Falls on the Maligne River
+[index](#index)
+
+## 2025-08-18 Day 13: Tanner Lake to Twin Falls on the Maligne River
 
 <!-- Location info from log is 48.28606, -92.18403) 0 feet
 An elevation of 0? The lat/long are a spot in the BWCA near Thumb Lake.
@@ -882,13 +914,15 @@ relatively placid water that Royce recalls fishing in back then.
 Because of the misting rain and calm winds, the mosquitos chased us into the
 tent earlier than usual.
 
-## 2025-08-19 Day 13: Twin Falls on Maligne to Eau Claire
+[index](#index)
+
+## 2025-08-19 Day 14: Twin Falls on Maligne to Eau Claire
 
 ### 2025-08-19T07:49:27-05:00 (48.37089, -91.93478) 1198 feet
 
 ![Camp on Twin Falls of Maligne River 2025-08-19 07:50](./attachments/202508190750-000.jpeg "Camp on Twin Falls of Maligne River 2025-08-19 07:50")
 
-The last morning of the trip. Everything is damp but it's not raining.
+The last morning of the trip. Everything is damp but it's not raining now.
 
 Yesterday, Leslie confirmed our pickup on Bell Island with Zups and today, they
 pick us up right on schedule. The first run is to their base, where I settle our
@@ -898,7 +932,10 @@ kiosk.
 We were so focused on tying down the canoe that we left the pack that held all
 of our clothes, sleeping bags etc., and my PFD on the docks at Crane Lake. We
 did so well tracking things&mdash;sounding off before leaving a portage or a
-camp. And then we didn't. Fortunately, someone at Scott's brought them in, and will hold them. Royce will get them after the party for Ripley.
+camp. And then we didn't. Fortunately, someone at Scott's brought them in, and
+will hold them. Royce will get them after the party for Ripley.
+
+[index](#index)
 
 ## 2025-08-21 Leave Eau Claire
 
