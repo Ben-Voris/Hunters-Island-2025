@@ -4,8 +4,8 @@ File Name                       : 202508131109-000.jpeg
 Directory                       : ../Hunters-Island-2025/attachments
 File Size                       : 5.4 MB
 File Modification Date/Time     : 2025:09:09 10:31:02-06:00
-File Access Date/Time           : 2025:09:10 05:29:21-06:00
-File Inode Change Date/Time     : 2025:09:09 14:21:00-06:00
+File Access Date/Time           : 2025:09:12 18:50:02-06:00
+File Inode Change Date/Time     : 2025:09:12 01:08:48-06:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -2763,7 +2763,7 @@ File Name                       : 202508111116-000.jpeg
 Directory                       : ../Hunters-Island-2025/attachments
 File Size                       : 2.6 MB
 File Modification Date/Time     : 2025:09:11 19:31:37-06:00
-File Access Date/Time           : 2025:09:11 19:31:38-06:00
+File Access Date/Time           : 2025:09:14 15:07:12-06:00
 File Inode Change Date/Time     : 2025:09:11 19:31:37-06:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
@@ -3308,7 +3308,7 @@ File Name                       : 202508151644-000.jpeg
 Directory                       : ../Hunters-Island-2025/attachments
 File Size                       : 3.2 MB
 File Modification Date/Time     : 2025:09:10 17:43:34-06:00
-File Access Date/Time           : 2025:09:10 22:40:35-06:00
+File Access Date/Time           : 2025:09:12 03:57:37-06:00
 File Inode Change Date/Time     : 2025:09:10 17:43:34-06:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
@@ -3530,9 +3530,9 @@ ExifTool Version Number         : 13.30
 File Name                       : exiftool-output.txt
 Directory                       : ../Hunters-Island-2025/attachments
 File Size                       : 164 kB
-File Modification Date/Time     : 2025:09:11 19:33:08-06:00
-File Access Date/Time           : 2025:09:10 22:40:35-06:00
-File Inode Change Date/Time     : 2025:09:11 19:33:08-06:00
+File Modification Date/Time     : 2025:09:14 15:09:01-06:00
+File Access Date/Time           : 2025:09:12 01:03:14-06:00
+File Inode Change Date/Time     : 2025:09:14 15:09:01-06:00
 File Permissions                : -rw-r--r--
 File Type                       : TXT
 File Type Extension             : txt
@@ -3658,8 +3658,8 @@ File Name                       : 202508130753-000.jpeg
 Directory                       : ../Hunters-Island-2025/attachments
 File Size                       : 4.6 MB
 File Modification Date/Time     : 2025:09:09 11:52:44-06:00
-File Access Date/Time           : 2025:09:10 05:29:23-06:00
-File Inode Change Date/Time     : 2025:09:09 21:15:54-06:00
+File Access Date/Time           : 2025:09:12 18:50:02-06:00
+File Inode Change Date/Time     : 2025:09:12 01:08:48-06:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -4454,7 +4454,7 @@ File Name                       : 202508151322-001.jpeg
 Directory                       : ../Hunters-Island-2025/attachments
 File Size                       : 2.1 MB
 File Modification Date/Time     : 2025:09:10 17:43:34-06:00
-File Access Date/Time           : 2025:09:11 19:31:30-06:00
+File Access Date/Time           : 2025:09:12 03:57:37-06:00
 File Inode Change Date/Time     : 2025:09:10 17:43:34-06:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
@@ -4554,7 +4554,7 @@ File Name                       : 202508161848-000.jpeg
 Directory                       : ../Hunters-Island-2025/attachments
 File Size                       : 1550 kB
 File Modification Date/Time     : 2025:09:10 17:43:34-06:00
-File Access Date/Time           : 2025:09:11 19:31:30-06:00
+File Access Date/Time           : 2025:09:12 03:57:37-06:00
 File Inode Change Date/Time     : 2025:09:10 17:43:34-06:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
@@ -4788,7 +4788,7 @@ File Name                       : 202508111042-001.jpeg
 Directory                       : ../Hunters-Island-2025/attachments
 File Size                       : 3.3 MB
 File Modification Date/Time     : 2025:09:10 17:43:34-06:00
-File Access Date/Time           : 2025:09:11 19:31:30-06:00
+File Access Date/Time           : 2025:09:12 03:57:37-06:00
 File Inode Change Date/Time     : 2025:09:10 17:43:34-06:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
@@ -5059,6 +5059,147 @@ GPS Position                    : 48 deg 23' 8.33" N, 91 deg 50' 46.26" W
 Hyperfocal Distance             : 8.24 m
 Light Value                     : 9.9
 Lens ID                         : iPhone 15 Pro back triple camera 9mm f/2.8
+======== ../Hunters-Island-2025/attachments/202508191219-000.jpeg
+ExifTool Version Number         : 13.30
+File Name                       : 202508191219-000.jpeg
+Directory                       : ../Hunters-Island-2025/attachments
+File Size                       : 1418 kB
+File Modification Date/Time     : 2025:09:14 15:07:14-06:00
+File Access Date/Time           : 2025:09:14 15:08:37-06:00
+File Inode Change Date/Time     : 2025:09:14 15:08:36-06:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Image Description               : Zup's boat with MN2 on Beatty railroad portage
+Make                            : Apple
+Camera Model Name               : iPhone 13 Pro
+Orientation                     : Horizontal (normal)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Software                        : 18.5
+Modify Date                     : 2025:08:19 12:19:13
+Host Computer                   : iPhone 13 Pro
+Y Cb Cr Positioning             : Centered
+Exposure Time                   : 1/567
+F Number                        : 1.5
+Exposure Program                : Program AE
+ISO                             : 50
+Exif Version                    : 0232
+Date/Time Original              : 2025:08:19 12:19:13
+Create Date                     : 2025:08:19 12:19:13
+Offset Time                     : -05:00
+Offset Time Original            : -05:00
+Offset Time Digitized           : -05:00
+Components Configuration        : Y, Cb, Cr, -
+Shutter Speed Value             : 1/567
+Aperture Value                  : 1.5
+Brightness Value                : 7.306217524
+Exposure Compensation           : 0
+Metering Mode                   : Multi-segment
+Flash                           : Off, Did not fire
+Focal Length                    : 5.7 mm
+Subject Area                    : 2012 1506 2217 1327
+Maker Note Version              : 15
+Run Time Flags                  : Valid
+Run Time Value                  : 2223331598041
+Run Time Scale                  : 1000000000
+Run Time Epoch                  : 0
+AE Stable                       : No
+AE Target                       : 178
+AE Average                      : 201
+AF Stable                       : Yes
+Acceleration Vector             : -0.9652948975 -0.02519181371 0.1626791657
+Focus Distance Range            : 0.09 - 1.46 m
+Image Capture Type              : Photo
+Live Photo Video Index          : 1112547328
+Photos App Feature Flags        : 0
+HDR Headroom                    : 1.324926616
+AF Performance                  : 357 1 65
+Signal To Noise Ratio           : 53.93736264
+Photo Identifier                : D7323E2A-16B4-4754-A5DF-957561B8C8E8
+Color Temperature               : 5462
+Camera Type                     : Back Normal
+Focus Position                  : 61
+HDR Gain                        : 0.08075422051
+AF Measured Depth               : 358
+AF Confidence                   : 14
+Semantic Style                  : {_0=1,_1=0,_2=0,_3=0}
+Sub Sec Time                    : 088
+Sub Sec Time Original           : 088
+Sub Sec Time Digitized          : 088
+Flashpix Version                : 0100
+Color Space                     : Uncalibrated
+Exif Image Width                : 2048
+Exif Image Height               : 1536
+Sensing Method                  : One-chip color area
+Scene Type                      : Directly photographed
+Exposure Mode                   : Auto
+White Balance                   : Auto
+Focal Length In 35mm Format     : 26 mm
+Scene Capture Type              : Standard
+Lens Info                       : 1.570000052-9mm f/1.5-2.8
+Lens Make                       : Apple
+Lens Model                      : iPhone 13 Pro back triple camera 5.7mm f/1.5
+Composite Image                 : General Composite Image
+GPS Latitude Ref                : North
+GPS Longitude Ref               : West
+GPS Altitude Ref                : Above Sea Level
+GPS Time Stamp                  : 17:19:12
+GPS Speed Ref                   : km/h
+GPS Speed                       : 0
+GPS Date Stamp                  : 2025:08:19
+GPS Horizontal Positioning Error: 3.64001456 m
+MPF Version                     : 0100
+Number Of Images                : 2
+MP Image Flags                  : (none)
+MP Image Format                 : JPEG
+MP Image Type                   : Undefined
+MP Image Length                 : 172366
+MP Image Start                  : 1245188
+Dependent Image 1 Entry Number  : 0
+Dependent Image 2 Entry Number  : 0
+Current IPTC Digest             : 4b9e2f37f5c18e79dcf3204a7f291fe2
+Coded Character Set             : UTF8
+Application Record Version      : 2
+Digital Creation Time           : 12:19:13
+Digital Creation Date           : 2025:08:19
+Time Created                    : 12:19:13-05:00
+Date Created                    : 2025:08:19
+Caption-Abstract                : Zup's boat with MN2 on Beatty railroad portage
+IPTC Digest                     : 4b9e2f37f5c18e79dcf3204a7f291fe2
+Image Width                     : 2048
+Image Height                    : 1463
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Run Time Since Power Up         : 0:37:03
+Aperture                        : 1.5
+Image Size                      : 2048x1463
+Megapixels                      : 3.0
+Scale Factor To 35 mm Equivalent: 4.6
+Shutter Speed                   : 1/567
+Create Date                     : 2025:08:19 12:19:13.088-05:00
+Date/Time Original              : 2025:08:19 12:19:13.088-05:00
+Modify Date                     : 2025:08:19 12:19:13.088-05:00
+GPS Altitude                    : 365.7 m Above Sea Level
+GPS Date/Time                   : 2025:08:19 17:19:12Z
+GPS Latitude                    : 48 deg 16' 40.32" N
+GPS Longitude                   : 92 deg 17' 42.27" W
+Date/Time Created               : 2025:08:19 12:19:13-05:00
+Digital Creation Date/Time      : 2025:08:19 12:19:13
+MP Image 2                      : (Binary data 172366 bytes, use -b option to extract)
+Circle Of Confusion             : 0.007 mm
+Field Of View                   : 69.4 deg
+Focal Length                    : 5.7 mm (35 mm equivalent: 26.0 mm)
+GPS Position                    : 48 deg 16' 40.32" N, 92 deg 17' 42.27" W
+Hyperfocal Distance             : 3.29 m
+Light Value                     : 11.3
+Lens ID                         : iPhone 13 Pro back triple camera 5.7mm f/1.5
 ======== ../Hunters-Island-2025/attachments/202508141708-000.jpeg
 ExifTool Version Number         : 13.30
 File Name                       : 202508141708-000.jpeg
@@ -5592,4 +5733,4 @@ Hyperfocal Distance             : 8.24 m
 Light Value                     : 11.6
 Lens ID                         : iPhone 15 Pro back triple camera 9mm f/2.8
     1 directories scanned
-   44 image files read
+   45 image files read
