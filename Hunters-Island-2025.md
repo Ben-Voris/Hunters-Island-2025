@@ -139,7 +139,7 @@ boys.
 Dinner is a bag salad and Royce's *ropa vieja* (old rope), with &ldquo;that's
 not rice&rdquo; rice. Royce continues to make sure we eat well.
 
-As we were pitching the tent, green beetles&mddash;the same hue as the rain
+As we were pitching the tent, green beetles&mdash;the same hue as the rain
 fly&mdash; landed on the tent. They had perfect camouflage, just in the wrong
 place. We both got a kick out of that.
 
@@ -734,6 +734,8 @@ The day started gray and calm then cleared up and got breezy. With the
 blue skies and a better vantage, the falls here are more impressive than
 those on the Falls chain.
 
+![Looking back at Snake Falls on Maligne River 2025-08-15 12:36](attachments/202508151236-000.jpeg "Looking back at Snake Falls on Maligne River 2025-08-15 12:36")
+
 All three portages (Have a Smoke between Shelly and Keats, Spit Rock Falls
 between Keats and Chatterton, and Chatterton Falls between Shelly and
 Chatterton) were well traveled and were reasonably easy to walk, with the
@@ -743,19 +745,16 @@ each so that we had to balance on boulder and take a giant step to the next. Our
 loads made that extra exiting. But it was well traveled and was otherwise
 straight-forward.
 
-<!-- The "NRCAN" maps show that Snake falls is SW of Have a Smoke, but Garmin's
-     "Canadian Topo" says that Have a Smoke goes around Snake Falls. Here, I prefer NRCAN.
+<!-- The "NRCAN" maps shows that Have a Smoke does not go around Snake Falls but around an obstacle to the north of Garmin's "Canadian Topo" shows that Have a Smoke is around Snake Falls. Here, I prefer NRCAN. But I think the picture, below, is likely of that fall.
 
-     These next two pictures ("Looking back at Have a Smoke falls" and "Bounding over boulders" do not have GPS info and the GPS track does not have timestamps. So, the location is based on the following:
+These next two pictures ("Looking back at Snake Falls" and "Bounding over boulders" do not have GPS info, and the GPS track does not have timestamps. So, the location is based on the following:
 
-     My notes say that the Split Rock (Keats - Chatterton) portage is where we had boulders to get over, so believe that the, "Royce bounding" picture, taken at 13:22, is of the Split Rock Falls portage. This was the second portage of the day.
+My notes say that the Split Rock (Keats - Chatterton) portage is where we had boulders to get over, so I labelled the, "Royce bounding" picture, taken at 13:22, is of the Split Rock Falls portage. This was the second portage of the day.
 
-     If that's so, the picture taken at 12:36, almost an hour before, must be of the falls that Have a Smoke goes around.
+If that's so, the picture taken at 12:36, almost an hour before, must be looking back towards Have a Smoke.
 
-     The distance from the start of Have a Smoke to past Split Rock Falls,
-     including double-portaging, is about 3 miles. I took into account that I think I took the picture of Royce on our second carry, that we move slow on the portages, would have been paddled slowly while we looked for the next portage, the I would expect our average speed was less than 3 mph. Also, the picture was taken after we launched on the downstream side. So, I would expect that the travel time between the two pictures would be at least an hour. So, if we managed to move faster than that, I can accept that I've correctly identified the location of the pictures.
- -->
-![Looking back at Snake Falls on Maligne River 2025-08-15 12:36](attachments/202508151236-000.jpeg "Looking back at Snake Falls on Maligne River 2025-08-15 12:36")
+The distance from the start of Have a Smoke to past Split Rock Falls, including double-portaging, is about 3 miles. I took into account that I recall that I took the picture of Royce on our second carry, that we moved slower on portages, and that we would have been paddled slowly while we looked for the next portage. So, I expect that our average speed was less than 3 mph. The picture was taken after we launched on the downstream side. So, I would expect that the travel time between the two pictures would be at least an hour. So, if I accept that we managed to move faster than that, I can accept that I've correctly identified the location of the pictures.
+-->
 
 ![Royce bounding over boulders on the Split Rock (Keats to Chatterton) portage 2025-08-15 13:22](./attachments/202508151322-001.jpeg "Royce bounding over boulders on the Split Rock (Keats to Chatterton) portage 2025-08-15 13:22")
 
@@ -972,9 +971,9 @@ Leaving Eau Claire to celebrate Ripley's 1 1/2 birthday.
 ## General notes
 
 Except around sundown, mosquitoes were about average. But at around 20:00, they
-turn into a pestilence. On a wind protected portage, they were sometimes more of
-an annoyance. Because of them, even on clear nights, we didn't sit out to star
-gaze.
+turned into a pestilence. On a wind protected portage, they were sometimes more
+of an annoyance. Because of them, even on the clear nights, we didn't sit out to
+star gaze.
 
 On one of the early nights, I saw a light flashing outside the tent. After a
 while trying and failing to identify what gadget was making the light, I
