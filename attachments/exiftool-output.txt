@@ -3530,9 +3530,9 @@ ExifTool Version Number         : 13.30
 File Name                       : exiftool-output.txt
 Directory                       : ../Hunters-Island-2025/attachments
 File Size                       : 164 kB
-File Modification Date/Time     : 2025:09:14 15:09:01-06:00
-File Access Date/Time           : 2025:09:12 01:03:14-06:00
-File Inode Change Date/Time     : 2025:09:14 15:09:01-06:00
+File Modification Date/Time     : 2025:09:15 14:55:04-06:00
+File Access Date/Time           : 2025:09:14 15:15:48-06:00
+File Inode Change Date/Time     : 2025:09:15 14:55:04-06:00
 File Permissions                : -rw-r--r--
 File Type                       : TXT
 File Type Extension             : txt
@@ -4554,7 +4554,7 @@ File Name                       : 202508161848-000.jpeg
 Directory                       : ../Hunters-Island-2025/attachments
 File Size                       : 1550 kB
 File Modification Date/Time     : 2025:09:10 17:43:34-06:00
-File Access Date/Time           : 2025:09:12 03:57:37-06:00
+File Access Date/Time           : 2025:09:15 13:48:58-06:00
 File Inode Change Date/Time     : 2025:09:10 17:43:34-06:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
@@ -4891,6 +4891,106 @@ Focal Length                    : 4.5 mm (35 mm equivalent: 25.0 mm)
 GPS Position                    : 48 deg 10' 41.83" N, 91 deg 5' 20.38" W
 Hyperfocal Distance             : 1.34 m
 Light Value                     : 12.3
+======== ../Hunters-Island-2025/attachments/202508151236-000.jpeg
+ExifTool Version Number         : 13.30
+File Name                       : 202508151236-000.jpeg
+Directory                       : ../Hunters-Island-2025/attachments
+File Size                       : 1001 kB
+File Modification Date/Time     : 2025:09:15 13:48:38-06:00
+File Access Date/Time           : 2025:09:15 13:48:40-06:00
+File Inode Change Date/Time     : 2025:09:15 13:48:38-06:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Image Description               : OLYMPUS DIGITAL CAMERA
+Make                            : OLYMPUS CORPORATION
+Camera Model Name               : TG-4
+Orientation                     : Horizontal (normal)
+X Resolution                    : 314
+Y Resolution                    : 314
+Resolution Unit                 : inches
+Software                        : Version 1.0
+Modify Date                     : 2025:08:15 12:36:40
+Y Cb Cr Positioning             : Centered
+Exposure Time                   : 1/320
+F Number                        : 8.0
+Exposure Program                : Creative (Slow speed)
+ISO                             : 100
+Sensitivity Type                : Standard Output Sensitivity
+Exif Version                    : 0230
+Date/Time Original              : 2025:08:15 12:36:40
+Create Date                     : 2025:08:15 12:36:40
+Offset Time                     : -05:00
+Offset Time Original            : -05:00
+Offset Time Digitized           : -05:00
+Components Configuration        : Y, Cb, Cr, -
+Exposure Compensation           : 0
+Max Aperture Value              : 2.8
+Metering Mode                   : Multi-segment
+Light Source                    : Fine Weather
+Flash                           : Auto, Did not fire
+Focal Length                    : 4.5 mm
+Sub Sec Time                    : 000
+Sub Sec Time Original           : 000
+Sub Sec Time Digitized          : 000
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Exif Image Width                : 4608
+Exif Image Height               : 3456
+File Source                     : Digital Camera
+Custom Rendered                 : Normal
+Exposure Mode                   : Auto
+White Balance                   : Manual
+Digital Zoom Ratio              : 1
+Focal Length In 35mm Format     : 25 mm
+Scene Capture Type              : Landscape
+Gain Control                    : None
+Contrast                        : High
+Saturation                      : Normal
+Sharpness                       : Hard
+XMP Toolkit                     : XMP Core 6.0.0
+Creator                         : 
+Rights                          : 
+Description                     : OLYMPUS DIGITAL CAMERA
+Subject                         : Landscape, Quetico
+Flash Compensation              : 0
+Serial Number                   : BHG214774
+Creator Tool                    : Version 1.0
+HDR Gain Curve Size             : 166
+HDR Gain Curve                  : (Binary data 1116 bytes, use -b option to extract)
+Current IPTC Digest             : e887c7e4c7bfcb75ebfcf86186f592d1
+Coded Character Set             : UTF8
+Application Record Version      : 2
+Digital Creation Date           : 2025:08:15
+Digital Creation Time           : 12:36:40
+Caption-Abstract                : OLYMPUS DIGITAL CAMERA
+Date Created                    : 2025:08:15
+Keywords                        : Landscape, Quetico
+Time Created                    : 12:36:40-05:00
+IPTC Digest                     : e887c7e4c7bfcb75ebfcf86186f592d1
+Image Width                     : 1902
+Image Height                    : 2663
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Aperture                        : 8.0
+Image Size                      : 1902x2663
+Megapixels                      : 5.1
+Scale Factor To 35 mm Equivalent: 5.6
+Shutter Speed                   : 1/320
+Create Date                     : 2025:08:15 12:36:40.000-05:00
+Date/Time Original              : 2025:08:15 12:36:40.000-05:00
+Modify Date                     : 2025:08:15 12:36:40.000-05:00
+Date/Time Created               : 2025:08:15 12:36:40-05:00
+Digital Creation Date/Time      : 2025:08:15 12:36:40
+Circle Of Confusion             : 0.005 mm
+Field Of View                   : 71.5 deg
+Focal Length                    : 4.5 mm (35 mm equivalent: 25.0 mm)
+Hyperfocal Distance             : 0.47 m
+Light Value                     : 14.3
 ======== ../Hunters-Island-2025/attachments/202508180941-000.jpeg
 ExifTool Version Number         : 13.30
 File Name                       : 202508180941-000.jpeg
@@ -5065,7 +5165,7 @@ File Name                       : 202508191219-000.jpeg
 Directory                       : ../Hunters-Island-2025/attachments
 File Size                       : 1418 kB
 File Modification Date/Time     : 2025:09:14 15:07:14-06:00
-File Access Date/Time           : 2025:09:14 15:08:37-06:00
+File Access Date/Time           : 2025:09:15 13:48:35-06:00
 File Inode Change Date/Time     : 2025:09:14 15:08:36-06:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
@@ -5733,4 +5833,4 @@ Hyperfocal Distance             : 8.24 m
 Light Value                     : 11.6
 Lens ID                         : iPhone 15 Pro back triple camera 9mm f/2.8
     1 directories scanned
-   45 image files read
+   46 image files read
