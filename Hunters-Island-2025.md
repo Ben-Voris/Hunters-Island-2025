@@ -10,8 +10,8 @@
  6. 2025-08-11 - [Ottertrack Lake to Saganagons Lake](#2025-08-11-day-6-ottertrack-lake-to-saganagons-lake)
  7. 2025-08-12 - [Saganagons Lake to Koko Falls portage](#2025-08-12-day-7-saganagons-lake-to-koko-falls)
  8. 2025-08-13 - [Koko Falls to island SW of Rose Island on Kawnipi Lake](#2025-08-13-day-8-koko-falls-to-west-of-rose-island-on-kawnipi-lake)
- 9. 2025-08-14 - [Kawnipi Lake to burned island on Shelly Lake](#2025-08-14-day-9-west-of-rose-island-on-kawnipi-lake-to-shelly-lake)
-10. 2025-08-15 - [Shelly Lake to downstream of Chatterton Falls on Russell Lake](#2025-08-15-day-10-shelly-lake-to-downstream-of-chatterton-falls-on-russell-lake)
+ 9. 2025-08-14 - [Kawnipi Lake to burned island on Shelley Lake](#2025-08-14-day-9-west-of-rose-island-on-kawnipi-lake-to-Shelley-lake)
+10. 2025-08-15 - [Shelley Lake to downstream of Chatterton Falls on Russell Lake](#2025-08-15-day-10-Shelley-lake-to-downstream-of-chatterton-falls-on-russell-lake)
 11. 2025-08-16 - [Russell Lake to SW end of Sturgeon Lake, near exit to Maligne River](#2025-08-16-day-11-russell-lake-to-the-end-of-sturgeon-lake)
 12. 2025-08-17 - [Maligne River to Tanner Lake E of May Island](#2025-08-17-day-12-end-of-sturgeon-lake-to-maligne-river)
 13. 2025-08-18 - [Tanner Lake to Lou Island below Twin Falls of the Maligne River](#2025-08-18-day-13-tanner-lake-to-twin-falls-on-the-maligne-river)
@@ -19,8 +19,8 @@
 
 ## 2025-08-03 Boise to Eau Claire
 
-Royce fetches me and my luggage from MSP to Dunbar's Canoe Outfitting in Eau
-Claire. We have a nightcap, look at pictures, and chat.
+Royce fetches me and my luggage from MSP and delivers us to Dunbar's Canoe
+Outfitting in Eau Claire. We have a nightcap, look at pictures, and chat.
 
 [index](#index)
 
@@ -87,6 +87,8 @@ As we head to bed, mosquitoes are starting to bite, and rain is threatening.
 
 ## 2025-08-06 Day 1: Bottle Portage on Lac la Croix to island N of Saturday Bay Crooked Lake
 
+Lac la Croix, Bottle Lake, Iron Lake, Crooked Lake. 11.1 miles.
+
 ### 2025-08-06T17:53:31-05:00 (48.20686, -91.84773) 1244 feet Camp on Crooked Lake
 
 We've been in camp for an hour or so. I used the inReach to let the home front
@@ -149,6 +151,8 @@ are whining outside of tent.
 [Index](#index)
 
 ## 2025-08-07 Day 2: Crooked Lake to Moose Bay of Basswood River
+
+Crooked Lake, Basswood River. 13.2 miles.
 
 ### 2025-08-07T18:12:17-05:00 (48.14664, -91.69657) 1254 feet: Camp in Moose Bay
 
@@ -216,6 +220,8 @@ weather well into the evening.
 [index](#index)
 
 ## 2025-08-08 Day 3: Moose Bay of Basswood River to Canadian Point on Basswood Lake
+
+Basswood River, Basswood Lake. 16.9 miles.
 
 <!-- I logged this location the next morning. Coordinates and elevation got from
      that. The coordinates are very close to the GPS waypoint 20250808 and the
@@ -315,6 +321,8 @@ listened to an audio book version of *Footfall* and I mopped sweat off my face.
 
 ## 2025-08-09 Day 4: Canadian Point on Basswood Lake to Carp Lake
 
+Basswood Lake, Newfound Lake, Birch Lake, Carp Lake. 16.5 miles
+
 ### 2025-08-09T09:40:52-05:00 (48.06107, -91.56269) 1297 feet: Breakfast on camp on Canadian Point
 
 <!-- Got into camp time of 18:00 is for 2025-08-09 and is based on the picture.
@@ -372,6 +380,8 @@ will be leftovers.
 [index](#index)
 
 ## 2025-08-10 Day 5: Carp Lake to Ottertrack Lake
+
+Carp Lake, Melon Lake, Seed Lake, unnamed lake, Knife Lake, Ottertrack Lake
 
 ### 2025-08-10T08:36:25-05:00 (48.09174, -91.31100) 1370 feet: Camp on Carp Lake
 
@@ -473,6 +483,8 @@ into Jasper, and further north into Quetico.
 
 ## 2025-08-11 Day 6: Ottertrack Lake to Saganagons Lake
 
+Ottertrack Lake, Jasper Lake, Lilypad Lake, Saganagons Lake. 10.8 miles
+
 ### 2025-08-11T19:04:01-05:00 (48.26726, -91.04823) 1411 feet: Camp on Saganagons Lake
 
 Ottertrack Lake was as pretty as I remember. I snapped a few pictures that do
@@ -490,14 +502,14 @@ next part of the portage.
 
 ![Royce on portage after mid trail pond on Ottertrack to Jasper 2025-08-11 12:19](./attachments/202508111219-000.jpeg "Royce on portage after mid trail pond on Ottertrack to Jasper 2025-08-11 12:19")
 
-The landings for the portage between Jasper Lake and Lillypad Lake was difficult
+The landings for the portage between Jasper Lake and Lilypad Lake was difficult
 on both sides, but the trail was fairly easy and showed signs of recent
 maintenance.
 
 We had lunch on Jasper at quite a nice site. We were tempted, but we have miles
 to go.
 
-The last portage, from Lillypad to Saganagons was, by far, the worst of the day.
+The last portage, from Lilypad to Saganagons was, by far, the worst of the day.
 The start was so steep that when I tilted the canoe up enough to keep the bow
 off the ground, I had to fight to keep it from sliding backwards off my
 shoulders. Before each step, I had to carefully pick where to put my feet and to
@@ -513,7 +525,7 @@ while sinking past our knees in the muck and floating grass, until the water was
 deep enough to float the canoe with us in it. Showing our years of experience,
 we oh-so-gracefully made it into the canoe and paddled our way into the lake.
 
-![Royce on Saganagons end of portage from Lillypad 2025-08-11 15:37](./attachments/202508111537-000.jpeg "Royce on Saganagons end of portage from Lillypad 2025-08-11 15:37")
+![Royce on Saganagons end of portage from Lilypad 2025-08-11 15:37](./attachments/202508111537-000.jpeg "Royce on Saganagons end of portage from Lilypad 2025-08-11 15:37")
 
 We saw toad on the portage and a leopard frog at the Saganagons end.
 
@@ -532,6 +544,8 @@ only had to pop into the tent.
 [index](#index)
 
 ## 2025-08-12 Day 7: Saganagons Lake to Koko Falls
+
+Saganagons Lake, Little Falls, Koko Falls. 17.2 miles
 
 We paddled around the big peninsula on Saganagons because the portage was not
 where either the *Fisher* and *NatGeo* maps showed it. (One thing about the
@@ -577,6 +591,8 @@ years to make the portages harder.
 [index](#index)
 
 ## 2025-08-13 Day 8: Koko Falls to west of Rose Island on Kawnipi Lake
+
+Koko Falls, Canyon Falls, Kenny Lake, Kennebas Falls, Kawnipi Lake. 13.0 miles.
 
 ![Camp on Koko Falls portage 2025-08-13 07:53](./attachments/202508130753-000.jpeg "Camp on Koko Falls portage 2025-08-13 07:53")
 
@@ -653,7 +669,9 @@ and we've already covered most of it.
 
 [index](#index)
 
-## 2025-08-14 Day 9: West of Rose Island on Kawnipi Lake to Shelly Lake
+## 2025-08-14 Day 9: West of Rose Island on Kawnipi Lake to Shelley Lake
+
+Kawnipi Lake, Kahshahpiwi Creek, Montgomery Lake, Shelley Lake. 13.4 miles
 
 ### 2025-08-14T20:56:40-05:00 (48.45243, -91.34913) 1279 feet
 
@@ -665,8 +683,8 @@ decide to wait out the gusts.
 On the water around noon. Wind is from the south again. We make good time.
 
 Because of the wind, we left my planned, more open route, and went through the
-&ldquo;fiddly bits&rdquo; to reach the portage to Shelly Lake. Most of the shore
-is burnt.
+&ldquo;fiddly bits&rdquo; to reach the portage to Shelley Lake. Most of the
+shore is burnt.
 
 All we could see of the portage were burned trees. It might've been cleared, but
 the way the terrain was, we had to commit to a particular spot or risk being
@@ -684,22 +702,22 @@ showed much use. The whole place was ugly.
 
 ![Paddling through burn area on Montgomery Lake 2025-08-14 16:37](./attachments/202508141637-000.jpeg "Paddling through burn area on Montgomery Lake 2025-08-14 16:37")
 
-The portage from Montgomery to Shelly was also burnt. Some work had been done to
+The portage from Montgomery to Shelley was also burnt. Some work had been done to
 open it, but just barely enough. There were trees to clamber over, boulders to
 step across, etc&mdash;short but unpleasant. The landing area on the Montgomery
 side was one very large rock surrounded by mid-calf deep loon poop. And there
 were lots of rocks that we had to dodge around before we could get to shore.
 
-![Royce resting on portage from Montgomery to Shelly 2025-08-14 17:08](./attachments/202508141708-000.jpeg "Royce resting on portage from Montgomery to Shelly 2025-08-14 17:08")
+![Royce resting on portage from Montgomery to Shelley 2025-08-14 17:08](./attachments/202508141708-000.jpeg "Royce resting on portage from Montgomery to Shelley 2025-08-14 17:08")
 
-We headed south towards the first campsite on Shelly, arriving around 17:30.
+We headed south towards the first campsite on Shelley, arriving around 17:30.
 
 This camp is on an island that had mostly burned and is growing back to brush.
 But there an open area with enough space to pitch a tent. The wind was howling
 so hard that we put rocks on all the stakes and, for the first time, felt the
 need to pitch the guy lines. Of course, when bug time came, the wind died.
 
-![Ben standing near tent on a fire-scarred island on Shelly Lake 2025-08-14 19:36](./attachments/202508141936-000.jpeg "Ben standing near tent on a fire-scarred island on Shelly Lake 2025-08-14 19:36")
+![Ben standing near tent on a fire-scarred island on Shelley Lake 2025-08-14 19:36](./attachments/202508141936-000.jpeg "Ben standing near tent on a fire-scarred island on Shelley Lake 2025-08-14 19:36")
 
 Curried rice and bacon for dinner.
 
@@ -718,7 +736,10 @@ out of the canoe or the packs and the bow paddler into it.
 
 [index](#index)
 
-## 2025-08-15 Day 10: Shelly Lake to downstream of Chatterton Falls on Russell Lake
+## 2025-08-15 Day 10: Shelley Lake to downstream of Chatterton Falls on Russell Lake
+
+Shelley Lake, Keats Lake, Split Rock Falls, Chatterton Lake, Russell Lake.
+10.2 miles
 
 ### 2025-08-15T20:39:27-05:00 (48.47556, -91.45539) 1246 feet
 
@@ -736,8 +757,8 @@ those on the Falls chain.
 
 ![Looking back at Snake Falls on Maligne River 2025-08-15 12:36](attachments/202508151236-000.jpeg "Looking back at Snake Falls on Maligne River 2025-08-15 12:36")
 
-All three portages (Have a Smoke between Shelly and Keats, Spit Rock Falls
-between Keats and Chatterton, and Chatterton Falls between Shelly and
+All three portages (Have a Smoke between Shelley and Keats, Spit Rock Falls
+between Keats and Chatterton, and Chatterton Falls between Shelley and
 Chatterton) were well traveled and were reasonably easy to walk, with the
 exception of Split Rocks Falls portage. It one started with a steep climb that
 led to a boulder field. The boulders were 3 to 5 feet high with a gap between
@@ -805,6 +826,8 @@ but I didn't look into it.
 
 ## 2025-08-16 Day 11: Russell Lake to the end of Sturgeon Lake
 
+Russell Lake, Sturgeon Lake. 15.5 miles
+
 ### 2025-08-16T20:37:53-05:00 (48.42722, -91.71706) 1249 feet
 
 While we were goofing around in camp this morning, two middle-aged women paddle
@@ -846,6 +869,8 @@ would expect it to be around 4 mph.
 ![Sunset view from camp near SW end of Sturgeon Lake 2025-08-16 20:11](./attachments/202508162011-000.jpeg "Sunset view from camp near SW end of Sturgeon Lake 2025-08-16 20:11")
 
 ## 2025-08-17 Day 12: End of Sturgeon Lake to Maligne River
+
+Sturgeon Lake, Maligne River. 10.4 miles
 
 ### 2025-08-17T09:18:27-05:00 (48.42744, -91.71692) 1249 feet
 
@@ -899,6 +924,8 @@ we're hearing swans. We've seen more swans this year than I've ever seen.
 
 ## 2025-08-18 Day 13: Tanner Lake to Twin Falls on the Maligne River
 
+Tanner Lake, Maligne River. 13.0 miles
+
 <!-- Location info from log is 48.28606, -92.18403) 0 feet
 An elevation of 0? The lat/long are a spot in the BWCA near Thumb Lake.
 Take the coordinates from the GPS.
@@ -941,6 +968,8 @@ tent earlier than usual.
 
 ## 2025-08-19 Day 14: Twin Falls on Maligne to Eau Claire
 
+Maligne River, Lac La Croix. 1.6 miles
+
 ### 2025-08-19T07:49:27-05:00 (48.37089, -91.93478) 1198 feet
 
 ![Camp on Twin Falls of Maligne River 2025-08-19 07:50](./attachments/202508190750-000.jpeg "Camp on Twin Falls of Maligne River 2025-08-19 07:50")
@@ -970,10 +999,10 @@ Leaving Eau Claire to celebrate Ripley's 1 1/2 birthday.
 
 ## General notes
 
-Except around sundown, mosquitoes were about average. But at around 20:00, they
-turned into a pestilence. On a wind protected portage, they were sometimes more
-of an annoyance. Because of them, even on the clear nights, we didn't sit out to
-star gaze.
+Except around sundown, mosquitoes were about average. On a wind protected
+portage, they were sometimes more of an annoyance. But at around 20:00, they
+turned into a pestilence. Even on the clear nights, they kept us from star
+gazing.
 
 On one of the early nights, I saw a light flashing outside the tent. After a
 while trying and failing to identify what gadget was making the light, I
