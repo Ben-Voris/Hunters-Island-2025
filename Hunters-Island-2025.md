@@ -980,20 +980,22 @@ Maligne River, Lac La Croix. 1.6 miles
 ![Camp on Twin Falls of Maligne River 2025-08-19 07:50](./attachments/202508190750-000.jpeg "Camp on Twin Falls of Maligne River 2025-08-19 07:50")
 
 The last morning of the trip. Everything is damp but it's not raining now.
+It's a short paddle to our pickup at Bell Island on Lac la Croix.
 
-Yesterday, Leslie confirmed the time of our pickup on Bell Island with Zup's.
-Today, they pick us up right on schedule. The first run is to their base, where
-I settle our bill.
+Yesterday, Leslie confirmed the time and place of our pickup with Zup's and
+today, they were on schedule. The first run was to their base, where I
+settled our bill.
 
 ![Zup's boat with MN2 on Beatty railroad portage 2025-08-19 12:19](attachments/202508191219-000.jpeg "Zup's boat with MN2 on Beatty railroad portage 2025-08-19 12:19")
 
-Back at Crane Lake, where we cleared customs at an automated kiosk at Scott's.
+From Zup's we were the only passengers to Crane Lake, where we cleared US
+customs using an automated kiosk at Scott's.
 
 After we were dropped off, we were so focused on tying down the canoe that we
-left a pack and my PFD on the Crane Lake dock. We did so well until
-now&mdash;sounding off before leaving a portage or a camp&mdash;and then we
-didn't. Fortunately, someone brought the pack and PFD in from the dock, and
-Scott's will hold them until Royce gets them after the party for Ripley.
+left a pack and my PFD on the Crane Lake dock. We did so well&mdash;sounding off
+our gear before leaving a portage or a camp. And, at the last, we didn't.
+Fortunately, someone brought the pack and PFD in from the dock, and Scott's will
+hold them until Royce drives back to Crane Lake after the party for Ripley.
 
 [index](#index)
 
