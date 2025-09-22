@@ -932,6 +932,8 @@ we're pretty they're swans. We've seen more swans this year than I've ever seen.
 
 Tanner Lake, Maligne River. 13.0 miles
 
+![2025-08-18 map Tanner Lake, Maligne River. 13.0 miles](./attachments/20250818.png "025-08-18 map Tanner Lake, Maligne River. 13.0 miles")
+
 <!-- Location info from log is 48.28606, -92.18403) 0 feet
 An elevation of 0? The lat/long are a spot in the BWCA near Thumb Lake.
 Take the coordinates from the GPS.
