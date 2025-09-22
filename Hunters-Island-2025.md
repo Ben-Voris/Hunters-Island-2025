@@ -10,8 +10,8 @@
  6. 2025-08-11 - [Ottertrack Lake to Saganagons Lake](#2025-08-11-day-6-ottertrack-lake-to-saganagons-lake)
  7. 2025-08-12 - [Saganagons Lake to Koko Falls portage](#2025-08-12-day-7-saganagons-lake-to-koko-falls)
  8. 2025-08-13 - [Koko Falls to island SW of Rose Island on Kawnipi Lake](#2025-08-13-day-8-koko-falls-to-west-of-rose-island-on-kawnipi-lake)
- 9. 2025-08-14 - [Kawnipi Lake to burned island on Shelley Lake](#2025-08-14-day-9-west-of-rose-island-on-kawnipi-lake-to-Shelley-lake)
-10. 2025-08-15 - [Shelley Lake to downstream of Chatterton Falls on Russell Lake](#2025-08-15-day-10-Shelley-lake-to-downstream-of-chatterton-falls-on-russell-lake)
+ 9. 2025-08-14 - [Kawnipi Lake to burned island on Shelley Lake](#2025-08-14-day-9-west-of-rose-island-on-kawnipi-lake-to-shelley-lake)
+10. 2025-08-15 - [Shelley Lake to downstream of Chatterton Falls on Russell Lake](#2025-08-15-day-10-shelley-lake-to-downstream-of-chatterton-falls-on-russell-lake)
 11. 2025-08-16 - [Russell Lake to SW end of Sturgeon Lake, near exit to Maligne River](#2025-08-16-day-11-russell-lake-to-the-end-of-sturgeon-lake)
 12. 2025-08-17 - [Maligne River to Tanner Lake E of May Island](#2025-08-17-day-12-end-of-sturgeon-lake-to-maligne-river)
 13. 2025-08-18 - [Tanner Lake to Lou Island below Twin Falls of the Maligne River](#2025-08-18-day-13-tanner-lake-to-twin-falls-on-the-maligne-river)
@@ -19,8 +19,9 @@
 
 ## 2025-08-03 Boise to Eau Claire
 
-Royce fetches me and my luggage from MSP and delivers us to Dunbar's Canoe
-Outfitting in Eau Claire. We have a nightcap, look at pictures, and chat.
+Royce retrieves me and my luggage from MSP and delivers us to Dunbar's Canoe
+Outfitting in Eau Claire. We have a nightcap, look at pictures from earlier
+Quetico trips, and chat.
 
 [index](#index)
 
@@ -28,11 +29,12 @@ Outfitting in Eau Claire. We have a nightcap, look at pictures, and chat.
 
 *Mighty were their preparations.*
 
-Royce has things well organized. He's bought and packaged food, drink, and fuel,
-and found, tested, and organized the necessary gear. But we still manage to run
-hither and thither, putting things into things, and then those things into other
-things, and those things into his truck. But we're not entirely lost&mdash;we do
-pack our passports so that they'll be easy to access when we reach customs.
+Royce has done a good job of organizing. He bought and packaged food, drink, and
+fuel, and found, tested, and organized the necessary gear. But we still manage
+to run hither and thither, until we start putting things into things, those
+things into other things, and those things into his truck. But we do have some
+presence of mind&mdash;we remember to pack our passports so that they'll be easy
+to access when we reach customs.
 
 [index](#index)
 
@@ -45,70 +47,73 @@ We set an alarm for 0-dark-thirty. Before departure, Brenda takes what she calls
 
 The drive to Crane Lake was easy, except for construction around Duluth.
 
-At the marina, we unloaded our gear into Zup's boat, put our canoe on its rack
-and let them tie it down, and arranged parking. Then we and another two groups
-departed for Canadian customs.
+At the Crane Lake marina, we unload our gear into Zup's boat, I put our canoe on
+the boat, and Royce arranges parking. With us and two other groups on board, the
+boat departs for Canadian customs.
 
 ![Royce in Zup's boat on the way to Canadian customs 2025-08-05 15:56](./attachments/202508051556-000.jpeg "Royce in Zup's boat on the way to Canadian customs 2025-08-05 15:56")
 
 Clearing customs was painless. Two agents met us on their dock on Sandpoint
-Lake. One checked Royce's and my passports, briefly chatted with us, and waved
-off that we were slightly over our duty-free liquor allowance. The rest of the
-passengers were handled equally expeditiously, and we were on our way to Zup's
-on Lac la Croix.
+Lake. One agent checked Royce's and my passports, briefly chatted with us, and
+waved off that we were slightly over our duty-free liquor allowance. The rest of
+the passengers were handled equally expeditiously, and we were on our way to
+Zup's on Lac la Croix.
 
 There are two mechanized (rail) portages between Crane Lake and Lac la Croix:
 the Loon Falls Portage (Little Vermillion Lake to Loon River) and the Beatty
 Portage (Little Loon Lake to Lac la Croix). Years ago, Dwight and I paddled to
-the Beatty Portage because I thought the name was fun. Now, I’ve seen the
-Loon River Portage, and, for the first time, both both railroads in operation.
+the Beatty Portage because I thought the name was fun and for for something to
+do. This trip is the first time I’ve seen the railroads in operation, and the
+first time I've seen the Loon River Portage.
 
 ![Beatty rail Portage for Loon Falls 2025-08-05 16:38](./attachments/202508051638-001.jpeg "Beatty rail Portage for Loon Falls 2025-08-05 16:38")
 
 Royce is very happy that Zup's has cold beer. Dinner was minestrone soup, pasta
 salad, generous slices of a well-prepared prime rib, baked potato,
-bacon-wrapped asparagus, with carrot cake for dessert.
+bacon-wrapped asparagus, and carrot cake for dessert.
 
-Our server was a young woman from New Zealand. She told us that she works a
-similar operations year-round, but alternates between northern and southern
-hemisphere, so that she never works in winter weather.
+Our server was a young woman from New Zealand who told us that she works at
+similar operations year-round, but that she moves between northern and southern
+hemisphere, because she doesn't like winter.
 
 ![Table for two at Zup's 2025-08-05 18:03](./attachments/202508051803-000.jpeg "Table for two at Zup's 2025-08-05 18:03")
 
-After dinner, a boat took us to a room on another island. A small group was
-cleaning fish on the dock.
+After dinner, a boat took us to a room on another island. When we arrived, a
+small group was cleaning fish on the dock.
 
-The room leaned run-down Motel 6, but was acceptable. We were surprised at the
-lack of potable water. Fortunately, I'd filled our bottles at the dining hall.
+The room had a run-down Motel 6 vibe, but was acceptable. We were surprised at
+the lack of potable water. Fortunately, I'd filled our bottles at the dining
+hall.
 
 ![Royce in room at Zup's 2025-08-05 19:53](./attachments/202508051953-000.jpeg "Royce in room at Zup's 2025-08-05 19:53")
 
-As we head to bed, mosquitoes are starting to bite, and rain is threatening.
+We headed to bed when the mosquitoes started to bite. Rain is threatening.
 
 ## 2025-08-06 Day 1: Bottle Portage on Lac la Croix to island N of Saturday Bay Crooked Lake
 
 Lac la Croix, Bottle Lake, Iron Lake, Crooked Lake. 11.1 miles.
 
-### 2025-08-06T17:53:31-05:00 (48.20686, -91.84773) 1244 feet Camp on Crooked Lake
+Zup's picked us up promptly at 6:30.
 
-We've been in camp for an hour or so. I used the inReach to let the home front
-know that we are here and that we are safe.
-
-Zup's picked us up promptly at 6:30. After breakfast, at around 9:00, they
-dropped us off at Bottle Portage.
-
-Before they were were dropped off at Black Robe Portage, we shared the boat with
-a family that was taking their first canoe trip. Mom was *way* out of her
+Until they were were dropped off at the Black Robe Portage, we shared the boat
+with a family that was taking their first canoe trip. Mom was *way* out of her
 comfort zone but was being brave&mdash;her first time in a boat was her trip to
 Zup's, yesterday. She took her first swim lessons to prepare for this trip. Dad
 had been on canoe fishing trips before but had not led one. The daughter, who I
 guessed to be about 10, was all in on whatever dad was doing. Grandma and
 grandpa seemed bemused. Based on his gear choices, mom's brother seemed to think
 he would be lounging on a beach. Their tent was huge and was meant for car
-camping&mdash;it even included a porch. It's case had little wheels that
+camping&mdash;it even included a porch. Its case had little wheels that
 might've been appropriate for a paved campground but not for even the best of
 portages. As I understood them, their plan was to put six people in one large
 canoe and to tow a solo canoe, which would hold their gear. I wish them well.
+
+We were dropped off at at Bottle Portage at around 9:00.
+
+### 2025-08-06T17:53:31-05:00 (48.20686, -91.84773) 1244 feet Camp on Crooked Lake
+
+We've been in camp for an hour or so. I used the inReach to let the home front
+know that we are here and that we are safe.
 
 This year, Royce is experimenting with using trekking poles on the portages. So
 far, he feels they help.
@@ -145,7 +150,7 @@ As we were pitching the tent, green beetles&mdash;the same hue as the rain
 fly&mdash; landed on the tent. They had perfect camouflage, just in the wrong
 place. We both got a kick out of that.
 
-There are a few breaks in the clouds. It's quite still and humid and the bugs
+There are a few breaks in the clouds. It is quite still and humid, and the bugs
 are whining outside of tent.
 
 [Index](#index)
@@ -252,12 +257,12 @@ The Lower Basswood Falls portage was easy.
 
 Where the outflow of two parts of Wheelbarrow Falls collide, the paddling is a
 little tricky. It's been so long since I've done this route that that I'd
-forgotten that.
+forgotten about that.
 
-The river had flooded the portage in spots but the trail bed was firm, so we
+In spots, the river had flooded the portage, but the trail bed was firm, so we
 just sloshed through the water.
 
-In another "it's been a long time", I had forgotten about the short portage that
+In another "it's been a long time", I'd forgotten about the short portage that
 comes between Wheelbarrow Falls and Basswood Falls (Horse Portage). The current
 kept me from landing where I wanted to, which turned out to be a good thing
 because we ended up at the correct place. On this portage, we met a young couple
@@ -269,41 +274,43 @@ discipline.
 portage. So, back then, the "mile portage" was closer to 1.5 miles.)
 
 We caught up with the scouts again on the Horse Portage. They plan to do it
-halfway and then camp for the night. We slog through. It's long, hot,
+halfway and then camp for the night. We slog through. It was long, hot,
 muggy, and hard, but not as hard as I'd feared.
 
 At the Basswood Lake end, the wind was blowing directly into the portage
-landing. The trees were swaying, waves were breaking and, as far as we could
+landing. The trees were swaying, waves were breaking, and, as far as we could
 see, there were white horses.
 
 We had a brief discussion of how we might get through the surf and paddle out of
 the wind, but quickly gave that up as silly. So, since the wind was making it
-quite pleasant on shore and there was no traffic (no sensible person would have
-chosen to be on Basswood in this wind), we did the sensible thing and took a
-nap. We puttered around for a bit, hung our sweaty shirts to dry, etc., before
-we unrolled our RidgeRests and got serious. An hour or so later, the wind
-dropping woke us. Royce had the brilliant idea of having a coffee, so we do that
-before we load the boat. By the time we were off, we were paddling through
-rollers but no chop, which made for easy and fast paddling. With the coffee on
-board, we paddled at morning pace for more than an hour.
+quite pleasant on shore and there was no traffic (no sensible person would
+choose to be on Basswood in this wind), we did the sensible thing and did
+nothing. We puttered around for a bit, hung our sweaty shirts to dry, etc.,
+before we unrolled our RidgeRests and got serious about napping. An hour or so
+later, we were awoken by the wind dropping. Royce had the brilliant idea of
+having a coffee, so we do that before we load the boat. By the time we were off,
+we were paddling through rollers but no chop, which made for easy and fast
+paddling. With the coffee on board, we paddled at morning pace for more than an
+hour.
 
 ![Royce with canoe at Basswood Lake end of Horse Portage 2025-08-08 16:09](./attachments/202508081609-000.jpeg "Royce with canoe at Basswood Lake end of Horse Portage 2025-08-08 16:09")
 
 While we were paddling, the overcast was so thick that I began to worry about
 how late it was.
 
-As usual distances and speed confound us, so we spent more time than I would
+As usual, distances and speed confound us, so we spent more time than I would
 like double checking the map and GPS, which was mildly annoying. But then we
 never went astray.
 
 We reached camp around 18:00, set up the tent, and had tequila and limes, and
-snacks. This is a pleasant campsite although footing is bad&mdash;rocks and
-sticks everywhere.
+snacks. This is a pleasant campsite although footing is bad with rocks and
+sticks spread throughout camp.
 
 We are tired. Royce made a quick meal of dried chicken, dried vegetables, and
-ramen. It was better than the backpacker meals and only a little messier (one
-pot, two spoons, and two cups to wash). We slurped it down, had a little more
-tequila, and started putting camp to bed.
+ramen. It was was more substantial and tasted better than the backpacker meals
+and required only a little more clean up (one pot, two spoons, and two cups to
+wash). We slurped it down, had a little more tequila, and started putting camp
+to bed.
 
 Then the bugs came. Double-plus ungood. So bad that I put on my bug net on and
 didn't brush my teeth. The net helped a lot under the bill of my cap but not so
@@ -341,7 +348,7 @@ lightning strikes lit the tent and the thunder was loud.
 This morning, some animal made a noise that woke Royce and we slowly crawled out
 of the tent to investigate. Stupid squirrels. Yesterday was a big day for us. So
 we rediscover fire, sip our coffee, practice our grunting, and amble around
-camp, stopping occasionally to stare at things. There's a fair bit of water to
+camp, occasionally stopping to stare at things. There's a fair bit of water to
 shake off the tent and packs. Everything important was under cover, so our camp
 discipline was good, even if we'e not feeling spritely.
 
@@ -349,27 +356,27 @@ There is still a slight breeze from the south, so the thunderstorm brought no
 major weather change. The overcast is moderately thick, but not as thick as
 yesterday evening. A few bugs are around but they're not bad.
 
-Saw Osprey hanging around their nest.
+Saw two Osprey hanging around their nest.
 
 We made very good time on the paddle to Prairie Portage, arriving there just
 before 15:00.
 
-As we made it into Carp, all of the campsites on the US side were occupied.
+All of the campsites on the US side of Carp were occupied.
 
-As we turned north into the main body of Carp, our presence offended a beaver.
+As we turned north into the main body of the lake, we offended a beaver.
 
-This campsite, and the three others that are nearby in Quetico, are not much
-used. All but this one have trees down on them, making it not obvious that there
-even was a campsite there. If we had not been looking carefully, we would not
-have seen their tumbled down fire rings.
+This campsite, and the three other nearby Quetico sites, have not been used for
+a while. All but this one have trees down on them, making it not obvious that
+there  was a campsite. If we had not been looking carefully, we would not have
+seen their tumbled-down fire rings.
 
-The landing for this camp is through brush and there is no place to sit out or
-swim, but it's the best of a bad lot. Here, the fire rings has a green sprout
+The landing for this camp is through brush, and there is no place to sit out or
+swim, but it's the best of a bad lot. Here, the fire ring has a green sprout
 growing in it, so it hasn't been used for a while.
 
-The weather was calm until evening, with clouds rolling in and out but when
-we made camp, the wind was notable. When we went to the tent, the wind had
-almost died but not quite entirely.
+The weather was calm until evening, with clouds rolling in and out, but when we
+made camp, the wind was notable. When we went to the tent, the wind had almost
+died but not quite entirely.
 
 I would've liked to have made it to Robinson Island but we were both too tired
 to make the portages between Carp and there.
@@ -402,7 +409,7 @@ blast past it on the border route, so it intrigues me.
 
 A middle-aged couple paddled past our camp, heading south. They might've seen or
 taken the portage to Crawford but we don't think to ask&mdash;plus they might've
-thought it rude to have strangers shout questions at them. We decide to not risk
+thought it rude to have strangers shout questions at them. We decide not to risk
 the time we'd need to explore portages that we know nothing about, and decide to
 stick with our original plan and to take the portage to Melon Lake.
 
@@ -427,22 +434,23 @@ dead trees be from before that?
 We were paddling into a headwind when we left camp this morning but for most of
 the day, we had ideal conditions. For the last couple of hours on Knife we had
 quartering winds on the stern, which was tough. Even so, we made great time,
-making over 5 mph for short bursts.
+doing over 5 mph for short bursts.
 
 Our first portage of the day was from Carp to Melon. It was busy&mdash;one
 couple and two groups of guys. The couple seemed to have their house in order
 and passed us without making an impression. But both groups of guys were
-carrying a menagerie of gear: packs, duffels, boxes, and everyone had both hands
-full of rods, paddles, and other gear. Though I always want to tighten up how we
+carrying a menagerie of gear: packs, duffels, boxes, with both hands full of
+rods, paddles, and other gear. Though I always want to tighten up how we
 portage, when I see groups like them, I can't help but to think we're actually
 pretty good at it.
 
-On another of the Knife river portage, we met a couple and their seven-year-old
-and five-year-old girls. Mom told us that both daughters were experienced
-voyageurs and were both &ldquo;portage queens&rdquo;. The older had made her
-first canoe trip at age 3 on Seagull Lake and said that she remembered how fun
-it was to portage to Alpine for a picnic. The younger raised her arms and yelled
-&ldquo;Yay!&rdquo; whenever mom or dad said &ldquo;portage queen&rdquo;.
+On another of the Knife river portages, we met a couple, and their
+seven-year-old and five-year-old girls. Mom told us that both daughters were
+experienced voyageurs and were both &ldquo;portage queens&rdquo;. The older had
+made her first canoe trip at age 3 on Seagull Lake and said that she remembered
+how fun it was to portage to Alpine for a picnic. The younger raised her arms
+and yelled &ldquo;Yay!&rdquo; whenever mom or dad said &ldquo;portage
+queen&rdquo;.
 
 Around 12:40, we stopped for lunch on the west campsite on Robbins Island. It's
 so lovely that we took an extra 15 or 20 minute rest.
@@ -462,22 +470,22 @@ climb&mdash;a real up-and-down.
 Shortly after the portage from Knife Lake, we made camp at around 16:30 on the
 US (BWCA) side of Ottertrack. Compared to the sites in Quetico, this one is
 notably more heavily used&mdash;and it comes equipped with obnoxious and
-aggressive chipmunks that we must shoo away from our gear.
+aggressive chipmunks that we must repeatedly shoo away from our gear.
 
 Saw a lot of loons today. One pair let us paddle within 6 feet.
 
-Tonight, we finished the last of the tequila and switched to bourbon, and had
-our first backpacker meal. As before, it is food. They have reduced the sodium
-but have not improved the taste. Royce had a take on Spanish Rice called
-*Italian Style Pepper Steak* that he found particularly reprehensible. I found
-it boring but edible.
+Tonight, we finished the last of the tequila and switched to bourbon. And we
+had our first backpacker meal. As before, they are calories. They have reduced
+the sodium but have not improved the taste. Royce had a take on Spanish Rice
+called *Italian Style Pepper Steak* that he found particularly reprehensible. I
+found it boring but edible.
 
 Good day and good weather. Paddling was challenging enough to keep me focused.
-The wind forced me to paddle on one side for long stretches which was awfully
-tiring, but needs must.
+The wind forced me to paddle on one side for long stretches, which was tiring.
+But needs must.
 
 Tomorrow, we turn north into a bay of Ottertrack that I've never seen, portage
-into Jasper, and further north into Quetico.
+into Jasper, and head further north into Quetico.
 
 [index](#index)
 
@@ -497,8 +505,8 @@ Even by Quetico standards, the portage to Jasper was hard to find.
 ![Royce on Ottertrack to Jasper Lake portage 2025-08-11 11:16](./attachments/202508111116-000.jpeg "Royce on Ottertrack to Jasper Lake portage 2025-08-11 11:16")
 
 The portage from Ottertrack to Jasper stopped at a pond (48.20708, -91.07873 to
-48.20694, -91.07861) where we had to paddle for a few hundred feet to get to the
-next part of the portage.
+48.20694, -91.07861), where we had to paddle for a few hundred feet to get to
+the next part of the portage.
 
 ![Royce on portage after mid trail pond on Ottertrack to Jasper 2025-08-11 12:19](./attachments/202508111219-000.jpeg "Royce on portage after mid trail pond on Ottertrack to Jasper 2025-08-11 12:19")
 
@@ -506,8 +514,7 @@ The landings for the portage between Jasper Lake and Lilypad Lake was difficult
 on both sides, but the trail was fairly easy and showed signs of recent
 maintenance.
 
-We had lunch on Jasper at quite a nice site. We were tempted, but we have miles
-to go.
+We had lunch on Jasper at a nice site. We were tempted, but we have miles to go.
 
 The last portage, from Lilypad to Saganagons was, by far, the worst of the day.
 The start was so steep that when I tilted the canoe up enough to keep the bow
@@ -532,7 +539,7 @@ We saw toad on the portage and a leopard frog at the Saganagons end.
 That portage left us both so tired enough we stopped early. We got the tent up
 and took a quick swim to rinse off some of the loon poop.
 
-Sometime after lunch, the smoke started to blow in. Red sky now even though the
+The smoke started to blow in after lunch. The sky is red now, even though the
 sun is a couple hand widths above the horizon.
 
 Reached camp around 16:00.
@@ -548,21 +555,21 @@ only had to pop into the tent.
 Saganagons Lake, Little Falls, Koko Falls. 17.2 miles
 
 We paddled around the big peninsula on Saganagons because the portage was not
-where either the *Fisher* and *NatGeo* maps showed it. (One thing about the
+where either the *Fisher* or *NatGeo* maps showed it. (One thing about the
 GPS&mdash;we know for sure where we are.) The *BRMB Paddling Trails* map shows
 the portage farther to the east, around a small peninsula, a mile or so out of
-the way, but we decided not to take the time to look there and started paddling.
-We made good time heading east and reasonably good time heading west. I don't
-know how much time we lost&mdash;if any&mdash;paddling the extra seven miles vs.
-the (unknown) portage.
+the way, but we decided not to take the time to look there and dug our paddles
+in to make time. We moved fast heading east and reasonably good time heading
+west. I don't know how much time we lost&mdash;if any&mdash;paddling the extra
+seven miles vs. the (unknown) portage.
 
 ![Royce. Lunch break on Saganagons Lake 2025-08-12 13:03](./attachments/202508121303-000.jpeg "Royce. Lunch break on Saganagons Lake 2025-08-12 13:03")
 
 ### 2025-08-12T18:35:35-05:00 (48.31220, -91.11031) 1346 feet
 
-We make dinner at the end of Little Falls portage since we figure that
-if we wait to make dinner until we're in camp, it'll be dark and we'd
-be swarmed by mosquitoes.
+Evening is coming on and we see nowhere to camp, so we make dinner at the end of
+Little Falls portage. Plus we figure that if we wait to make dinner until find a
+camp, we'd be swarmed by mosquitoes.
 
 A thunderstorm blew through while we were portaging. Hazy overcast now.
 
@@ -572,21 +579,23 @@ A thunderstorm blew through while we were portaging. Hazy overcast now.
 
 ### 2025-08-12T21:14:03-05:00 (48.31543, -91.11356) 1365 feet Camp on Koko Falls Portage
 
-It was getting dark, so we made camp at around 19:20 on a &ldquo;Fort
-Necessity&rdquo; near Koko Falls, a short distance off the portage.
+Another party was camped across the river from the start of the Koko Falls
+portage.
 
-We've been the tent for a few minutes. If only we've been here a few tens of
+It was getting dark, so we made a &ldquo;Fort Necessity&rdquo;camp at 19:20. The
+tent is a few tens of feet from the portage and a few feet from the falls. It's
+not heavily used but we're not the first here either.
+
+We've been in the tent for a few minutes. If only we've been here a few tens of
 minutes earlier so we could've done things like brush our teeth.
-
-Another party was camped across the river from the start of the portage.
 
 We saw two groups of three canoes each. One on Saganagons and the other leaving
 the river.
 
-It was a longer day than we expected. We do a poor job of estimating travel time
-from the map. And of course, we did not expect up to paddle around the
-peninsula. I don't know what it is, but something has happened in the last 23
-years to make the portages harder.
+We did a poor job of estimating travel time. and, we did not expect up to paddle
+around the peninsula, so it was a longer day than we expected. I wouldn't want
+to guess what might've happened in the last 23 years, but I'm moving slower on
+the portages.
 
 [index](#index)
 
@@ -620,13 +629,12 @@ They carried two medium sized rubber packs with hip belts, each of which is
 smaller than the rubber pack that Royce and I are sharing. I suspect the total
 volume of their two packs is only a little more than our shared pack, but that
 likely means that the packs weight less. I'm sure the hip belt helps too. Their
-food pack is a single barrel which is about the size of one of the two that we
-carry. Their barrel is rigged in a harness which puts its weight further away
-from the body, which I don't like&mdash;at all. Finally, each of them has a PFD
-and a paddle (and I didn't see a spare paddle). They use a Souris River 17'
-canoe, which, if memory serves, is about the weight of our MN2. They are
-shopping for a lighter canoe to make it easier for them to continue making these
-trips.
+food pack is a single barrel of about the size of one of the two that we carry.
+Their barrel is rigged in a harness which puts its weight further away from the
+body, which I don't like&mdash;at all. Finally, each of them has a PFD and a
+paddle (and I didn't see a spare paddle). They use a Souris River 17' canoe,
+which, if memory serves, is about the weight of our MN2. They are shopping for a
+lighter canoe to make it easier for them to continue making these trips.
 
 I can't believe that all they had, but that's all that I noted&mdash;would've
 loved to have done a pack dump with them.
@@ -635,34 +643,33 @@ To give Bob a break, I carried his personal pack on top of our food pack. They
 were a pleasure to chat with and gave hope to both Royce and me that, in 10
 years, we might still be on a trail like this.
 
-When we left them to continue downstream, they were looking at the rapids
-downstream of Koko Falls and were discussing how to run them. I gather they did
-not think the rapids would be particularly challenging.
+When we continued on, they were looking at the rapids downstream of the falls,
+and were discussing how to run them. I gather they thought the rapids would not
+be particularly challenging.
 
-![Royce on downstream end of Koko Falls portage](./attachments/202508131109-000.jpeg "Royce on downstream end of Koko Falls portage 2025-08-13 11:09")
+![Royce on downstream end of Koko Falls portage 2025-08-13 11:09](./attachments/202508131109-000.jpeg "Royce on downstream end of Koko Falls portage 2025-08-13 11:09")
 
 The only the other party we saw yesterday was a young man in a solo canoe on
 Kawnipi Lake. He was traveling the opposite direction.
 
 We're now back on the Fisher maps that Royce brought. The way the maps are
-divided, we needed a small area from one map and he had decided not to bring it.
-Wish he had&mdash;scrolling around on the tiny GPS screen isn't fun.
+divided, we needed only a small area from one map and he had decided not to
+bring it. Wish he had&mdash;scrolling around on the tiny GPS screen isn't fun.
 
-As I've noted, the Quetico campsites that the Fisher maps mark are only a
-suggestion to maybe look nearby. For example, we found one site&mdash;that
-wasn't on the map&mdash;across the bay from where we are. It had not been used
-in a long time. The put-in was horrible&mdash;rocks. Maybe, if we'd been wearing
-magic sandals and had been ten years younger, we might've have jumped out on the
-sloped smooth rock but anything else would have required navigating around
-underwater obstructions.
+As noted, the Quetico campsites marked on the Fisher maps are not current and
+are, at best, mark popular sites. For example, we found a site that wasn't on
+the map across the bay from where we are. The put-in was
+horrible&mdash;rocks&mdash;but it was a site. Maybe, if we'd been wearing magic
+sandals and had been ten years younger, we might've have jumped out on the rock
+but anything else would have required navigating around underwater obstructions.
 
 We arrived in camp around 17:00. The landing is sandy, which makes it easy to
 hop in and out of the canoe, but does make it difficult to gather un-silted
-water for the water filter.
+water to  filter.
 
-Some trees have been taken down and left. We're don't know why&mdash;they don't
-look to have been window-makers. Also, we understood that Quetico does not do
-campsite maintenance.
+Some trees have been taken down and left. We're don't know why. We understood
+that Quetico does not do campsite maintenance and they don't look to have been
+window-makers.
 
 Kawnipi was kind to us and gifted us with swift travels. It's a big lake and
 and we've already covered most of it.
@@ -678,27 +685,26 @@ Kawnipi Lake, Kahshahpiwi Creek, Montgomery Lake, Shelley Lake. 13.4 miles
 As we were packing, the wind started gusting. Two guys paddled past in what
 looks like MN2. They were making good time but were paddling hard. By the time
 we were ready to leave, the increasing wind and growing white caps led us to
-decide to wait out the gusts.
-
-On the water around noon. Wind is from the south again. We make good time.
+decide to wait out the gusts. As it was, we were the water around noon. Wind was
+from the south again and we made good time.
 
 Because of the wind, we left my planned, more open route, and went through the
 &ldquo;fiddly bits&rdquo; to reach the portage to Shelley Lake. Most of the
 shore is burnt.
 
-All we could see of the portage were burned trees. It might've been cleared, but
-the way the terrain was, we had to commit to a particular spot or risk being
-swept down the rapids. We could not see the portage, so we backtracked to
-portage to Montgomery Lake.
+The portage is very close to the rapids and all we could see of it were down,
+burned trees. It might've been cleared, but the way the terrain was, we had to
+commit to landing at a particular spot or risk being swept down the rapids. We
+could not see the portage, so we backtracked to portage to Montgomery Lake.
 
 This portage was hard to find and it was tough&mdash;lots of rocks and a path so
 narrow that the canoe kept catching in the trees. To make it more fun, it had
 mucky areas and a small stream crossing. The nearby beaver dam might've have
 changed things, but we think it more likely that the portage is not much used.
 
-Montgomery Lake also had been heavily burnt, and was, basically, a spruce swamp.
+Montgomery Lake was an ugly lake&mdash;basically a heavily burned spruce swamp.
 We wonder why anyone would portage here. None of the three campsites on it
-showed much use. The whole place was ugly.
+showed sign of much use.
 
 ![Paddling through burn area on Montgomery Lake 2025-08-14 16:37](./attachments/202508141637-000.jpeg "Paddling through burn area on Montgomery Lake 2025-08-14 16:37")
 
@@ -715,24 +721,24 @@ We headed south towards the first campsite on Shelley, arriving around 17:30.
 This camp is on an island that had mostly burned and is growing back to brush.
 But there an open area with enough space to pitch a tent. The wind was howling
 so hard that we put rocks on all the stakes and, for the first time, felt the
-need to pitch the guy lines. Of course, when bug time came, the wind died.
+pitched the guy lines. Of course, when bug time came, the wind died.
 
 ![Ben standing near tent on a fire-scarred island on Shelley Lake 2025-08-14 19:36](./attachments/202508141936-000.jpeg "Ben standing near tent on a fire-scarred island on Shelley Lake 2025-08-14 19:36")
 
 Curried rice and bacon for dinner.
 
-When I dug my cat hole, I saw a very thin layer of organic matter over carbon
+When I dug my cat hole, I turned over a thin layer of organic matter that was over carbon
 from the last fire, then a few inches of soil, and then another layer of carbon,
 then mineral soil. I wonder, how long ago was the fire that produced the lower
 layer of carbon?
 
-The portages are taking longer more than we expected. In retrospect, the
+The portages are taking longer than we expected. In retrospect, the
 Horse/Mile/Basswood Falls portage was relatively easy because, once we had our
 load on, it was just a matter of plodding. The portages over the last few days
 have required more careful attention. The landings, usually on both sides, tend
 to be narrow which requires a bow on approach and and bow out departure, which
 requires a great deal of fiddling to get the stern paddler (me) and our packs
-out of the canoe or the packs and the bow paddler into it.
+out of the canoe, or the packs and the bow paddler into the canoe.
 
 [index](#index)
 
@@ -743,13 +749,13 @@ Shelley Lake, Keats Lake, Split Rock Falls, Chatterton Lake, Russell Lake.
 
 ### 2025-08-15T20:39:27-05:00 (48.47556, -91.45539) 1246 feet
 
-We went off track twice before we found the Have a Smoke Portage (to Keats).
+We went off track twice before we found the Have a Smoke Portage to Keats.
 
-We met six young women (Royce guessed they're 20 or younger) that are using two
-aluminum canoes that, at first glance, look as if they are wood and canvas. One
-had a brass name plate on the bow but I couldn't make it out. One woman carried
-each canoe, but they rolled the canoe up in teams of three&mdash;an interesting
-technique.
+We met six young women (Royce guessed they're 20 or younger) that were using two
+aluminum canoes that, at first glance, looked as if they are wood and canvas.
+One had a brass name plate on the bow but I couldn't make it out. One woman
+carried each canoe, but they rolled the canoe up in teams of three&mdash;an
+interesting technique.
 
 The day started gray and calm then cleared up and got breezy. With the
 blue skies and a better vantage, the falls here are more impressive than
@@ -760,10 +766,10 @@ those on the Falls chain.
 All three portages (Have a Smoke between Shelley and Keats, Spit Rock Falls
 between Keats and Chatterton, and Chatterton Falls between Shelley and
 Chatterton) were well traveled and were reasonably easy to walk, with the
-exception of Split Rocks Falls portage. It one started with a steep climb that
-led to a boulder field. The boulders were 3 to 5 feet high with a gap between
-each so that we had to balance on boulder and take a giant step to the next. Our
-loads made that extra exiting. But it was well traveled and was otherwise
+exception of Split Rocks Falls portage. It started with a steep climb that led
+to a few boulders. The boulders were 3 to 5 feet high with a gap between each so
+that we had to balance on boulder and take a giant step to the next. Our loads
+made that extra exiting. But it was well traveled and was otherwise
 straight-forward.
 
 <!-- The "NRCAN" maps shows that Have a Smoke does not go around Snake Falls but around an obstacle to the north of Garmin's "Canadian Topo" shows that Have a Smoke is around Snake Falls. Here, I prefer NRCAN. But I think the picture, below, is likely of that fall.
@@ -795,7 +801,7 @@ gorgeous view.
 We saw one canoe in the far distance but otherwise have the lake to ourselves.
 
 We had whiskey and then more, snacks, then more whiskey. This is the first time
-we've been in camp early enough to hang out with nothing urgent to do. It's
+we've been in camp early and not tired and with nothing that needs doing. It's
 quite nice. And we *will* have camp ready before the bug time.
 
 I took a brief but pleasant swim. It was refreshing to not be sticky.
@@ -819,7 +825,7 @@ When we stopped for lunch, I discovered that DEET had leaked out of the pump
 bottle into the waterproof bag that I carry in the guide pack. It melted through
 the bottom of the bag, melted the outside of my glasses case, and damaged my
 wallet, raincoat, etc. We *must* have a different way to carry bug dope. Or get
-something that's not as good as solvent as DEET. Vickie recommended something
+something that's not as good as solvent as DEET. Vickie recommended *Natrarpel*,
 but I didn't look into it.
 
 [index](#index)
@@ -835,14 +841,13 @@ past, followed by two chatty and much louder younger women.
 
 The portage had a mildly difficult landing, which was followed by a steep climb,
 then a corduroy section, and then a horrible descent to a landing that must've
-taken us 20 minutes to half an hour to figure out how to load the boat. Rocks
-where everywhere and most of them were scraped with aluminum where others had
-simply drug their boats over them. We loaded the boat off of one rock and then I
-tossed the line to Royce, who pulled it over to where we could get him. What a
-mess!
+taken us 20-30 minutes to figure out how to load the boat. Rocks where
+everywhere and most of them were scraped with aluminum where others had simply
+drug their boats over them. We loaded the boat off of one rock and then I tossed
+the line to Royce, who pulled it over to where we could get him. What a mess!
 
-About 40 minutes away from the portage we stopped for lunch at the first easy
-place to land. Man, that portage was tough.
+At the first easy place to land&mdash;about 40 minutes away from the
+portage&mdash;we stopped for lunch. Man, that portage was tough.
 
 Along the way, Royce saw a large pike jump. We also saw something that we
 thought was a deadhead, but then it rose a little out of the water, as if to
@@ -850,21 +855,20 @@ look at us, and as quickly disappeared. It seemed too far away from shore to be
 a beaver, but did seem to be some kind of mammal.
 
 The maps showed us a few close campsites. We aren't in a rush and the idea of a
-short day appealed, but the canoe gods were smiling on us, so we decided to take
-advantage of the perfect paddling conditions and push to the end of Sturgeon
-Lake.
+short day appealed, but Sturgeon was smiling on us and we decided to take
+advantage of the perfect paddling conditions and push to the end of the lake.
 
 After we turned towards the portage into the Maligne River, we took the first
-campsite just after 16:30. It has one reasonable tent site and rocks that have
-enough breeze that we could enjoy the sunset without being chased into the tent.
-Plus we had a number of dragonflies to provide air cover (hunting around us).
+campsite, just after 16:30. It has one reasonable tent site, and rocks that are
+exposed to the breeze where a number of dragonflies are hunting. So, we hope to
+enjoy the sunset without being chased into the tent.
 
 The canoe gods smiled on us again. We crossed Sturgeon under warm and mostly
 cloudless skies. The trailing wind occasionally threatened to build up to
-something worrisome but always subsided. I don't know our average speed, but I
-would expect it to be around 4 mph.
+something worrisome but they always subsided. I don't know our average speed,
+but I would expect it to be around 4 mph.
 
-![Hash browns, hamburger, and gravy on Russell Lake 2025-08-16 18:48](./attachments/202508161848-000.jpeg "Hash browns, hamburger, and gravy on Russell Lake 2025-08-16 18:48")
+![Hash browns, hamburger, and gravy on SW end of Sturgeon Lake  2025-08-16 18:48](./attachments/202508161848-000.jpeg "Hash browns, hamburger, and gravy on SW end of Sturgeon Lake 2025-08-16 18:48")
 
 ![Sunset view from camp near SW end of Sturgeon Lake 2025-08-16 20:11](./attachments/202508162011-000.jpeg "Sunset view from camp near SW end of Sturgeon Lake 2025-08-16 20:11")
 
@@ -896,8 +900,9 @@ I.e., not really rapids. They obviously have much more experience with white
 water than we do. Heck, they swam one after they portaged it. Royce saw an otter
 at the end of one swift.
 
-We took them all seriously because we have a little experience and, for all of
-its sterling qualities on lakes, the MN2 is *not* a white water boat.
+We took them the least bit of white water seriously because we have a little
+experience with it and, for all of its sterling qualities on lakes, the MN2 is
+*not* a white water boat.
 
 ![Downstream of portage on Maligne River 2025-08-17 15:17](./attachments/202508171517-001.jpeg "Downstream of portage on Maligne River 2025-08-17 15:17")
 
@@ -906,19 +911,20 @@ found a campsite on an island, but it was pretty depressing.
 
 We found our camp site at around 16:30. It is above a small falls, past the
 burn, and is just east of the southern tip of May Island. It's a large and well
-used site, that is surrounded by pines and firs. There are multiple tent sites.
-I pick the one that that seemed most level and discover there's not enough dirt
-over the rock to drive even one stake. Fortunately, there are plenty of rocks.
+used site, surrounded by pines and firs. There are multiple tent sites. I pick
+the one that that seemed most level and discover there's not enough dirt over
+the rock to drive even one stake. Fortunately, there are plenty of rocks to hold
+the tent.
 
 ![View of Tanner Lake falls from camp near May Island 2025-08-17 17:14](./attachments/202508171714-000.jpeg "View of Tanner Lake falls from camp near May Island 2025-08-17 17:14")
 
-A trail runs nearby. The map shows that it runs north of Lac la Croix for many
-miles to the west, through swamps. A winter trail for mushers?
+A trail runs nearby. The map shows that it runs north of Lac la Croix through
+swamps, for many miles to the west. A winter trail for mushers?
 
 ![Camp on Tanner Lake near May Island 2025-08-17 19:58](./attachments//202508171958-000.jpeg "Camp on Tanner Lake near May Island 2025-08-17 19:58")
 
-Twice tonight we heard what sounds like a Tijuana taxi but we're pretty
-we're hearing swans. We've seen more swans this year than I've ever seen.
+Twice tonight we heard what sounds like a Tijuana taxi flying overhead, but
+we're pretty they're swans. We've seen more swans this year than I've ever seen.
 
 [index](#index)
 
@@ -936,8 +942,7 @@ Take the coordinates from the GPS.
 
 ![Royce at portage around Tanner Rapids on Tanner Lake 2025-08-18 11:27](./attachments/202508181127-000.jpeg "Royce at portage around Tanner Rapids on Tanner Lake 2025-08-18 11:27")
 
-Last night was the first time I had the sleeping bag
-draped over my whole body.
+Last night was the first time I had the sleeping bag draped over my whole body.
 
 We saw a party with three canoes and six adults coming up river. They
 were paddling Grumman canoes and all were using a strange stroke. Maybe
@@ -976,20 +981,19 @@ Maligne River, Lac La Croix. 1.6 miles
 
 The last morning of the trip. Everything is damp but it's not raining now.
 
-Yesterday, Leslie confirmed the time of our pickup on Bell Island with Zup's and
-today, they pick us up right on schedule. The first run is to their base, where
+Yesterday, Leslie confirmed the time of our pickup on Bell Island with Zup's.
+Today, they pick us up right on schedule. The first run is to their base, where
 I settle our bill.
 
 ![Zup's boat with MN2 on Beatty railroad portage 2025-08-19 12:19](attachments/202508191219-000.jpeg "Zup's boat with MN2 on Beatty railroad portage 2025-08-19 12:19")
 
-Back at Crane Lake, where we cleared customs at
-an automated kiosk at Scott's.
+Back at Crane Lake, where we cleared customs at an automated kiosk at Scott's.
 
 After we were dropped off, we were so focused on tying down the canoe that we
-left a pack and my PFD on the docks at Crane Lake. We did so well until
-now&mdash;sounding off before leaving a portage or a camp. And then we didn't.
-Fortunately, someone at Scott's brought them in from the dock, and will hold
-them. Royce will get them after the party for Ripley.
+left a pack and my PFD on the Crane Lake dock. We did so well until
+now&mdash;sounding off before leaving a portage or a camp&mdash;and then we
+didn't. Fortunately, someone brought the pack and PFD in from the dock, and
+Scott's will hold them until Royce gets them after the party for Ripley.
 
 [index](#index)
 
@@ -1004,13 +1008,12 @@ portage, they were sometimes more of an annoyance. But at around 20:00, they
 turned into a pestilence. Even on the clear nights, they kept us from star
 gazing.
 
-On one of the early nights, I saw a light flashing outside the tent. After a
-while trying and failing to identify what gadget was making the light, I
-realized I was looking a few fire flies. This is the farthest north I've ever
-seen them.
+On one of the first few nights, I saw a light flashing outside the tent. After
+puzzling over what gadget was making the light, I realized I was looking a few
+fire flies. This is the farthest north I've ever seen them.
 
-At the beginning of the trip we sweated a lot on the portages and when we first
-went to the tent. I wore my sun hoodie to keep sweat off things.
+At the beginning of the trip, we sweated a lot on the portages and when we first
+went to the tent. I wore my sun hoodie in the tent to keep my sweat off things.
 
 Compared to the Timberline 4 tent that it replaced, the new Big Agnes is
 lighter, smaller, more stable in the wind, and is roomy for two with our gear.
@@ -1018,7 +1021,9 @@ So far, its only faults are how careful one must be when closing the zippers and
 when undoing the toggle for the rain fly. The Timberline zippers had the same
 problem, though they were less finicky.
 
-Some Apple defect locked the satellite conversation with Leslie, so I'm very
-glad I had the inReach. Also, it was much harder to get a satellite fixed here
-than in Boise. Perhaps a combination of latitude and that there are many more
-trees?
+When I connected my phone to a satellite, some Apple defect locked the
+conversation with Leslie, so I was very glad to have the inReach.
+
+Also, it took longer to get a satellite fixed here, than in Boise. Perhaps a
+combination of latitude and that there are many more trees? Anyway, I did post
+processing to add coordinates to more pictures than I expected.
