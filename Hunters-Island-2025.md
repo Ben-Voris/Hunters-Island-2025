@@ -159,6 +159,8 @@ are whining outside of tent.
 
 Crooked Lake, Basswood River. 13.2 miles.
 
+[Crooked Lake, Basswood River. 13.2 miles](./attachments/20250807.png "Crooked Lake, Basswood River. 13.2 miles")
+
 ### 2025-08-07T18:12:17-05:00 (48.14664, -91.69657) 1254 feet: Camp in Moose Bay
 
 We slept hard until thunder and rain woke us. When it came, we learnt that there
