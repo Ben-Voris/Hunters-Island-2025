@@ -982,9 +982,9 @@ Maligne River, Lac La Croix. 1.6 miles
 The last morning of the trip. Everything is damp but it's not raining now.
 It's a short paddle to our pickup at Bell Island on Lac la Croix.
 
-Yesterday, Leslie confirmed the time and place of our pickup with Zup's and
-today, they were on schedule. The first run was to their base, where I
-settled our bill.
+Yesterday, Leslie confirmed the time and place of our pickup with Zup's. Today,
+they were on schedule. The first run was to their base, where I settled our
+bill.
 
 ![Zup's boat with MN2 on Beatty railroad portage 2025-08-19 12:19](attachments/202508191219-000.jpeg "Zup's boat with MN2 on Beatty railroad portage 2025-08-19 12:19")
 
