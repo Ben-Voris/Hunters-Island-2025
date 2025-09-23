@@ -91,6 +91,8 @@ We headed to bed when the mosquitoes started to bite. Rain is threatening.
 
 ## 2025-08-06 Day 1: Bottle Portage on Lac la Croix to island N of Saturday Bay Crooked Lake
 
+![Lac la Croix, Bottle Lake, Iron Lake, Crooked Lake. 11.1 miles](./attachments/20250806.png "Lac la Croix, Bottle Lake, Iron Lake, Crooked Lake. 11.1 miles")
+
 Lac la Croix, Bottle Lake, Iron Lake, Crooked Lake. 11.1 miles.
 
 Zup's picked us up promptly at 6:30.
