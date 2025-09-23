@@ -159,9 +159,9 @@ are whining outside of tent.
 
 ## 2025-08-07 Day 2: Crooked Lake to Moose Bay of Basswood River
 
-Crooked Lake, Basswood River. 13.2 miles.
-
 ![Crooked Lake, Basswood River. 13.2 miles](./attachments/20250807.png "Crooked Lake, Basswood River. 13.2 miles")
+
+Crooked Lake, Basswood River. 13.2 miles.
 
 ### 2025-08-07T18:12:17-05:00 (48.14664, -91.69657) 1254 feet: Camp in Moose Bay
 
@@ -228,6 +228,8 @@ weather well into the evening.
 [index](#index)
 
 ## 2025-08-08 Day 3: Moose Bay of Basswood River to Canadian Point on Basswood Lake
+
+![Basswood River, Basswood Lake. 16.9 miles](./attachments/20250808.png "Basswood River, Basswood Lake. 16.9 miles")
 
 Basswood River, Basswood Lake. 16.9 miles.
 
@@ -331,6 +333,8 @@ listened to an audio book version of *Footfall* and I mopped sweat off my face.
 
 ## 2025-08-09 Day 4: Canadian Point on Basswood Lake to Carp Lake
 
+![Basswood Lake, Newfound Lake, Birch Lake, Carp Lake. 16.5 miles](./attachments/20250809.png "Basswood Lake, Newfound Lake, Birch Lake, Carp Lake. 16.5 miles")
+
 Basswood Lake, Newfound Lake, Birch Lake, Carp Lake. 16.5 miles
 
 ### 2025-08-09T09:40:52-05:00 (48.06107, -91.56269) 1297 feet: Breakfast on camp on Canadian Point
@@ -391,7 +395,9 @@ will be leftovers.
 
 ## 2025-08-10 Day 5: Carp Lake to Ottertrack Lake
 
-Carp Lake, Melon Lake, Seed Lake, unnamed lake, Knife Lake, Ottertrack Lake
+![Carp Lake, Melon Lake, Seed Lake, unnamed lake, Knife Lake, Ottertrack Lake 16.0 miles](./attachments/20250810.png "Carp Lake, Melon Lake, Seed Lake, unnamed lake, Knife Lake, Ottertrack Lake 16.0 miles")
+
+Carp Lake, Melon Lake, Seed Lake, unnamed lake, Knife Lake, Ottertrack Lake 16.0 miles
 
 ### 2025-08-10T08:36:25-05:00 (48.09174, -91.31100) 1370 feet: Camp on Carp Lake
 
