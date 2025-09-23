@@ -62,7 +62,7 @@ Zup's on Lac la Croix.
 There are two mechanized (rail) portages between Crane Lake and Lac la Croix:
 the Loon Falls Portage (Little Vermillion Lake to Loon River) and the Beatty
 Portage (Little Loon Lake to Lac la Croix). Years ago, Dwight and I paddled to
-the Beatty Portage because I thought the name was fun and for for something to
+the Beatty Portage because I thought the name was fun and for something to
 do. This trip is the first time I’ve seen the railroads in operation, and the
 first time I've seen the Loon River Portage.
 
@@ -149,7 +149,7 @@ Dinner is a bag salad and Royce's *ropa vieja* (old rope), with &ldquo;that's
 not rice&rdquo; rice. Royce continues to make sure we eat well.
 
 As we were pitching the tent, green beetles&mdash;the same hue as the rain
-fly&mdash; landed on the tent. They had perfect camouflage, just in the wrong
+fly&mdash;landed on the tent. They had perfect camouflage, just in the wrong
 place. We both got a kick out of that.
 
 There are a few breaks in the clouds. It is quite still and humid, and the bugs
@@ -165,8 +165,8 @@ Crooked Lake, Basswood River. 13.2 miles.
 
 ### 2025-08-07T18:12:17-05:00 (48.14664, -91.69657) 1254 feet: Camp in Moose Bay
 
-We slept hard until thunder and rain woke us. When it came, we learnt that there
-is a trick to releasing the toggle that holds the rain fly out of the
+We slept hard until thunder and rain woke us. When it came, we learned that
+there is a trick to releasing the toggle that holds the rain fly out of the
 way&mdash;one must be very careful to slide the toggle directly out of the loop
 without allowing it to twist.
 
@@ -188,36 +188,35 @@ As the day went on, the wind from the south picked up. The sky went from clear
 to cloudy and back again a few times.
 
 After paddling for a few hours we slowed, but we were still averaging around 3
-mph. When the wind shifted to blow our beam, we slowed more because more of my
-effort went towards keeping us on course.
+mph. When the wind shifted to blow on our beam, we slowed again because more of
+my effort went towards keeping us on course.
 
 When we decided to break for lunch, we headed to a BWCA campsites because they
-tend to have easy landings, and are often open the breeze. When we got to the
-nearest one shown on our maps, the terrain matched the map so exactly that I
+tend to have easy landings, and are often open to the breeze. When we got to the
+nearest site shown on our maps, the terrain matched the map so exactly that I
 would have been confident, even without the GPS, that we were where the map
 shows the site. But there was no campsite&mdash;just a thick layer of lichen
 where it should have been. (So there has been little or no traffic there for
 years, leaving me to wonder, how old are these maps?) However, the nearby
 campsite in Quetico was right where the map said it should be *and* it had a
-broken BWCA fire grate. We wonder if, when the BWCA camp was closed, some
+broken BWCA fire grate. We wondered, when the BWCA camp was closed, whether some
 enterprising soul moved the grate across the border.
 
 ![Royce. Lunch break on Crooked Lake north of Thursday Bay 2025-08-07 12:48](./attachments/202508071248-001.jpeg "Royce. Lunch break on Crooked Lake north of Thursday Bay 2025-08-07 12:48")
 
-The narrows of Crooked Lake/Basswood River have more current than I
-remember&mdash;even though we paddled hard, the current slowed us to just go
-over 1 mph.
+The narrows of Crooked Lake/Basswood River have more current than I remember;
+even though we paddled hard, the current slowed us to just over 1 mph.
 
 We decided that we will not tackle the first Basswood River portage today
-because we both recall that the camp sites that are close to the portage aren't
-pleasant. Royce remembered that we had gone into Moose Bay on one of the trips
-with Ian, so we looked there and found a lovely campsite, just inside the bay
-and off the border route. We set up camp, then Royce fished and I took a couple
-of short swims. &ldquo;Cocktail much less than an hour&rdquo; with lime, salt,
-El Jimador, and snacks. Royce is cooking dinner.
+because we both recall that the campsites close to the portage aren't pleasant.
+Royce remembered that we had gone into Moose Bay on one of the trips with Ian,
+so we looked there and found a lovely campsite, just inside the bay and off the
+border route. We set up camp, then Royce fished and I took a couple of short
+swims. &ldquo;Cocktail much less than an hour&rdquo; with lime, salt, El
+Jimador, and snacks. Royce is cooking dinner.
 
-Our plan was to set off early so that we can make it past the Horse Portage with
-enough time so that we can paddle far enough to reach a nice campsite on
+Our plan for tomorrow is to set off early so that we can make it past the Horse
+Portage with enough time to paddle far enough to reach a nice campsite on
 Basswood Lake.
 
 We heard thunder in the distance several times and the skies repeatedly cycled
@@ -237,10 +236,8 @@ Basswood River, Basswood Lake. 16.9 miles.
      elevation from map. -->
 ### 2025-08-08T17:59:40-05:00 (48.06107, -91.56269) 1297 feet: Camp on Canadian Point
 
-![Royce in camp on Canadian Point of Basswood Lake 2025-08-08 19:15](./attachments/202508081915-001.jpeg "Royce in camp on Canadian Point of Basswood Lake 2025-08-08 19:15")
-
-Oh God, the bugs last night. We've been lucky that they're not nearly as active
-in the morning.
+Oh God, the bugs. We've been lucky that they're not nearly as active in the
+morning.
 
 ![Royce and canoe. Camp on Moose Bay of Basswood River 2025-08-08 06:56](./attachments/202508080656-000.jpeg "Royce and canoe. Camp on Moose Bay of Basswood River 2025-08-08 06:56")
 
@@ -285,15 +282,15 @@ At the Basswood Lake end, the wind was blowing directly into the portage
 landing. The trees were swaying, waves were breaking, and, as far as we could
 see, there were white horses.
 
-We had a brief discussion of how we might get through the surf and paddle out of
-the wind, but quickly gave that up as silly. So, since the wind was making it
+We had a brief discussion about how we might get through the surf and paddle out
+of the wind, but quickly gave that up as silly. So, since the wind was making it
 quite pleasant on shore and there was no traffic (no sensible person would
 choose to be on Basswood in this wind), we did the sensible thing and did
 nothing. We puttered around for a bit, hung our sweaty shirts to dry, etc.,
 before we unrolled our RidgeRests and got serious about napping. An hour or so
 later, we were awoken by the wind dropping. Royce had the brilliant idea of
-having a coffee, so we do that before we load the boat. By the time we were off,
-we were paddling through rollers but no chop, which made for easy and fast
+having a coffee, so we did that before we loaded the boat. By the time we were
+off, we were paddling through rollers but no chop, which made for easy and fast
 paddling. With the coffee on board, we paddled at morning pace for more than an
 hour.
 
@@ -303,8 +300,8 @@ While we were paddling, the overcast was so thick that I began to worry about
 how late it was.
 
 As usual, distances and speed confound us, so we spent more time than I would
-like double checking the map and GPS, which was mildly annoying. But then we
-never went astray.
+have liked double-checking the map and GPS, which was mildly annoying. But then
+we never went astray.
 
 We reached camp around 18:00, set up the tent, and had tequila and limes, and
 snacks. This is a pleasant campsite although footing is bad with rocks and
@@ -316,7 +313,9 @@ and required only a little more clean up (one pot, two spoons, and two cups to
 wash). We slurped it down, had a little more tequila, and started putting camp
 to bed.
 
-Then the bugs came. Double-plus ungood. So bad that I put on my bug net on and
+![Royce in camp on Canadian Point of Basswood Lake 2025-08-08 19:15](./attachments/202508081915-001.jpeg "Royce in camp on Canadian Point of Basswood Lake 2025-08-08 19:15")
+
+Then the bugs came. Double-plus ungood. So bad that I put my bug net on and
 didn't brush my teeth. The net helped a lot under the bill of my cap but not so
 much around the ears.
 
