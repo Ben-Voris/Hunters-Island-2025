@@ -383,7 +383,7 @@ growing in it, so it hasn't been used for a while.
 
 The weather was calm until evening, with clouds rolling in and out, but when we
 made camp, the wind was notable. When we went to the tent, the wind had almost
-died but not quite entirely.
+died but not entirely.
 
 I would've liked to have made it to Robinson Island but we were both too tired
 to make the portages between Carp and there.
@@ -409,7 +409,7 @@ that gravy residue doesn't go as well with coffee as does oatmeal residue.
 While we were eating breakfast, Royce was reviewing the maps and spotted an
 alternate route to Knife Lake. Since then, we've been musing about it. Just
 north of us, there is a 100 yard/18 rod portage to Crawford Lake. After a short
-paddle, there is a 0.4 mile/135 rod portage to Back Bay of Knife Lake, which bay
+paddle, there is a 0.4 mile/135 rod portage to Back Bay of Knife Lake, which
 would bring us into Knife north of Robbins Island. This route would be in lieu
 of the portages from Carp to Melon, Melon to Seed, Seed to the unnamed lake, the
 Big Knife Portage (75 rods), plus the paddle from the portage past the east end
@@ -425,16 +425,15 @@ stick with our original plan and to take the portage to Melon Lake.
 (Packing note: yesterday, we had moved both pairs of our Chaco &ldquo;magic
 sandals&rdquo; from the rubber pack to the gear pack and were surprised how
 notable the extra weight was. Today, to balance the load, we moved one pair to
-the food pack.)
+the food pack.) The food barrels are notably lighter and we've started moving
+gear into them.
 
 Wind is low, with occasional gusts. No clouds excepting a few mares tales.
 
-The food barrels are notably lighter and we've started moving gear into them.
-
 I choose to paddle along the north shore of Birch Lake. I'd forgotten how many
-down trees there in the water. A few trees are standing well out in the lake.
-The first dam at Prairie Portage was built around 1900. Could these standing
-dead trees be from before that?
+down trees there are in the water. A few trees are standing well out in the
+lake. The first dam at Prairie Portage was built around 1900. The standing trees
+are old and bleached, but could they be from before that?
 
 ![Royce on Big Knife Portage 2025-08-10 11:33](./attachments/202508101133-000.jpeg "Royce on Big Knife Portage 2025-08-10 11:33")
 
@@ -500,6 +499,8 @@ into Jasper, and head further north into Quetico.
 
 ## 2025-08-11 Day 6: Ottertrack Lake to Saganagons Lake
 
+![Ottertrack Lake, Jasper Lake, Lilypad Lake, Saganagons Lake. 10.8 miles](./attachments/20250811.png "Ottertrack Lake, Jasper Lake, Lilypad Lake, Saganagons Lake. 10.8 miles")
+
 Ottertrack Lake, Jasper Lake, Lilypad Lake, Saganagons Lake. 10.8 miles
 
 ### 2025-08-11T19:04:01-05:00 (48.26726, -91.04823) 1411 feet: Camp on Saganagons Lake
@@ -543,13 +544,13 @@ we oh-so-gracefully made it into the canoe and paddled our way into the lake.
 
 ![Royce on Saganagons end of portage from Lilypad 2025-08-11 15:37](./attachments/202508111537-000.jpeg "Royce on Saganagons end of portage from Lilypad 2025-08-11 15:37")
 
-We saw toad on the portage and a leopard frog at the Saganagons end.
+We saw a toad on the portage and a leopard frog at the Saganagons end.
 
-That portage left us both so tired enough we stopped early. We got the tent up
-and took a quick swim to rinse off some of the loon poop.
+That portage left us both so tired that we stopped early. We got the tent up and
+took a quick swim to rinse off some of the loon poop.
 
 The smoke started to blow in after lunch. The sky is red now, even though the
-sun is a couple hand widths above the horizon.
+sun is a couple hand-widths above the horizon.
 
 Reached camp around 16:00.
 
@@ -568,9 +569,9 @@ where either the *Fisher* or *NatGeo* maps showed it. (One thing about the
 GPS&mdash;we know for sure where we are.) The *BRMB Paddling Trails* map shows
 the portage farther to the east, around a small peninsula, a mile or so out of
 the way, but we decided not to take the time to look there and dug our paddles
-in to make time. We moved fast heading east and reasonably good time heading
-west. I don't know how much time we lost&mdash;if any&mdash;paddling the extra
-seven miles vs. the (unknown) portage.
+in to make time. We moved fast heading east around the peninsula and still made
+reasonably good time heading west. I don't know how much time we lost&mdash;if
+any&mdash;paddling the extra seven miles vs. the (unknown) portage.
 
 ![Royce. Lunch break on Saganagons Lake 2025-08-12 13:03](./attachments/202508121303-000.jpeg "Royce. Lunch break on Saganagons Lake 2025-08-12 13:03")
 
@@ -591,7 +592,7 @@ A thunderstorm blew through while we were portaging. Hazy overcast now.
 Another party was camped across the river from the start of the Koko Falls
 portage.
 
-It was getting dark, so we made a &ldquo;Fort Necessity&rdquo;camp at 19:20. The
+It was getting dark, so we made a &ldquo;Fort Necessity&rdquo; camp at 19:20. The
 tent is a few tens of feet from the portage and a few feet from the falls. It's
 not heavily used but we're not the first here either.
 
