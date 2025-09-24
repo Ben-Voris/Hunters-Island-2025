@@ -93,7 +93,7 @@ We headed to bed when the mosquitoes started to bite. Rain is threatening.
 
 ![Lac la Croix, Bottle Lake, Iron Lake, Crooked Lake. 11.1 miles](./attachments/20250806.png "Lac la Croix, Bottle Lake, Iron Lake, Crooked Lake. 11.1 miles")
 
-Lac la Croix, Bottle Lake, Iron Lake, Crooked Lake. 11.1 miles.
+[Lac la Croix, Bottle Lake, Iron Lake, Crooked Lake. 11.1 miles](./GPS/2025-08-06.pdf)
 
 Zup's picked us up promptly at 6:30.
 
@@ -161,7 +161,7 @@ are whining outside of tent.
 
 ![Crooked Lake, Basswood River. 13.2 miles](./attachments/20250807.png "Crooked Lake, Basswood River. 13.2 miles")
 
-Crooked Lake, Basswood River. 13.2 miles.
+[Crooked Lake, Basswood River. 13.2 miles](./GPS/2025-08-07.pdf)
 
 ### 2025-08-07T18:12:17-05:00 (48.14664, -91.69657) 1254 feet: Camp in Moose Bay
 
@@ -231,7 +231,7 @@ weather well into the evening.
 
 ![Basswood River, Basswood Lake. 16.9 miles](./attachments/20250808.png "Basswood River, Basswood Lake. 16.9 miles")
 
-Basswood River, Basswood Lake. 16.9 miles.
+[Basswood River, Basswood Lake. 16.9 miles](./GPS/2025-08-08.pdf)
 
 <!-- I logged this location the next morning. Coordinates and elevation got from
      that. The coordinates are very close to the GPS waypoint 20250808 and the
@@ -335,7 +335,7 @@ listened to an audio book version of *Footfall* and I mopped sweat off my face.
 
 ![Basswood Lake, Newfound Lake, Birch Lake, Carp Lake. 16.5 miles](./attachments/20250809.png "Basswood Lake, Newfound Lake, Birch Lake, Carp Lake. 16.5 miles")
 
-Basswood Lake, Newfound Lake, Birch Lake, Carp Lake. 16.5 miles
+[Basswood Lake, Newfound Lake, Birch Lake, Carp Lake. 16.5 miles](./GPS/2025-08-09.pdf)
 
 ### 2025-08-09T09:40:52-05:00 (48.06107, -91.56269) 1297 feet: Breakfast on camp on Canadian Point
 
@@ -397,7 +397,7 @@ will be leftovers.
 
 ![Carp Lake, Melon Lake, Seed Lake, unnamed lake, Knife Lake, Ottertrack Lake 16.0 miles](./attachments/20250810.png "Carp Lake, Melon Lake, Seed Lake, unnamed lake, Knife Lake, Ottertrack Lake 16.0 miles")
 
-Carp Lake, Melon Lake, Seed Lake, unnamed lake, Knife Lake, Ottertrack Lake 16.0 miles
+[Carp Lake, Melon Lake, Seed Lake, unnamed lake, Knife Lake, Ottertrack Lake 16.0 miles](./GPS/2025-08-10.pdf)
 
 ### 2025-08-10T08:36:25-05:00 (48.09174, -91.31100) 1370 feet: Camp on Carp Lake
 
@@ -501,7 +501,7 @@ into Jasper, and head further north into Quetico.
 
 ![Ottertrack Lake, Jasper Lake, Lilypad Lake, Saganagons Lake. 10.8 miles](./attachments/20250811.png "Ottertrack Lake, Jasper Lake, Lilypad Lake, Saganagons Lake. 10.8 miles")
 
-Ottertrack Lake, Jasper Lake, Lilypad Lake, Saganagons Lake. 10.8 miles
+[Ottertrack Lake, Jasper Lake, Lilypad Lake, Saganagons Lake. 10.8 miles](./GPS/2025-08-11.pdf)
 
 ### 2025-08-11T19:04:01-05:00 (48.26726, -91.04823) 1411 feet: Camp on Saganagons Lake
 
@@ -562,16 +562,19 @@ only had to pop into the tent.
 
 ## 2025-08-12 Day 7: Saganagons Lake to Koko Falls
 
-Saganagons Lake, Little Falls, Koko Falls. 17.2 miles
+![Saganagons Lake, Little Falls, Koko Falls. 17.2 miles](./attachments/20250812.png "Saganagons Lake, Little Falls, Koko Falls. 17.2 miles")
 
-We paddled around the big peninsula on Saganagons because the portage was not
-where either the *Fisher* or *NatGeo* maps showed it. (One thing about the
-GPS&mdash;we know for sure where we are.) The *BRMB Paddling Trails* map shows
-the portage farther to the east, around a small peninsula, a mile or so out of
-the way, but we decided not to take the time to look there and dug our paddles
-in to make time. We moved fast heading east around the peninsula and still made
-reasonably good time heading west. I don't know how much time we lost&mdash;if
-any&mdash;paddling the extra seven miles vs. the (unknown) portage.
+[Saganagons Lake, Little Falls, Koko Falls. 17.2 miles](./GPS/2025-08-12.pdf)
+
+We had planned to take a shortcut portage through a long peninsula that points
+east on Saganagons Lake, but the portage was not where either the *Fisher* or
+*NatGeo* maps show it. (One thing about the GPS&mdash;we know for sure where we
+are.) The *Backroads Map Book (BRMB) Paddling Trails* map shows a second portage
+to the west, about a mile of paddling out of the way. Rather than keep looking,
+we decided to paddle. So, we dug in, and headed east at a good pace. When we
+came around the peninsula and turned back to the west, we were still making good
+time. This decision added about seven miles of paddling to our day. I don't know
+how much extra time&mdash;if any&mdash;this cost vs. the unknown portage.
 
 ![Royce. Lunch break on Saganagons Lake 2025-08-12 13:03](./attachments/202508121303-000.jpeg "Royce. Lunch break on Saganagons Lake 2025-08-12 13:03")
 
@@ -611,7 +614,9 @@ the portages.
 
 ## 2025-08-13 Day 8: Koko Falls to west of Rose Island on Kawnipi Lake
 
-Koko Falls, Canyon Falls, Kenny Lake, Kennebas Falls, Kawnipi Lake. 13.0 miles.
+![Koko Falls, Canyon Falls, Kenny Lake, Kennebas Falls, Kawnipi Lake. 13.0 miles](./attachments/20250813.png "Koko Falls, Canyon Falls, Kenny Lake, Kennebas Falls, Kawnipi Lake. 13.0 miles")
+
+[Koko Falls, Canyon Falls, Kenny Lake, Kennebas Falls, Kawnipi Lake. 13.0 miles](./GPS/2025-08-13.pdf)
 
 ![Camp on Koko Falls portage 2025-08-13 07:53](./attachments/202508130753-000.jpeg "Camp on Koko Falls portage 2025-08-13 07:53")
 
@@ -688,7 +693,9 @@ and we've already covered most of it.
 
 ## 2025-08-14 Day 9: West of Rose Island on Kawnipi Lake to Shelley Lake
 
-Kawnipi Lake, Kahshahpiwi Creek, Montgomery Lake, Shelley Lake. 13.4 miles
+![Kawnipi Lake, Kahshahpiwi Creek, Montgomery Lake, Shelley Lake. 13.4 miles](./attachments/20250814.png)
+
+[Kawnipi Lake, Kahshahpiwi Creek, Montgomery Lake, Shelley Lake. 13.4 miles](./GPS/2025-08-14.pdf)
 
 ### 2025-08-14T20:56:40-05:00 (48.45243, -91.34913) 1279 feet
 
@@ -698,9 +705,10 @@ we were ready to leave, the increasing wind and growing white caps led us to
 decide to wait out the gusts. As it was, we were the water around noon. Wind was
 from the south again and we made good time.
 
-Because of the wind, we left my planned, more open route, and went through the
-&ldquo;fiddly bits&rdquo; to reach the portage to Shelley Lake. Most of the
-shore is burnt.
+Though the route I had planned to the portage to Shelley Lake is easier to
+navigate, it was open to the wind. So, we went through the &ldquo;fiddly
+bits&rdquo; of the islands on the western side of Kawnipi. Much of the shore is
+burnt and as we turn west towards the creek, even more of it is burned.
 
 The portage is very close to the rapids and all we could see of it were down,
 burned trees. It might've been cleared, but the way the terrain was, we had to
@@ -754,8 +762,10 @@ out of the canoe, or the packs and the bow paddler into the canoe.
 
 ## 2025-08-15 Day 10: Shelley Lake to downstream of Chatterton Falls on Russell Lake
 
-Shelley Lake, Keats Lake, Split Rock Falls, Chatterton Lake, Russell Lake.
-10.2 miles
+![Shelley Lake, Keats Lake, Split Rock Falls, Chatterton Lake, Russell Lake.
+10.2 miles](./attachments/20250815.png "Shelley Lake, Keats Lake, Split Rock Falls, Chatterton Lake, Russell Lake. 10.2 miles")
+
+[Shelley Lake, Keats Lake, Split Rock Falls, Chatterton Lake, Russell Lake. 10.2 miles](./GPS/2025-08-15.pdf)
 
 ### 2025-08-15T20:39:27-05:00 (48.47556, -91.45539) 1246 feet
 
@@ -842,7 +852,9 @@ but I didn't look into it.
 
 ## 2025-08-16 Day 11: Russell Lake to the end of Sturgeon Lake
 
-Russell Lake, Sturgeon Lake. 15.5 miles
+![Russell Lake, Sturgeon Lake. 15.5 miles](./attachments/20250816.png "Russell Lake, Sturgeon Lake. 15.5 miles")
+
+[Russell Lake, Sturgeon Lake. 15.5 miles](./GPS/2025-08-16.pdf)
 
 ### 2025-08-16T20:37:53-05:00 (48.42722, -91.71706) 1249 feet
 
@@ -882,9 +894,13 @@ but I would expect it to be around 4 mph.
 
 ![Sunset view from camp near SW end of Sturgeon Lake 2025-08-16 20:11](./attachments/202508162011-000.jpeg "Sunset view from camp near SW end of Sturgeon Lake 2025-08-16 20:11")
 
+[index](#index)
+
 ## 2025-08-17 Day 12: End of Sturgeon Lake to Maligne River
 
-Sturgeon Lake, Maligne River. 10.4 miles
+![Sturgeon Lake, Maligne River. 10.4 miles](./attachments/20250817.png "Sturgeon Lake, Maligne River. 10.4 miles")
+
+[Sturgeon Lake, Maligne River. 10.4 miles](./GPS/2025-08-17.pdf)
 
 ### 2025-08-17T09:18:27-05:00 (48.42744, -91.71692) 1249 feet
 
@@ -940,9 +956,9 @@ we're pretty they're swans. We've seen more swans this year than I've ever seen.
 
 ## 2025-08-18 Day 13: Tanner Lake to Twin Falls on the Maligne River
 
-Tanner Lake, Maligne River. 13.0 miles
+![2025-08-18 map Tanner Lake, Maligne River. 13.0 miles](./attachments/20250818.png "2025-08-18 map Tanner Lake, Maligne River. 13.0 miles")
 
-![2025-08-18 map Tanner Lake, Maligne River. 13.0 miles](./attachments/20250818.png "025-08-18 map Tanner Lake, Maligne River. 13.0 miles")
+[Tanner Lake, Maligne River. 13.0 miles](./GPS/2025-08-18.pdf)
 
 <!-- Location info from log is 48.28606, -92.18403) 0 feet
 An elevation of 0? The lat/long are a spot in the BWCA near Thumb Lake.
@@ -985,7 +1001,9 @@ tent earlier than usual.
 
 ## 2025-08-19 Day 14: Twin Falls on Maligne to Eau Claire
 
-Maligne River, Lac La Croix. 1.6 miles
+![Maligne River, Lac La Croix. 1.6 miles](./attachments/20250819.png "Maligne River, Lac La Croix. 1.6 miles")
+
+[Maligne River, Lac La Croix. 1.6 miles](./GPS/2025-08-19.pdf)
 
 ### 2025-08-19T07:49:27-05:00 (48.37089, -91.93478) 1198 feet
 
@@ -994,13 +1012,14 @@ Maligne River, Lac La Croix. 1.6 miles
 The last morning of the trip. Everything is damp but it's not raining now.
 It's a short paddle to our pickup at Bell Island on Lac la Croix.
 
-Yesterday, Leslie confirmed the time and place of our pickup with Zup's. Today,
-they were on schedule. The first run was to their base, where I settled our
-bill.
+![Sitting on a dock off Bell Island on Lac la Croix 2025-08-19 10:30](./attachments/202508191030-000.jpeg "Sitting on a dock off Bell Island on Lac la Croix 2025-08-19 12:19")
+
+Yesterday, Leslie confirmed the time and place of our pickup with Zup's. They
+were on schedule. The first run was to their base, where I settled our bill.
 
 ![Zup's boat with MN2 on Beatty railroad portage 2025-08-19 12:19](attachments/202508191219-000.jpeg "Zup's boat with MN2 on Beatty railroad portage 2025-08-19 12:19")
 
-From Zup's we were the only passengers to Crane Lake, where we cleared US
+From Zup's, we were the only passengers to Crane Lake, where we cleared US
 customs using an automated kiosk at Scott's.
 
 After we were dropped off, we were so focused on tying down the canoe that we
