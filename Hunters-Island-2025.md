@@ -1060,3 +1060,5 @@ conversation with Leslie, so I was very glad to have the inReach.
 Also, it took longer to get a satellite fixed here, than in Boise. Perhaps a
 combination of latitude and that there are many more trees? Anyway, I did post
 processing to add coordinates to more pictures than I expected.
+
+[To Do, Lessons Learned, Considerations](./To-Do_Lessons-Learned_Considerations.md)
