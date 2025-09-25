@@ -624,9 +624,9 @@ the portages.
 
 We were out of camp by 9:15 and done with the portage by 10:00.
 
-At the end of the portage, we meet Bob and Janice. THey are couple we saw camped
-last night, before the Koko Falls portage. Janice told us that, when they saw us
-start the portage in the half-light, they thought we must be a couple of
+At the end of the portage, we meet Bob and Janice. They are the couple we saw
+camped last night, before the Koko Falls portage. Janice told us that, when they
+saw us start the portage in the half-light, they thought we must be a couple of
 hard-core guys who were trying to race through the Hunters Island loop. I
 explained that we were racing, but only against the light, and only because we
 had screwed up.
@@ -671,19 +671,19 @@ We're now back on the Fisher maps that Royce brought. The way the maps are
 divided, we needed only a small area from one map and he had decided not to
 bring it. Wish he had&mdash;scrolling around on the tiny GPS screen isn't fun.
 
-As noted, the Quetico campsites marked on the Fisher maps are not current and
-are, at best, mark popular sites. For example, we found a site that wasn't on
-the map across the bay from where we are. The put-in was
-horrible&mdash;rocks&mdash;but it was a site. Maybe, if we'd been wearing magic
-sandals and had been ten years younger, we might've have jumped out on the rock
-but anything else would have required navigating around underwater obstructions.
+As noted, the Quetico campsites marked on the Fisher maps are not current and,
+at best, mark popular sites. For example, we found a site that wasn't on the map
+across the bay from where we are. The put-in was horrible&mdash;rocks&mdash;but
+it was a site. Maybe, if we'd been wearing magic sandals and had been ten years
+younger, we might've have jumped out on the rock but anything else would have
+required navigating around underwater obstructions.
 
 We arrived in camp around 17:00. The landing is sandy, which makes it easy to
 hop in and out of the canoe, but does make it difficult to gather un-silted
 water to  filter.
 
-Some trees have been taken down and left. We're don't know why. We understood
-that Quetico does not do campsite maintenance and they don't look to have been
+Some trees have been taken down and left. We can't think why. We understood that
+Quetico does not do campsite maintenance and they don't look to have been
 window-makers.
 
 Kawnipi was kind to us and gifted us with swift travels. It's a big lake and
@@ -737,18 +737,18 @@ were lots of rocks that we had to dodge around before we could get to shore.
 We headed south towards the first campsite on Shelley, arriving around 17:30.
 
 This camp is on an island that had mostly burned and is growing back to brush.
-But there an open area with enough space to pitch a tent. The wind was howling
-so hard that we put rocks on all the stakes and, for the first time, felt the
+But there is an open area with enough space to pitch a tent. The wind was
+howling so hard that we put rocks on all the stakes and, for the first time,
 pitched the guy lines. Of course, when bug time came, the wind died.
 
 ![Ben standing near tent on a fire-scarred island on Shelley Lake 2025-08-14 19:36](./attachments/202508141936-000.jpeg "Ben standing near tent on a fire-scarred island on Shelley Lake 2025-08-14 19:36")
 
 Curried rice and bacon for dinner.
 
-When I dug my cat hole, I turned over a thin layer of organic matter that was over carbon
-from the last fire, then a few inches of soil, and then another layer of carbon,
-then mineral soil. I wonder, how long ago was the fire that produced the lower
-layer of carbon?
+When I dug my cat hole, I turned over a thin layer of organic matter that was
+over carbon from the last fire, then a few inches of soil, and then another
+layer of carbon, then mineral soil. I wonder, how long ago the fire was that
+produced the lower layer of carbon?
 
 The portages are taking longer than we expected. In retrospect, the
 Horse/Mile/Basswood Falls portage was relatively easy because, once we had our
@@ -772,10 +772,10 @@ out of the canoe, or the packs and the bow paddler into the canoe.
 We went off track twice before we found the Have a Smoke Portage to Keats.
 
 We met six young women (Royce guessed they're 20 or younger) that were using two
-aluminum canoes that, at first glance, looked as if they are wood and canvas.
-One had a brass name plate on the bow but I couldn't make it out. One woman
-carried each canoe, but they rolled the canoe up in teams of three&mdash;an
-interesting technique.
+aluminum canoes that, at first glance, looked as if they were wood and canvas.
+One of the canoes had a brass plate on the bow but I couldn't make out what was
+on it. One woman carried each canoe, but they rolled the canoe up in teams of
+three&mdash;an interesting technique.
 
 The day started gray and calm then cleared up and got breezy. With the
 blue skies and a better vantage, the falls here are more impressive than
@@ -788,8 +788,8 @@ between Keats and Chatterton, and Chatterton Falls between Shelley and
 Chatterton) were well traveled and were reasonably easy to walk, with the
 exception of Split Rocks Falls portage. It started with a steep climb that led
 to a few boulders. The boulders were 3 to 5 feet high with a gap between each so
-that we had to balance on boulder and take a giant step to the next. Our loads
-made that extra exiting. But it was well traveled and was otherwise
+that we had to balance on one boulder and take a giant step to the next. Our
+loads made that extra exiting. But it was well traveled and was otherwise
 straight-forward.
 
 <!-- The "NRCAN" maps shows that Have a Smoke does not go around Snake Falls but around an obstacle to the north of Garmin's "Canadian Topo" shows that Have a Smoke is around Snake Falls. Here, I prefer NRCAN. But I think the picture, below, is likely of that fall.
@@ -808,7 +808,7 @@ The distance from the start of Have a Smoke to past Split Rock Falls, including 
 We found some of the portages a few hundred feet off where the maps showed them,
 so we learned to get as close to shore as possible, well upstream of the
 obstacle, and to carefully scan the shore while paddling slowly. If we found the
-actual portage to off by more than a few tens of feet from the map/GPS, I
+actual portage was off by more than a few tens of feet from the map/GPS, I
 updated my GPS waypoint.
 
 We camped early on Russell Lake, around 15:40. The main camp is a two-story
@@ -866,7 +866,8 @@ then a corduroy section, and then a horrible descent to a landing that must've
 taken us 20-30 minutes to figure out how to load the boat. Rocks where
 everywhere and most of them were scraped with aluminum where others had simply
 drug their boats over them. We loaded the boat off of one rock and then I tossed
-the line to Royce, who pulled it over to where we could get him. What a mess!
+the bow line to Royce, who used it to pull the over to where we could get in.
+What a pain!
 
 At the first easy place to land&mdash;about 40 minutes away from the
 portage&mdash;we stopped for lunch. Man, that portage was tough.
@@ -887,8 +888,8 @@ enjoy the sunset without being chased into the tent.
 
 The canoe gods smiled on us again. We crossed Sturgeon under warm and mostly
 cloudless skies. The trailing wind occasionally threatened to build up to
-something worrisome but they always subsided. I don't know our average speed,
-but I would expect it to be around 4 mph.
+something worrisome but the waves always subsided. I don't know our average
+speed, but I would expect it to be around 4 mph.
 
 ![Hash browns, hamburger, and gravy on SW end of Sturgeon Lake  2025-08-16 18:48](./attachments/202508161848-000.jpeg "Hash browns, hamburger, and gravy on SW end of Sturgeon Lake 2025-08-16 18:48")
 
@@ -908,6 +909,8 @@ but I would expect it to be around 4 mph.
 
 ### 2025-08-17T14:32:14-05:00 (48.41288, -91.75146) 1242 feet
 
+We left camp at 10 or 11. We only have a short distance to cover today.
+
 Long lunch on a pleasant campsite that is on the third portage going
 west. Portages are well traveled and mostly easy.
 
@@ -917,8 +920,6 @@ they manage with two people and a dog?
 
 ![Royce fishing on Maligne River 2025-08-17 14:35](./attachments/202508171435-000.jpeg "Royce fishing on Maligne River 2025-08-17 14:35")
 
-Leave camp at 10 or 11. We only have a short distance to cover today.
-
 ### 2025-08-17T20:18:52-05:00 (48.38552, -91.84600) 1213 feet
 
 Ran a few minor rapids that the couple referred to as &ldquo;swifts&rdquo;.
@@ -926,8 +927,8 @@ I.e., not really rapids. They obviously have much more experience with white
 water than we do. Heck, they swam one after they portaged it. Royce saw an otter
 at the end of one swift.
 
-We took them the least bit of white water seriously because we have a little
-experience with it and, for all of its sterling qualities on lakes, the MN2 is
+We took the least bit of white water seriously because we have so little
+experience with it. And, for all of its sterling qualities on lakes, the MN2 is
 *not* a white water boat.
 
 ![Downstream of portage on Maligne River 2025-08-17 15:17](./attachments/202508171517-001.jpeg "Downstream of portage on Maligne River 2025-08-17 15:17")
@@ -1057,7 +1058,7 @@ problem, though they were less finicky.
 When I connected my phone to a satellite, some Apple defect locked the
 conversation with Leslie, so I was very glad to have the inReach.
 
-Also, it took longer to get a satellite fixed here, than in Boise. Perhaps a
+Also, it took longer to get a satellite fix here than in Boise. Perhaps a
 combination of latitude and that there are many more trees? Anyway, I did post
 processing to add coordinates to more pictures than I expected.
 

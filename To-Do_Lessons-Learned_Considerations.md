@@ -68,6 +68,8 @@ easier to start an iso-butane stove but iirc, we only used it twice in 14 days:
 on one of the first morning, because we had it, and again after our nap after
 the Horse Portage. Most mornings, I used the WisperLite.
 
+We carried out nearly a liter of white gas.
+
 ### Guide Pack load
 
 I bought *The Guide Pack* to organize &ldquo;hand things&rdquo;, like water
