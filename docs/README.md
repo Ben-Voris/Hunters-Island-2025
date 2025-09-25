@@ -20,8 +20,8 @@
 ## 2025-08-03 Boise to Eau Claire
 
 Royce retrieves me and my luggage from MSP and delivers us to Dunbar's Canoe
-Outfitting in Eau Claire. We have a nightcap, look at pictures from earlier
-Quetico trips, and chat.
+Outfitting in Eau Claire. We have a nightcap, sample the new-and-improved Leslie
+bars, look at pictures from earlier Quetico trips, and chat.
 
 [index](#index)
 
@@ -482,11 +482,12 @@ aggressive chipmunks that we must repeatedly shoo away from our gear.
 
 Saw a lot of loons today. One pair let us paddle within 6 feet.
 
-Tonight, we finished the last of the tequila and switched to bourbon. And we
-had our first backpacker meal. As before, they are calories. They have reduced
-the sodium but have not improved the taste. Royce had a take on Spanish Rice
-called *Italian Style Pepper Steak* that he found particularly reprehensible. I
-found it boring but edible.
+Tonight, we finished the last of the tequila and switched to bourbon. And we had
+our first backpacker meal. As before, they are calories. They have reduced the
+sodium but have not improved the taste. Royce had a take on Spanish Rice called
+*Italian Style Pepper Steak* that he found particularly reprehensible. I found
+it boring but edible. The toasted pecans and the slight caramel flavor of the
+Leslie bars goes very well with bourbon.
 
 Good day and good weather. Paddling was challenging enough to keep me focused.
 The wind forced me to paddle on one side for long stretches, which was tiring.
@@ -1033,7 +1034,9 @@ hold them until Royce drives back to Crane Lake after the party for Ripley.
 
 ## 2025-08-21 Leave Eau Claire
 
-Leaving Eau Claire to celebrate Ripley's 1 1/2 birthday.
+Leaving Eau Claire to celebrate Ripley's 1 1/2 birthday. We restrained ourselves
+and kept two, well-traveled Leslie bars, which we are bringing to Ian. If memory
+serves, the first time Leslie made them was to keep him from starvation.
 
 ## General notes
 

@@ -33,6 +33,8 @@
 - Carry old-fashioned ballpoint pens (e.g., Bic) to write on Fisher maps.
 - **Before** the trip, mark the paper maps with waypoints from the GPS.
 - [Guide pack](#guide-pack-load) got too heavy.
+- Leslie baked the Leslie bars in two cookie sheets. This made them chewier,
+  and gave them a bit of a caramel flavor. They were better.
 
 ## To Consider
 
