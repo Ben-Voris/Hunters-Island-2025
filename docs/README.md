@@ -48,7 +48,7 @@ We set an alarm for 0-dark-thirty. Before departure, Brenda takes what she calls
 The drive to Crane Lake was easy, except for construction around Duluth.
 
 At the Crane Lake marina, we unload our gear into Zup's boat, I put our canoe on
-the boat, and Royce arranges parking. With us and two other groups on board, the
+the rack, and Royce arranges parking. With us and two other groups on board, the
 boat departs for Canadian customs.
 
 ![Royce in Zup's boat on the way to Canadian customs 2025-08-05 15:56](./attachments/202508051556-000.jpeg "Royce in Zup's boat on the way to Canadian customs 2025-08-05 15:56")
@@ -62,26 +62,26 @@ Zup's on Lac la Croix.
 There are two mechanized (rail) portages between Crane Lake and Lac la Croix:
 the Loon Falls Portage (Little Vermillion Lake to Loon River) and the Beatty
 Portage (Little Loon Lake to Lac la Croix). Years ago, Dwight and I paddled to
-the Beatty Portage because I thought the name was fun and for something to
+the Beatty Portage because I thought the name was fun, and for something to
 do. This trip is the first time I’ve seen the railroads in operation, and the
 first time I've seen the Loon River Portage.
 
 ![Beatty rail Portage for Loon Falls 2025-08-05 16:38](./attachments/202508051638-001.jpeg "Beatty rail Portage for Loon Falls 2025-08-05 16:38")
 
 Royce is very happy that Zup's has cold beer. Dinner was minestrone soup, pasta
-salad, generous slices of a well-prepared prime rib, baked potato,
-bacon-wrapped asparagus, and carrot cake for dessert.
+salad, generous slices of a well-prepared prime rib, baked potato, bacon-wrapped
+asparagus, and carrot cake for dessert.
 
 Our server was a young woman from New Zealand who told us that she works at
-similar operations year-round, but that she moves between northern and southern
-hemisphere, because she doesn't like winter.
+similar operations year-round, but that, because she doesn't like winter, she
+migrates between northern and southern hemisphere.
 
 ![Table for two at Zup's 2025-08-05 18:03](./attachments/202508051803-000.jpeg "Table for two at Zup's 2025-08-05 18:03")
 
 After dinner, a boat took us to a room on another island. When we arrived, a
 small group was cleaning fish on the dock.
 
-The room had a run-down Motel 6 vibe, but was acceptable. We were surprised at
+The room had a run-down Motel 6 vibe, but was acceptable. We were surprised by
 the lack of potable water. Fortunately, I'd filled our bottles at the dining
 hall.
 
@@ -95,20 +95,22 @@ We headed to bed when the mosquitoes started to bite. Rain is threatening.
 
 [Lac la Croix, Bottle Lake, Iron Lake, Crooked Lake. 11.1 miles](./GPS/2025-08-06.pdf)
 
-Zup's picked us up promptly at 6:30.
+A boat picked us up at our room promptly at 6:30 and took us to the dinning
+hall. Breakfast is endless pancakes, coffee, and juice, with a few sausage.
 
-Until they were were dropped off at the Black Robe Portage, we shared the boat
-with a family that was taking their first canoe trip. Mom was *way* out of her
-comfort zone but was being brave&mdash;her first time in a boat was her trip to
-Zup's, yesterday. She took her first swim lessons to prepare for this trip. Dad
-had been on canoe fishing trips before but had not led one. The daughter, who I
-guessed to be about 10, was all in on whatever dad was doing. Grandma and
-grandpa seemed bemused. Based on his gear choices, mom's brother seemed to think
-he would be lounging on a beach. Their tent was huge and was meant for car
-camping&mdash;it even included a porch. Its case had little wheels that
-might've been appropriate for a paved campground but not for even the best of
-portages. As I understood them, their plan was to put six people in one large
-canoe and to tow a solo canoe, which would hold their gear. I wish them well.
+After breakfast, we shared the boat with a family that was taking their first
+canoe trip. Mom was *way* out of her comfort zone but was being brave&mdash;her
+first time in a boat was her trip to Zup's, yesterday and she took her first
+swim lessons to prepare for this trip. Dad had been on canoe fishing trips
+before but had not led one. The daughter, who I guessed to be about 10, was all
+in on whatever dad was doing. Grandma and grandpa seemed bemused. Based on his
+gear choices, mom's brother seemed to think he would be lounging on a beach.
+Their tent was huge and was meant for car camping&mdash;it even included a
+porch. Its case had little wheels that might've been appropriate for a paved
+campground but not for even the best of portages. As I understood them, their
+plan was to put six people in one large canoe and to tow a solo canoe, which
+would hold their gear. I wished them well when they were dropped off at the
+Black Robe Portage.
 
 We were dropped off at at Bottle Portage at around 9:00.
 
@@ -126,19 +128,20 @@ The paddle through Bottle Lake and Iron Lake was easy, and and we moved fast.
 
 ![Royce at Crooked Lake side of Curtain Falls 2025-08-06 12:09](./attachments/202508061209-002.jpeg "Royce at Crooked Lake side of Curtain Falls 2025-08-06 12:09")
 
-The Curtain Falls portage took something out of both of us. As we paddled into
-Crooked, the wind steadily built. Because of the SSW wind, I skirted the shore
-of Sunday Bay. The wind kept building, but the gusts were my biggest concern. We
-both got so tired that we pulled up next to shore and took a breather.
+The Curtain Falls portage took something out of both of us. And, as we paddled
+into Crooked, the SSW wind steadily increased in force. Because of that, I
+skirting the shore of Sunday Bay, which added a few miles to our day. The gusts
+were my biggest concern. After a few hours of, we were both so tired that we
+pulled up next to shore, and took a breather.
 
-Since we have a BWCA permit, we decided to not fight the wind and to camp on the
-US side.
+Since we have a BWCA permit, we decided to not fight the wind any more and
+camped on the US side.
 
 We leapfrogged a group of seven young people that are using aluminum canoes. (We
 later learned they are scouts.) Because of the MN2 is a fast boat and our
-technique is better, we moved much faster on the water than they did.
+technique is better, we moved faster on the water than they did.
 
-The wind made is somewhat difficult to set up the tent, but with that done, we
+The wind made it somewhat difficult to set up the tent, but with that done, we
 have &ldquo;cocktail a few minutes&rdquo;&mdash;El Jimador with lime and salt,
 and snacks. We miss Jim and reminisce about our 2002 trip with him and Royce's
 boys.
@@ -148,8 +151,8 @@ boys.
 Dinner is a bag salad and Royce's *ropa vieja* (old rope), with &ldquo;that's
 not rice&rdquo; rice. Royce continues to make sure we eat well.
 
-As we were pitching the tent, green beetles&mdash;the same hue as the rain
-fly&mdash;landed on the tent. They had perfect camouflage, just in the wrong
+As we were pitching the tent, green beetles&mdash;the same hue as the
+rainfly&mdash;landed on the tent. They had perfect camouflage, just in the wrong
 place. We both got a kick out of that.
 
 There are a few breaks in the clouds. It is quite still and humid, and the bugs
@@ -166,17 +169,18 @@ are whining outside of tent.
 ### 2025-08-07T18:12:17-05:00 (48.14664, -91.69657) 1254 feet: Camp in Moose Bay
 
 We slept hard until thunder and rain woke us. When it came, we learned that
-there is a trick to releasing the toggle that holds the rain fly out of the
+there is a trick to releasing the toggle that holds the rainfly out of the
 way&mdash;one must be very careful to slide the toggle directly out of the loop
 without allowing it to twist.
 
 ![Royce having coffee. Crooked Lake north of Saturday Bay 2025-08-07 07:51](./attachments/202508070751-000.jpeg "Royce having coffee. Crooked Lake north of Saturday Bay 2025-08-07 07:51")
 
-On the water well after 8:00.
+I'm not sure when we were on the water, but it was well after 8:00.
 
 Sunny, calm, enervating humidity.
 
-Yesterday's group with three canoes paddled past us as we were breaking camp.
+The group with three canoes that we saw yesterday paddled past us as we were
+breaking camp.
 
 When we left camp, there were only light riffles on the lake and I was so into
 how fast we were paddling that I was't watching the map closely enough and so
@@ -187,33 +191,33 @@ same time.
 As the day went on, the wind from the south picked up. The sky went from clear
 to cloudy and back again a few times.
 
-After paddling for a few hours we slowed, but we were still averaging around 3
+After paddling for a few hours, we slowed, but we were still averaging around 3
 mph. When the wind shifted to blow on our beam, we slowed again because more of
 my effort went towards keeping us on course.
 
-When we decided to break for lunch, we headed to a BWCA campsites because they
-tend to have easy landings, and are often open to the breeze. When we got to the
-nearest site shown on our maps, the terrain matched the map so exactly that I
-would have been confident, even without the GPS, that we were where the map
-shows the site. But there was no campsite&mdash;just a thick layer of lichen
-where it should have been. (So there has been little or no traffic there for
-years, leaving me to wonder, how old are these maps?) However, the nearby
-campsite in Quetico was right where the map said it should be *and* it had a
-broken BWCA fire grate. We wondered, when the BWCA camp was closed, whether some
-enterprising soul moved the grate across the border.
+When we decided to break for lunch, we headed to the nearest BWCA campsite
+because they tend to have easy landings, and are often open to the breeze. When
+we arrived at the site that our map indicated, the terrain and map matched so
+exactly that, even without the GPS, I would have been confident that we were
+where we meant to be. But there was no campsite&mdash;just a thick layer of
+lichen where it should have been. Lichen grows so slowly that we know there has
+been little or no traffic there for years, which leaves me wondering: how old is
+this map? A nearby Quetico campsite was right where the map said it should be
+*and* it had a broken BWCA fire grate. Maybe some enterprising soul borrowed the
+grate from the closed site?
 
 ![Royce. Lunch break on Crooked Lake north of Thursday Bay 2025-08-07 12:48](./attachments/202508071248-001.jpeg "Royce. Lunch break on Crooked Lake north of Thursday Bay 2025-08-07 12:48")
 
-The narrows of Crooked Lake/Basswood River have more current than I remember;
-even though we paddled hard, the current slowed us to just over 1 mph.
+The narrows of Crooked Lake/Basswood River have a lot more current than I
+remember; even though we paddled hard, the current slowed us to just over 1 mph.
 
-We decided that we will not tackle the first Basswood River portage today
-because we both recall that the campsites close to the portage aren't pleasant.
-Royce remembered that we had gone into Moose Bay on one of the trips with Ian,
-so we looked there and found a lovely campsite, just inside the bay and off the
-border route. We set up camp, then Royce fished and I took a couple of short
-swims. &ldquo;Cocktail much less than an hour&rdquo; with lime, salt, El
-Jimador, and snacks. Royce is cooking dinner.
+Neither of us recalled any pleasant campsites before the big portage, so we
+decided to not tackle the first Basswood River portage today. Royce remembered
+that we'd gone into Moose Bay on one of the trips with Ian, so we looked there
+and found a lovely campsite only a short distance off the border route. We set
+up camp, then Royce fished while I took a couple of short swims. Royce cooked
+dinner while we had &ldquo;cocktail much less than an hour&rdquo; with lime,
+salt, El Jimador, and snacks.
 
 Our plan for tomorrow is to set off early so that we can make it past the Horse
 Portage with enough time to paddle far enough to reach a nice campsite on
@@ -238,7 +242,7 @@ weather well into the evening.
      elevation from map. -->
 ### 2025-08-08T17:59:40-05:00 (48.06107, -91.56269) 1297 feet: Camp on Canadian Point
 
-Oh God, the bugs. We've been lucky that they're not nearly as active in the
+Oh God, the bugs last night. We've been lucky that they're not nearly as active in the
 morning.
 
 ![Royce and canoe. Camp on Moose Bay of Basswood River 2025-08-08 06:56](./attachments/202508080656-000.jpeg "Royce and canoe. Camp on Moose Bay of Basswood River 2025-08-08 06:56")
@@ -247,54 +251,60 @@ We leapfrogged the group of seven and learned that they are a scouting group
 doing their
 [*Order of the Arrow*](https://en.wikipedia.org/wiki/Order_of_the_Arrow) trip,
 which I'm told is a significant milestone. Quick math told me that the sum of
-ages of the scouts & their guides added up to less than the sum of our ages and
-that our canoe is older than any two of them.
+ages of the scouts & their guides added up to less than the sum of our ages.
 
-One of their group, a young woman, was trying to get a pack on that was clearly
-too heavy for her. But after I helped her to get the pack on, she moved faster
-on the trail than I could. Youth...
+One of their group, a young woman, was trying to put on a pack that was so heavy
+that it pulled her over backwards. But, after I helped her to settle it on her
+shoulders, she moved faster on the trail than I could. Youth&hellip;
 
 The Lower Basswood Falls portage was easy.
 
 ![Downstream of Lower Basswood Falls 2025-08-08 08:40](./attachments/202508080840-000.jpeg "Downstream of Lower Basswood Falls 2025-08-08 08:40")
 
-Where the outflow of two parts of Wheelbarrow Falls collide, the paddling is a
+Where the outflow of two parts of Wheelbarrow Falls collides, the paddling is a
 little tricky. It's been so long since I've done this route that that I'd
 forgotten about that.
 
 In spots, the river had flooded the portage, but the trail bed was firm, so we
 just sloshed through the water.
 
-In another "it's been a long time", I'd forgotten about the short portage that
+In another "it's been a long time", I had forgotten about the short portage that
 comes between Wheelbarrow Falls and Basswood Falls (Horse Portage). The current
-kept me from landing where I wanted to, which turned out to be a good thing
+kept me from landing where I had aimed, which turned out to be a good thing
 because we ended up at the correct place. On this portage, we met a young couple
 that were heading to Crooked. They were carrying only two small packs in
 addition their canoe and two paddles (no spare). We greatly admire their gear
 discipline.
 
 (The 1:100K maps show this little portage as part of the Basswood Falls
-portage. So, back then, the "mile portage" was closer to 1.5 miles.)
+portage. See
+[About the Basswood Falls portage](./About-Basswood-Falls-Portage.md).
 
 We caught up with the scouts again on the Horse Portage. They plan to do it
 halfway and then camp for the night. We slog through. It was long, hot,
 muggy, and hard, but not as hard as I'd feared.
 
 At the Basswood Lake end, the wind was blowing directly into the portage
-landing. The trees were swaying, waves were breaking, and, as far as we could
-see, there were white horses.
+landing. The trees were swaying, waves were breaking offshore, and there were
+white horses as far as we could see.
 
 We had a brief discussion about how we might get through the surf and paddle out
-of the wind, but quickly gave that up as silly. So, since the wind was making it
-quite pleasant on shore and there was no traffic (no sensible person would
-choose to be on Basswood in this wind), we did the sensible thing and did
-nothing. We puttered around for a bit, hung our sweaty shirts to dry, etc.,
+of the wind, but quickly gave that up as a fools errand. So, since the wind was
+making it quite pleasant on shore and there was no traffic (no sensible person
+would choose to be on Basswood in this wind), we did the sensible thing and did
+nothing. We puttered around for a bit, hanging our sweaty shirts to dry, etc.,
 before we unrolled our RidgeRests and got serious about napping. An hour or so
-later, we were awoken by the wind dropping. Royce had the brilliant idea of
-having a coffee, so we did that before we loaded the boat. By the time we were
-off, we were paddling through rollers but no chop, which made for easy and fast
-paddling. With the coffee on board, we paddled at morning pace for more than an
-hour.
+later, the quiet from the wind dropping woke us.
+
+Royce had the brilliant idea of having a coffee, so we did that before we loaded
+the boat.
+
+We had a hard time getting the boat out past the rocks of (I don't remember this
+in the past) and so we had to wait out away.
+
+By the time we were off, we were paddling through rollers with no chop, making
+for easy and fast paddling. With the coffee on board, we paddled at our morning
+pace for more than an hour.
 
 ![Royce with canoe at Basswood Lake end of Horse Portage 2025-08-08 16:09](./attachments/202508081609-000.jpeg "Royce with canoe at Basswood Lake end of Horse Portage 2025-08-08 16:09")
 
@@ -302,18 +312,18 @@ While we were paddling, the overcast was so thick that I began to worry about
 how late it was.
 
 As usual, distances and speed confound us, so we spent more time than I would
-have liked double-checking the map and GPS, which was mildly annoying. But then
+have liked double-checking the map and GPS. This was mildly annoying but then
 we never went astray.
 
 We reached camp around 18:00, set up the tent, and had tequila and limes, and
-snacks. This is a pleasant campsite although footing is bad with rocks and
+snacks. This is a pleasant campsite although footing is bad, with rocks and
 sticks spread throughout camp.
 
 We are tired. Royce made a quick meal of dried chicken, dried vegetables, and
 ramen. It was was more substantial and tasted better than the backpacker meals
-and required only a little more clean up (one pot, two spoons, and two cups to
-wash). We slurped it down, had a little more tequila, and started putting camp
-to bed.
+and required only a little more clean up. (We had one pot, two spoons, and two
+cups to wash.) We slurped it down, had a little more tequila, and started
+putting camp to bed in a desultory way.
 
 ![Royce in camp on Canadian Point of Basswood Lake 2025-08-08 19:15](./attachments/202508081915-001.jpeg "Royce in camp on Canadian Point of Basswood Lake 2025-08-08 19:15")
 
@@ -321,10 +331,10 @@ Then the bugs came. Double-plus ungood. So bad that I put my bug net on and
 didn't brush my teeth. The net helped a lot under the bill of my cap but not so
 much around the ears.
 
-We didn't properly close one of the tent doors fast enough, and so spent several
-minutes killing mosquitoes by the light of our headlamps. (Each tent door has
-two zippers that must be brought together carefully so that a little flap covers
-the hole where the zippers don't quite touch).
+We weren't fast enough to properly close one of the tent doors, and so spent
+several minutes killing mosquitoes by the light of our headlamps. (Each tent
+door has two zippers that must be brought together carefully so that a little
+flap covers the hole where the zippers don't quite touch).
 
 It was so hot in the tent that I couldn't sleep. Until we drifted off, we
 listened to an audio book version of *Footfall* and I mopped sweat off my face.
@@ -345,7 +355,7 @@ listened to an audio book version of *Footfall* and I mopped sweat off my face.
 ![Royce in camp on Carp Lake 2025-08-09 18:26](./attachments/202508091826-000.jpeg "Royce in camp on Carp Lake 2025-08-09 18:26")
 
 At some point last night, distant thunder woke us. When the rain started, I had
-to get out of the tent to untangle the toggle that holds the rain fly aside, as
+to get out of the tent to untangle the toggle that holds the rainfly aside, as
 Royce did two nights before.
 
 As the rain seemed to be petering out and I was drifting into sleep, the storm
@@ -1055,7 +1065,7 @@ went to the tent. I wore my sun hoodie in the tent to keep my sweat off things.
 Compared to the Timberline 4 tent that it replaced, the new Big Agnes is
 lighter, smaller, more stable in the wind, and is roomy for two with our gear.
 So far, its only faults are how careful one must be when closing the zippers and
-when undoing the toggle for the rain fly. The Timberline zippers had the same
+when undoing the toggle for the rainfly. The Timberline zippers had the same
 problem, though they were less finicky.
 
 When I connected my phone to a satellite, some Apple defect locked the
