@@ -288,42 +288,45 @@ At the Basswood Lake end, the wind was blowing directly into the portage
 landing. The trees were swaying, waves were breaking offshore, and there were
 white horses as far as we could see.
 
-We had a brief discussion about how we might get through the surf and paddle out
-of the wind, but quickly gave that up as a fools errand. So, since the wind was
-making it quite pleasant on shore and there was no traffic (no sensible person
-would choose to be on Basswood in this wind), we did the sensible thing and did
-nothing. We puttered around for a bit, hanging our sweaty shirts to dry, etc.,
-before we unrolled our RidgeRests and got serious about napping. An hour or so
-later, the quiet from the wind dropping woke us.
+We had a brief discussion about how we might make our way through the surf, and
+if we might be able to paddle out of the wind, but quickly gave that up as
+silly. Since the wind was making it pleasant on shore and there was no incoming
+traffic from the lake (no one would choose to be out on Basswood in this wind),
+we did nothing, puttering, hanging our sweaty shirts to dry, etc. Then we
+unrolled our RidgeRests and got serious about napping. An hour or so later, the
+quiet from the wind dropping woke us.
+
+I saw a trail heading away from the river. Out of curiosity, I followed it to
+see if could make my way to the nearest campsite. I didn't.
 
 Royce had the brilliant idea of having a coffee, so we did that before we loaded
-the boat.
+the boat. This was the time that having a isobutane stove was useful.
 
 We had a hard time getting the boat out past the rocks of (I don't remember this
-in the past) and so we had to wait out away.
-
-By the time we were off, we were paddling through rollers with no chop, making
-for easy and fast paddling. With the coffee on board, we paddled at our morning
-pace for more than an hour.
+in the past) and had to wade out.
 
 ![Royce with canoe at Basswood Lake end of Horse Portage 2025-08-08 16:09](./attachments/202508081609-000.jpeg "Royce with canoe at Basswood Lake end of Horse Portage 2025-08-08 16:09")
 
-While we were paddling, the overcast was so thick that I began to worry about
-how late it was.
+By the time we were off, we were paddling through rollers with no chop, which
+made for easy and fast paddling. With the coffee giving us strength, we paddled
+at our morning pace for more than an hour.
 
-As usual, distances and speed confound us, so we spent more time than I would
-have liked double-checking the map and GPS. This was mildly annoying but then
+As usual, distances and speed confound us, and we spent more time than I would
+have liked cross checking the map and GPS. This was mildly annoying but then
 we never went astray.
 
-We reached camp around 18:00, set up the tent, and had tequila and limes, and
-snacks. This is a pleasant campsite although footing is bad, with rocks and
-sticks spread throughout camp.
+The overcast was so thick that I couldn't see the sun and began to worry that it
+was much later than it was.
 
-We are tired. Royce made a quick meal of dried chicken, dried vegetables, and
-ramen. It was was more substantial and tasted better than the backpacker meals
-and required only a little more clean up. (We had one pot, two spoons, and two
-cups to wash.) We slurped it down, had a little more tequila, and started
-putting camp to bed in a desultory way.
+We reached camp on Canadian Point around 18:00, set up the tent, and had tequila
+and limes, and snacks. This is a pleasant campsite although the footing is bad,
+with rocks and sticks spread throughout camp.
+
+We were tired! Royce made a quick meal of dried chicken, dried vegetables,
+and ramen. It was more substantial and tasted better than the backpacker meals,
+and required only a little extra clean up&mdash;just one pot, two spoons, and
+two cups to wash. We slurped it down, had a little more tequila, and started
+moving in a desultory way to put camp to bed.
 
 ![Royce in camp on Canadian Point of Basswood Lake 2025-08-08 19:15](./attachments/202508081915-001.jpeg "Royce in camp on Canadian Point of Basswood Lake 2025-08-08 19:15")
 
