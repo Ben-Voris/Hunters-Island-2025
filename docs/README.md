@@ -429,17 +429,17 @@ Big Knife Portage (75 rods), plus the paddle from the portage past the east end
 of Robbins Island. I’ve never paddled that part of Knife Lake; we normally just
 blast past it on the border route, so it intrigues me.
 
-A middle-aged couple paddled past our camp, heading south. They might've seen or
-taken the portage to Crawford but we don't think to ask&mdash;plus they might've
-thought it rude to have strangers shout questions at them. We decide not to risk
-the time we'd need to explore portages that we know nothing about, and decide to
-stick with our original plan and to take the portage to Melon Lake.
+A middle-aged couple paddled past our camp, heading south. Though they might've
+taken the portage from Crawford, we didn't think to ask&mdash;plus they might've
+thought it rude to have strangers shout questions at them. These portages would
+be new to us and we decide not to risk the time we'd need to explore them, so we
+stuck to our original plan and head to the portage to Melon Lake.
 
 (Packing note: yesterday, we had moved both pairs of our Chaco &ldquo;magic
-sandals&rdquo; from the rubber pack to the gear pack and were surprised how
-notable the extra weight was. Today, to balance the load, we moved one pair to
-the food pack.) The food barrels are notably lighter and we've started moving
-gear into them.
+sandals&rdquo; from the rubber pack to the gear pack and were surprised how much
+we noticed the extra weight. Today, to balance the load, we moved one pair to
+the food pack. Also, the food barrels are notably lighter and we've started
+moving gear into them.)
 
 Wind is low, with occasional gusts. No clouds excepting a few mares tales.
 
@@ -458,29 +458,30 @@ quartering winds on the stern, which was tough. Even so, we made great time,
 doing over 5 mph for short bursts.
 
 Our first portage of the day was from Carp to Melon. It was busy&mdash;one
-couple and two groups of guys. The couple seemed to have their house in order
-and passed us without making an impression. But both groups of guys were
-carrying a menagerie of gear: packs, duffels, boxes, with both hands full of
-rods, paddles, and other gear. Though I always want to tighten up how we
-portage, when I see groups like them, I can't help but to think we're actually
-pretty good at it.
+couple and two groups of guys. The couple seemed to have everything under
+control and passed us without making an impression. But both groups of guys
+carried a menagerie of gear: packs, duffels, plastic boxes, and every guy had
+both hands full of rods, paddles, and other gear. Though I always want to
+tighten up how we portage, when I see a crew like them, I can't help but to
+think we're actually pretty good at it.
 
-On another of the Knife river portages, we met a couple, and their
-seven-year-old and five-year-old girls. Mom told us that both daughters were
-experienced voyageurs and were both &ldquo;portage queens&rdquo;. The older had
-made her first canoe trip at age 3 on Seagull Lake and said that she remembered
-how fun it was to portage to Alpine for a picnic. The younger raised her arms
+On another of the Knife river portages, we met a couple with their
+seven-year-old and five-year-old girls. Mom told us that the older daughter was
+an experienced voyageurs and that both were &ldquo;portage queens&rdquo;. The
+older had made her first canoe trip at age 3 on Seagull Lake. She recalled how
+much fun it was to portage to Alpine for a picnic. The younger raised her arms
 and yelled &ldquo;Yay!&rdquo; whenever mom or dad said &ldquo;portage
 queen&rdquo;.
 
 Around 12:40, we stopped for lunch on the west campsite on Robbins Island. It's
 so lovely that we took an extra 15 or 20 minute rest.
 
-I had trouble finding the Knife Lake narrows. Or rather, I went directly to them
-but couldn't believe that what I was looking at was &ldquo;the narrows&rdquo;
-because it is *narrow*. We stopped, looked at maps, and cursed for several
-minutes before realizing what I had first taken us to was the narrows&mdash;so
-small and rocky that we could barely float through it.
+I had forgotten how narrow the Knife Lake narrows are. I took us directly to
+them but the passage was so narrow, shallow, and rocky that I doubted that we
+were in the right place. So, we paddled past, turned back, stopped, and spent a
+few minutes looking at the map and GPS and cursing, until we were convinced that
+we were there. The narrows were tight enough that we had to take care in passing
+through.
 
 BWCA portages, especially on the border route, are usually easy to spot because
 they're heavily used and get regular maintenance. To my surprise, the Little
@@ -488,10 +489,10 @@ Knife Portage, from Knife to Ottertrack, was behind a screen of brush and wasn't
 obvious to our eyes. Of the portages we did today, it had the steepest
 climb&mdash;a real up-and-down.
 
-Shortly after the portage from Knife Lake, we made camp at around 16:30 on the
-US (BWCA) side of Ottertrack. Compared to the sites in Quetico, this one is
-notably more heavily used&mdash;and it comes equipped with obnoxious and
-aggressive chipmunks that we must repeatedly shoo away from our gear.
+Shortly launching on Ottertrack, we made camp at around 16:30 on the US side of
+the lake. Compared to the sites in Quetico, this one is notably more heavily
+used&mdash;and comes equipped with obnoxious and aggressive chipmunks that we
+repeatedly shoo away from our gear.
 
 Saw a lot of loons today. One pair let us paddle within 6 feet.
 
