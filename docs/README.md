@@ -489,10 +489,10 @@ Knife Portage, from Knife to Ottertrack, was behind a screen of brush and wasn't
 obvious to our eyes. Of the portages we did today, it had the steepest
 climb&mdash;a real up-and-down.
 
-Shortly launching on Ottertrack, we made camp at around 16:30 on the US side of
-the lake. Compared to the sites in Quetico, this one is notably more heavily
-used&mdash;and comes equipped with obnoxious and aggressive chipmunks that we
-repeatedly shoo away from our gear.
+Shortly after launching on Ottertrack, we made camp on the US side of
+the lake, at around 16:30. Compared to the sites in Quetico, this one is notably
+more heavily used&mdash;and comes equipped with obnoxious and aggressive
+chipmunks that we repeatedly shoo away from our gear.
 
 Saw a lot of loons today. One pair let us paddle within 6 feet.
 
@@ -562,15 +562,15 @@ we oh-so-gracefully made it into the canoe and paddled our way into the lake.
 We saw a toad on the portage and a leopard frog at the Saganagons end.
 
 That portage left us both so tired that we stopped early. We got the tent up and
-took a quick swim to rinse off some of the loon poop.
+took a quick swim to rinse off the worse of the loon poop.
 
-The smoke started to blow in after lunch. The sky is red now, even though the
-sun is a couple hand-widths above the horizon.
+The much forecast smoke started to blow in after lunch. The sky is red now, even
+though the sun is a couple hand-widths above the horizon.
 
 Reached camp around 16:00.
 
 In tent at 20:20. When the wind started to die down, the mosquitoes started to
-buzz. But by then we had camp set for the night, our teeth brushed, etc., and so
+buzz. By then, we had camp set for the night, our teeth brushed, etc., and so
 only had to pop into the tent.
 
 [index](#index)
