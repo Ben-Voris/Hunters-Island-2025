@@ -581,15 +581,16 @@ only had to pop into the tent.
 
 [Saganagons Lake, Little Falls, Koko Falls. 17.2 miles](./GPS/2025-08-12.pdf)
 
-We had planned to take a shortcut portage through a long peninsula that points
-east on Saganagons Lake, but the portage was not where either the *Fisher* or
-*NatGeo* maps show it. (One thing about the GPS&mdash;we know for sure where we
-are.) The *Backroads Map Book (BRMB) Paddling Trails* map shows a second portage
-to the west, about a mile of paddling out of the way. Rather than keep looking,
-we decided to paddle. So, we dug in, and headed east at a good pace. When we
-came around the peninsula and turned back to the west, we were still making good
-time. This decision added about seven miles of paddling to our day. I don't know
-how much extra time&mdash;if any&mdash;this cost vs. the unknown portage.
+On Saganagons Lake, we'd planned to take a shortcut portage across a long
+peninsula that points east, but the portage was not where either the *Fisher* or
+*NatGeo* maps show it. (One thing about the GPS&mdash;we know exactly where we
+are.) The *Backroads Map Book Paddling Trails* (BRMB) map shows a second portage
+to the west, a mile or so of paddling out of the way. But rather than continuing
+to look, we decided to just paddle. So, we dug in, and headed east at a brisk
+pace. When we came around the peninsula and turned back to the west, we were
+still making good time. This choice added about seven miles of paddling to our
+day. I don't know how much extra time&mdash;if any&mdash;this cost compared to
+the unknown portage.
 
 ![Royce. Lunch break on Saganagons Lake 2025-08-12 13:03](./attachments/202508121303-000.jpeg "Royce. Lunch break on Saganagons Lake 2025-08-12 13:03")
 
@@ -612,7 +613,7 @@ portage.
 
 It was getting dark, so we made a &ldquo;Fort Necessity&rdquo; camp at 19:20. The
 tent is a few tens of feet from the portage and a few feet from the falls. It's
-not heavily used but we're not the first here either.
+not heavily used but we're not the first to use it.
 
 We've been in the tent for a few minutes. If only we've been here a few tens of
 minutes earlier so we could've done things like brush our teeth.
@@ -620,7 +621,7 @@ minutes earlier so we could've done things like brush our teeth.
 We saw two groups of three canoes each. One on Saganagons and the other leaving
 the river.
 
-We did a poor job of estimating travel time. and, we did not expect up to paddle
+We did a poor job of estimating travel time. and, we had not planned to paddle
 around the peninsula, so it was a longer day than we expected. I wouldn't want
 to guess what might've happened in the last 23 years, but I'm moving slower on
 the portages.
