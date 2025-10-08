@@ -723,58 +723,64 @@ we were ready to leave, the increasing wind and growing white caps led us to
 decide to wait out the gusts. As it was, we were the water around noon. Wind was
 from the south again and we made good time.
 
-Though the route I had planned to the portage to Shelley Lake is easier to
-navigate, it was open to the wind. So, we went through the &ldquo;fiddly
-bits&rdquo; of the islands on the western side of Kawnipi. Much of the shore is
-burnt and as we turn west towards the creek, even more of it is burned.
+I had planned an easy to navigate route to the portage to Kahshahpiwi Creek, but
+the wind had another idea, and sent us through the islands on Kawnipi’s western
+side&mdash;the &ldquo;fiddly bits&rdquo;. A lot of the shore was a burn scar and
+when we turned southwest, we saw more of it.
 
-The portage is very close to the rapids and all we could see of it were down,
-burned trees. It might've been cleared, but the way the terrain was, we had to
-commit to landing at a particular spot or risk being swept down the rapids. We
-could not see the portage, so we backtracked to portage to Montgomery Lake.
+The map shows that the portage is next to the rapids, but all we could see were
+down and burned trees. We would've had to commit to a landing&mdash;any
+hesitation would've sent us down the rapids. It might've been cleared, but we
+couldn't *see*. So, we backtracked to the portage to Montgomery Lake.
 
 This portage was hard to find and it was tough&mdash;lots of rocks and a path so
 narrow that the canoe kept catching in the trees. To make it more fun, it had
 mucky areas and a small stream crossing. The nearby beaver dam might've have
 changed things, but we think it more likely that the portage is not much used.
 
-Montgomery Lake was an ugly lake&mdash;basically a heavily burned spruce swamp.
-We wonder why anyone would portage here. None of the three campsites on it
-showed sign of much use.
+Montgomery Lake was basically a burned spruce swamp but we still paddled past
+its three campsites. None showed sign of much use. The view was pretty
+depressing, so we kept on towards Shelley.
 
 ![Paddling through burn area on Montgomery Lake 2025-08-14 16:37](./attachments/202508141637-000.jpeg "Paddling through burn area on Montgomery Lake 2025-08-14 16:37")
 
-The portage from Montgomery to Shelley was also burnt. Some work had been done to
-open it, but just barely enough. There were trees to clamber over, boulders to
-step across, etc&mdash;short but unpleasant. The landing area on the Montgomery
-side was one very large rock surrounded by mid-calf deep loon poop. And there
-were lots of rocks that we had to dodge around before we could get to shore.
+The portage from Montgomery to Shelley was also burnt. There were lots of rocks
+that we had to dodge around before we could get to shore. Some work had been
+done to open it, but just barely enough. Still, there were trees to clamber
+over, boulders to step across, and the Montgomery side was one very large
+rock&mdash;surrounded by mid-calf deep loon poop.  Short, but unpleasant.
 
 ![Royce resting on portage from Montgomery to Shelley 2025-08-14 17:08](./attachments/202508141708-000.jpeg "Royce resting on portage from Montgomery to Shelley 2025-08-14 17:08")
 
-We headed south towards the first campsite on Shelley, arriving around 17:30.
+We headed south towards the first campsite on Shelley Lake and arrived at around
+17:30. This camp is on an island that had mostly burned and which is growing
+back to brush. But it has an big enough open area to pitch a tent, and we are
+tired. The wind was howling, so we put rocks on all the stakes and, for the
+first time, pitched the guy lines. Of course, when bug time came, the still wind
+died.
 
-This camp is on an island that had mostly burned and is growing back to brush.
-But there is an open area with enough space to pitch a tent. The wind was
-howling so hard that we put rocks on all the stakes and, for the first time,
-pitched the guy lines. Of course, when bug time came, the wind died.
+![Ben near tent on a fire-scarred island on Shelley Lake 2025-08-14 19:36](./attachments/202508141936-000.jpeg "Ben standing tent on a fire-scarred island on Shelley Lake 2025-08-14 19:36")
 
-![Ben standing near tent on a fire-scarred island on Shelley Lake 2025-08-14 19:36](./attachments/202508141936-000.jpeg "Ben standing near tent on a fire-scarred island on Shelley Lake 2025-08-14 19:36")
+No fish, so curried rice and bacon are dinner. The precooked bacon isn't as
+tasty as the regular stuff, but it eliminates the fat that attracts bears.
 
-Curried rice and bacon for dinner.
+When I dug my cat hole, I turned over a thin layer of organic matter, then a
+layer of carbon&mdash;probably left by the most recent fire&mdash;then a few
+inches of soil, and then another layer of carbon, then mineral soil, all in less
+than six inches. I wonder, how long ago the fire was that produced the lower
+layer of carbon? A reminder how much fire is a part of this land.
 
-When I dug my cat hole, I turned over a thin layer of organic matter that was
-over carbon from the last fire, then a few inches of soil, and then another
-layer of carbon, then mineral soil. I wonder, how long ago the fire was that
-produced the lower layer of carbon?
-
-The portages are taking longer than we expected. In retrospect, the
-Horse/Mile/Basswood Falls portage was relatively easy because, once we had our
-load on, it was just a matter of plodding. The portages over the last few days
-have required more careful attention. The landings, usually on both sides, tend
-to be narrow which requires a bow on approach and and bow out departure, which
-requires a great deal of fiddling to get the stern paddler (me) and our packs
-out of the canoe, or the packs and the bow paddler into the canoe.
+We are taking longer on portages than we expected. In retrospect, the
+Horse/Mile/Basswood Falls portage was relatively easy&mdash;once we had our load
+on, we just had to plod. But the portages over the last few days have been
+different. Most of the landings are too narrow to let us bring the canoe in
+sideways, so we're landing bow-on and departing bow-out. This requires a lot of
+fiddling to get the stern paddler (me) and our packs out of the canoe, or the
+packs and the bow paddler (Royce) into the canoe without wading in thigh-deep
+water. (Somehow, we're OK with getting wet to the knee but getting our pockets
+wet is right out. Joking aside, it's easy to tip the canoe when getting in or
+out in deep water.) Loading and unloading at portages was never easy and now it
+takes a slower and more deliberate dance.
 
 [index](#index)
 
@@ -1069,17 +1075,24 @@ fire flies. This is the farthest north I've ever seen them.
 At the beginning of the trip, we sweated a lot on the portages and when we first
 went to the tent. I wore my sun hoodie in the tent to keep my sweat off things.
 
-Compared to the Timberline 4 tent that it replaced, the new Big Agnes is
-lighter, smaller, more stable in the wind, and is roomy for two with our gear.
-So far, its only faults are how careful one must be when closing the zippers and
+Compared to the Timberline 4 tent that it replaced, the new Big Agnes tent is
+lighter, smaller, and more stable in the wind. It is roomy for two with gear. So
+far, its only faults are how careful one must be when closing the zippers and
 when undoing the toggle for the rainfly. The Timberline zippers had the same
 problem, though they were less finicky.
 
 When I connected my phone to a satellite, some Apple defect locked the
-conversation with Leslie, so I was very glad to have the inReach.
+conversation with Leslie, so I was very glad to have the inReach. After the
+phone got non-satellite service, and I sent a message, the conversation again
+worked via satellite.
 
-Also, it took longer to get a satellite fix here than in Boise. Perhaps a
-combination of latitude and that there are many more trees? Anyway, I did post
-processing to add coordinates to more pictures than I expected.
+Also, my iPhone took longer to get a satellite fix here as compared in Boise.
+Perhaps a combination of latitude and that there are many more trees? Anyway, I
+did more post processing to add coordinates to pictures than I expected.
+
+One of the many pleasures of adventuring with Royce for so many years is that we
+trust each other, instinctively lean on each other's strengths, know each
+other's quirks, and have developed a vocabulary and style of communication that
+works for us&mdash;&ldquo;switching to scut!&rdquo;
 
 [To Do, Lessons Learned, Considerations](./To-Do_Lessons-Learned_Considerations.md)
