@@ -1,11 +1,11 @@
-======== ../Hunters-Island-2025/attachments/20250819.png
+======== ../2025-08-Hunters-Island/docs/attachments/20250819.png
 ExifTool Version Number         : 13.30
 File Name                       : 20250819.png
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 704 kB
-File Modification Date/Time     : 2025:09:24 19:23:39-06:00
-File Access Date/Time           : 2025:09:24 19:45:13-06:00
-File Inode Change Date/Time     : 2025:09:24 19:23:39-06:00
+File Modification Date/Time     : 2025:09:24 19:59:58-06:00
+File Access Date/Time           : 2025:10:07 19:07:35-06:00
+File Inode Change Date/Time     : 2025:09:24 19:59:58-06:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -28,7 +28,7 @@ Profile File Signature          : acsp
 Primary Platform                : Apple Computer Inc.
 CMM Flags                       : Not Embedded, Independent
 Device Manufacturer             : Apple Computer Inc.
-Device Model                    : 
+Device Model                    :
 Device Attributes               : Reflective, Glossy, Positive, Color
 Rendering Intent                : Perceptual
 Connection Space Illuminant     : 0.9642 1 0.82491
@@ -49,10 +49,10 @@ Exif Image Width                : 792
 Exif Image Height               : 612
 Image Size                      : 792x612
 Megapixels                      : 0.485
-======== ../Hunters-Island-2025/attachments/202508131109-000.jpeg
+======== ../2025-08-Hunters-Island/docs/attachments/202508131109-000.jpeg
 ExifTool Version Number         : 13.30
 File Name                       : 202508131109-000.jpeg
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 5.4 MB
 File Modification Date/Time     : 2025:09:09 10:31:02-06:00
 File Access Date/Time           : 2025:09:22 12:02:42-06:00
@@ -110,8 +110,8 @@ Saturation                      : High
 Sharpness                       : Normal
 XMP Toolkit                     : XMP Core 6.0.0
 Person In Image                 : Royce D
-Rights                          : 
-Creator                         : 
+Rights                          :
+Creator                         :
 Description                     : OLYMPUS DIGITAL CAMERA
 Subject                         : portaging, Quetico, Royce Dunbar
 Flash Compensation              : 0
@@ -150,10 +150,10 @@ Field Of View                   : 71.5 deg
 Focal Length                    : 4.5 mm (35 mm equivalent: 25.0 mm)
 Hyperfocal Distance             : 1.34 m
 Light Value                     : 11.3
-======== ../Hunters-Island-2025/attachments/202508170852-000.jpeg
+======== ../2025-08-Hunters-Island/docs/attachments/202508170852-000.jpeg
 ExifTool Version Number         : 13.30
 File Name                       : 202508170852-000.jpeg
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 2.2 MB
 File Modification Date/Time     : 2025:09:06 19:56:10-06:00
 File Access Date/Time           : 2025:09:22 12:02:42-06:00
@@ -246,7 +246,7 @@ Region Area X                   : 0.38423809523809527
 Region Area H                   : 0.317
 Region Area Unit                : normalized
 Region Type                     : Focus
-Region Extensions               : 
+Region Extensions               :
 Region Applied To Dimensions H  : 3024
 Region Applied To Dimensions W  : 4032
 Region Applied To Dimensions Unit: pixel
@@ -261,7 +261,7 @@ Profile File Signature          : acsp
 Primary Platform                : Apple Computer Inc.
 CMM Flags                       : Not Embedded, Independent
 Device Manufacturer             : Apple Computer Inc.
-Device Model                    : 
+Device Model                    :
 Device Attributes               : Reflective, Glossy, Positive, Color
 Rendering Intent                : Perceptual
 Connection Space Illuminant     : 0.9642 1 0.82491
@@ -301,10 +301,10 @@ Focal Length                    : 6.8 mm (35 mm equivalent: 48.0 mm)
 Hyperfocal Distance             : 6.07 m
 Light Value                     : 10.0
 Lens ID                         : iPhone 15 Pro back triple camera 6.765mm f/1.78
-======== ../Hunters-Island-2025/attachments/202508070751-000.jpeg
+======== ../2025-08-Hunters-Island/docs/attachments/202508070751-000.jpeg
 ExifTool Version Number         : 13.30
 File Name                       : 202508070751-000.jpeg
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 3.5 MB
 File Modification Date/Time     : 2025:09:06 19:56:09-06:00
 File Access Date/Time           : 2025:09:22 12:02:42-06:00
@@ -411,7 +411,7 @@ Profile File Signature          : acsp
 Primary Platform                : Apple Computer Inc.
 CMM Flags                       : Not Embedded, Independent
 Device Manufacturer             : Apple Computer Inc.
-Device Model                    : 
+Device Model                    :
 Device Attributes               : Reflective, Glossy, Positive, Color
 Rendering Intent                : Perceptual
 Connection Space Illuminant     : 0.9642 1 0.82491
@@ -456,10 +456,10 @@ GPS Position                    : 48 deg 12' 24.96" N, 91 deg 50' 51.75" W
 Hyperfocal Distance             : 3.04 m
 Light Value                     : 12.5
 Lens ID                         : iPhone 15 Pro back dual wide camera 6.765mm f/1.78
-======== ../Hunters-Island-2025/attachments/202508061744-000.jpeg
+======== ../2025-08-Hunters-Island/docs/attachments/202508061744-000.jpeg
 ExifTool Version Number         : 13.30
 File Name                       : 202508061744-000.jpeg
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 925 kB
 File Modification Date/Time     : 2025:09:06 21:12:25-06:00
 File Access Date/Time           : 2025:09:22 12:02:42-06:00
@@ -568,7 +568,7 @@ Profile File Signature          : acsp
 Primary Platform                : Apple Computer Inc.
 CMM Flags                       : Not Embedded, Independent
 Device Manufacturer             : Apple Computer Inc.
-Device Model                    : 
+Device Model                    :
 Device Attributes               : Reflective, Glossy, Positive, Color
 Rendering Intent                : Perceptual
 Connection Space Illuminant     : 0.9642 1 0.82491
@@ -613,10 +613,10 @@ GPS Position                    : 48 deg 12' 24.94" N, 91 deg 50' 51.56" W
 Hyperfocal Distance             : 3.29 m
 Light Value                     : 10.2
 Lens ID                         : iPhone 13 Pro back triple camera 5.7mm f/1.5
-======== ../Hunters-Island-2025/attachments/202508171958-000.jpeg
+======== ../2025-08-Hunters-Island/docs/attachments/202508171958-000.jpeg
 ExifTool Version Number         : 13.30
 File Name                       : 202508171958-000.jpeg
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 9.6 MB
 File Modification Date/Time     : 2025:09:09 21:57:31-06:00
 File Access Date/Time           : 2025:09:22 12:02:58-06:00
@@ -734,7 +734,7 @@ Profile File Signature          : acsp
 Primary Platform                : Apple Computer Inc.
 CMM Flags                       : Not Embedded, Independent
 Device Manufacturer             : Apple Computer Inc.
-Device Model                    : 
+Device Model                    :
 Device Attributes               : Reflective, Glossy, Positive, Color
 Rendering Intent                : Perceptual
 Connection Space Illuminant     : 0.9642 1 0.82491
@@ -791,10 +791,10 @@ GPS Position                    : 48 deg 23' 8.36" N, 91 deg 50' 48.50" W
 Hyperfocal Distance             : 3.04 m
 Light Value                     : 6.2
 Lens ID                         : iPhone 15 Pro back triple camera 6.765mm f/1.78
-======== ../Hunters-Island-2025/attachments/20250818.png
+======== ../2025-08-Hunters-Island/docs/attachments/20250818.png
 ExifTool Version Number         : 13.30
 File Name                       : 20250818.png
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 771 kB
 File Modification Date/Time     : 2025:09:22 13:09:37-06:00
 File Access Date/Time           : 2025:09:24 19:45:28-06:00
@@ -821,7 +821,7 @@ Profile File Signature          : acsp
 Primary Platform                : Apple Computer Inc.
 CMM Flags                       : Not Embedded, Independent
 Device Manufacturer             : Apple Computer Inc.
-Device Model                    : 
+Device Model                    :
 Device Attributes               : Reflective, Glossy, Positive, Color
 Rendering Intent                : Perceptual
 Connection Space Illuminant     : 0.9642 1 0.82491
@@ -842,10 +842,10 @@ Exif Image Width                : 792
 Exif Image Height               : 612
 Image Size                      : 792x612
 Megapixels                      : 0.485
-======== ../Hunters-Island-2025/attachments/202508051953-000.jpeg
+======== ../2025-08-Hunters-Island/docs/attachments/202508051953-000.jpeg
 ExifTool Version Number         : 13.30
 File Name                       : 202508051953-000.jpeg
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 2.9 MB
 File Modification Date/Time     : 2025:09:06 19:56:09-06:00
 File Access Date/Time           : 2025:09:22 12:02:42-06:00
@@ -952,7 +952,7 @@ Profile File Signature          : acsp
 Primary Platform                : Apple Computer Inc.
 CMM Flags                       : Not Embedded, Independent
 Device Manufacturer             : Apple Computer Inc.
-Device Model                    : 
+Device Model                    :
 Device Attributes               : Reflective, Glossy, Positive, Color
 Rendering Intent                : Perceptual
 Connection Space Illuminant     : 0.9642 1 0.82491
@@ -997,10 +997,10 @@ GPS Position                    : 48 deg 21' 22.04" N, 92 deg 12' 44.10" W
 Hyperfocal Distance             : 3.04 m
 Light Value                     : 4.6
 Lens ID                         : iPhone 15 Pro back triple camera 6.765mm f/1.78
-======== ../Hunters-Island-2025/attachments/202508101133-000.jpeg
+======== ../2025-08-Hunters-Island/docs/attachments/202508101133-000.jpeg
 ExifTool Version Number         : 13.30
 File Name                       : 202508101133-000.jpeg
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 2.8 MB
 File Modification Date/Time     : 2025:09:08 22:15:53-06:00
 File Access Date/Time           : 2025:09:22 12:02:42-06:00
@@ -1064,8 +1064,8 @@ GPS Status                      : Measurement Active
 GPS Img Direction Ref           : Magnetic North
 GPS Img Direction               : 284
 XMP Toolkit                     : XMP Core 6.0.0
-Creator                         : 
-Rights                          : 
+Creator                         :
+Rights                          :
 Description                     : OLYMPUS DIGITAL CAMERA
 Subject                         : Royce Dunbar, portaging, BWCA
 Flash Compensation              : 0
@@ -1109,10 +1109,10 @@ Focal Length                    : 18.0 mm (35 mm equivalent: 100.0 mm)
 GPS Position                    : 48 deg 4' 23.62" N, 91 deg 19' 0.82" W
 Hyperfocal Distance             : 12.23 m
 Light Value                     : 11.2
-======== ../Hunters-Island-2025/attachments/202508181127-000.jpeg
+======== ../2025-08-Hunters-Island/docs/attachments/202508181127-000.jpeg
 ExifTool Version Number         : 13.30
 File Name                       : 202508181127-000.jpeg
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 3.8 MB
 File Modification Date/Time     : 2025:09:09 22:37:35-06:00
 File Access Date/Time           : 2025:09:22 12:02:58-06:00
@@ -1169,8 +1169,8 @@ Contrast                        : Normal
 Saturation                      : Normal
 Sharpness                       : Normal
 XMP Toolkit                     : XMP Core 6.0.0
-Creator                         : 
-Rights                          : 
+Creator                         :
+Rights                          :
 Description                     : OLYMPUS DIGITAL CAMERA
 Subject                         : portaging, Royce Dunbar
 Flash Compensation              : 0
@@ -1209,10 +1209,10 @@ Field Of View                   : 71.5 deg
 Focal Length                    : 4.5 mm (35 mm equivalent: 25.0 mm)
 Hyperfocal Distance             : 1.34 m
 Light Value                     : 11.3
-======== ../Hunters-Island-2025/attachments/202508171714-000.jpeg
+======== ../2025-08-Hunters-Island/docs/attachments/202508171714-000.jpeg
 ExifTool Version Number         : 13.30
 File Name                       : 202508171714-000.jpeg
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 2.7 MB
 File Modification Date/Time     : 2025:09:09 21:49:41-06:00
 File Access Date/Time           : 2025:09:22 12:02:58-06:00
@@ -1276,8 +1276,8 @@ GPS Status                      : Measurement Active
 GPS Img Direction Ref           : Magnetic North
 GPS Img Direction               : 206
 XMP Toolkit                     : XMP Core 6.0.0
-Creator                         : 
-Rights                          : 
+Creator                         :
+Rights                          :
 Description                     : OLYMPUS DIGITAL CAMERA
 Subject                         : Landscape, Quetico
 Flash Compensation              : 0
@@ -1320,10 +1320,10 @@ Focal Length                    : 4.5 mm (35 mm equivalent: 25.0 mm)
 GPS Position                    : 48 deg 23' 8.36" N, 91 deg 50' 48.50" W
 Hyperfocal Distance             : 0.47 m
 Light Value                     : 13.3
-======== ../Hunters-Island-2025/attachments/202508061209-002.jpeg
+======== ../2025-08-Hunters-Island/docs/attachments/202508061209-002.jpeg
 ExifTool Version Number         : 13.30
 File Name                       : 202508061209-002.jpeg
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 3.3 MB
 File Modification Date/Time     : 2025:09:09 11:32:05-06:00
 File Access Date/Time           : 2025:09:22 12:02:42-06:00
@@ -1387,8 +1387,8 @@ GPS Status                      : Measurement Active
 GPS Img Direction Ref           : Magnetic North
 GPS Img Direction               : 23
 XMP Toolkit                     : XMP Core 6.0.0
-Creator                         : 
-Rights                          : 
+Creator                         :
+Rights                          :
 Description                     : OLYMPUS DIGITAL CAMERA
 Subject                         : Royce Dunbar, BWCA
 Flash Compensation              : 0
@@ -1432,10 +1432,10 @@ Focal Length                    : 9.6 mm (35 mm equivalent: 53.0 mm)
 GPS Position                    : 48 deg 14' 14.23" N, 91 deg 54' 23.81" W
 Hyperfocal Distance             : 3.77 m
 Light Value                     : 12.3
-======== ../Hunters-Island-2025/attachments/202508141936-000.jpeg
+======== ../2025-08-Hunters-Island/docs/attachments/202508141936-000.jpeg
 ExifTool Version Number         : 13.30
 File Name                       : 202508141936-000.jpeg
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 1886 kB
 File Modification Date/Time     : 2025:08:29 14:17:17-06:00
 File Access Date/Time           : 2025:09:22 12:02:42-06:00
@@ -1553,10 +1553,10 @@ Focal Length                    : 5.7 mm (35 mm equivalent: 26.0 mm)
 Hyperfocal Distance             : 3.29 m
 Light Value                     : 11.2
 Lens ID                         : iPhone 13 Pro back triple camera 5.7mm f/1.5
-======== ../Hunters-Island-2025/attachments/20250808.png
+======== ../2025-08-Hunters-Island/docs/attachments/20250808.png
 ExifTool Version Number         : 13.30
 File Name                       : 20250808.png
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 845 kB
 File Modification Date/Time     : 2025:09:23 15:08:01-06:00
 File Access Date/Time           : 2025:09:23 18:47:53-06:00
@@ -1583,7 +1583,7 @@ Profile File Signature          : acsp
 Primary Platform                : Apple Computer Inc.
 CMM Flags                       : Not Embedded, Independent
 Device Manufacturer             : Apple Computer Inc.
-Device Model                    : 
+Device Model                    :
 Device Attributes               : Reflective, Glossy, Positive, Color
 Rendering Intent                : Perceptual
 Connection Space Illuminant     : 0.9642 1 0.82491
@@ -1604,10 +1604,10 @@ Exif Image Width                : 792
 Exif Image Height               : 612
 Image Size                      : 792x612
 Megapixels                      : 0.485
-======== ../Hunters-Island-2025/attachments/20250809.png
+======== ../2025-08-Hunters-Island/docs/attachments/20250809.png
 ExifTool Version Number         : 13.30
 File Name                       : 20250809.png
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 877 kB
 File Modification Date/Time     : 2025:09:23 15:23:18-06:00
 File Access Date/Time           : 2025:09:23 18:47:54-06:00
@@ -1634,7 +1634,7 @@ Profile File Signature          : acsp
 Primary Platform                : Apple Computer Inc.
 CMM Flags                       : Not Embedded, Independent
 Device Manufacturer             : Apple Computer Inc.
-Device Model                    : 
+Device Model                    :
 Device Attributes               : Reflective, Glossy, Positive, Color
 Rendering Intent                : Perceptual
 Connection Space Illuminant     : 0.9642 1 0.82491
@@ -1655,10 +1655,10 @@ Exif Image Width                : 792
 Exif Image Height               : 612
 Image Size                      : 792x612
 Megapixels                      : 0.485
-======== ../Hunters-Island-2025/attachments/202508171435-000.jpeg
+======== ../2025-08-Hunters-Island/docs/attachments/202508171435-000.jpeg
 ExifTool Version Number         : 13.30
 File Name                       : 202508171435-000.jpeg
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 6.5 MB
 File Modification Date/Time     : 2025:09:06 19:56:10-06:00
 File Access Date/Time           : 2025:09:22 12:02:42-06:00
@@ -1768,7 +1768,7 @@ Region Extensions Angle Info Yaw: 19
 Region Extensions Angle Info Roll: 10
 Region Extensions Confidence Level: 1
 Region Extensions Face ID       : 4
-Region Extensions               : 
+Region Extensions               :
 Region Applied To Dimensions H  : 3024
 Region Applied To Dimensions W  : 4032
 Region Applied To Dimensions Unit: pixel
@@ -1782,7 +1782,7 @@ Profile File Signature          : acsp
 Primary Platform                : Apple Computer Inc.
 CMM Flags                       : Not Embedded, Independent
 Device Manufacturer             : Apple Computer Inc.
-Device Model                    : 
+Device Model                    :
 Device Attributes               : Reflective, Glossy, Positive, Color
 Rendering Intent                : Perceptual
 Connection Space Illuminant     : 0.9642 1 0.82491
@@ -1827,10 +1827,10 @@ GPS Position                    : 48 deg 24' 46.22" N, 91 deg 45' 5.03" W
 Hyperfocal Distance             : 8.24 m
 Light Value                     : 13.9
 Lens ID                         : iPhone 15 Pro back triple camera 9mm f/2.8
-======== ../Hunters-Island-2025/attachments/202508100843-000.jpeg
+======== ../2025-08-Hunters-Island/docs/attachments/202508100843-000.jpeg
 ExifTool Version Number         : 13.30
 File Name                       : 202508100843-000.jpeg
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 4.6 MB
 File Modification Date/Time     : 2025:09:06 19:56:10-06:00
 File Access Date/Time           : 2025:09:22 12:02:42-06:00
@@ -1937,7 +1937,7 @@ Profile File Signature          : acsp
 Primary Platform                : Apple Computer Inc.
 CMM Flags                       : Not Embedded, Independent
 Device Manufacturer             : Apple Computer Inc.
-Device Model                    : 
+Device Model                    :
 Device Attributes               : Reflective, Glossy, Positive, Color
 Rendering Intent                : Perceptual
 Connection Space Illuminant     : 0.9642 1 0.82491
@@ -1982,10 +1982,10 @@ GPS Position                    : 48 deg 5' 30.59" N, 91 deg 18' 40.33" W
 Hyperfocal Distance             : 6.07 m
 Light Value                     : 10.7
 Lens ID                         : iPhone 15 Pro back triple camera 6.765mm f/1.78
-======== ../Hunters-Island-2025/attachments/202508051638-001.jpeg
+======== ../2025-08-Hunters-Island/docs/attachments/202508051638-001.jpeg
 ExifTool Version Number         : 13.30
 File Name                       : 202508051638-001.jpeg
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 2.4 MB
 File Modification Date/Time     : 2025:09:09 11:31:08-06:00
 File Access Date/Time           : 2025:09:22 12:02:42-06:00
@@ -2049,8 +2049,8 @@ GPS Status                      : Measurement Active
 GPS Img Direction Ref           : Magnetic North
 GPS Img Direction               : 66
 XMP Toolkit                     : XMP Core 6.0.0
-Creator                         : 
-Rights                          : 
+Creator                         :
+Rights                          :
 Description                     : OLYMPUS DIGITAL CAMERA
 Flash Compensation              : 0
 Serial Number                   : BHG214774
@@ -2091,10 +2091,10 @@ Focal Length                    : 5.5 mm (35 mm equivalent: 30.0 mm)
 GPS Position                    : 48 deg 14' 6.38" N, 92 deg 19' 43.54" W
 Hyperfocal Distance             : 1.72 m
 Light Value                     : 12.7
-======== ../Hunters-Island-2025/attachments/202508181402-001.jpeg
+======== ../2025-08-Hunters-Island/docs/attachments/202508181402-001.jpeg
 ExifTool Version Number         : 13.30
 File Name                       : 202508181402-001.jpeg
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 4.3 MB
 File Modification Date/Time     : 2025:09:09 22:55:33-06:00
 File Access Date/Time           : 2025:09:22 12:02:58-06:00
@@ -2158,8 +2158,8 @@ GPS Status                      : Measurement Active
 GPS Img Direction Ref           : Magnetic North
 GPS Img Direction               : 115
 XMP Toolkit                     : XMP Core 6.0.0
-Creator                         : 
-Rights                          : 
+Creator                         :
+Rights                          :
 Description                     : OLYMPUS DIGITAL CAMERA
 Subject                         : Landscape, Quetico
 Flash Compensation              : 0
@@ -2202,10 +2202,10 @@ Focal Length                    : 4.5 mm (35 mm equivalent: 25.0 mm)
 GPS Position                    : 48 deg 22' 16.01" N, 91 deg 56' 4.12" W
 Hyperfocal Distance             : 1.34 m
 Light Value                     : 10.9
-======== ../Hunters-Island-2025/attachments/202508111219-000.jpeg
+======== ../2025-08-Hunters-Island/docs/attachments/202508111219-000.jpeg
 ExifTool Version Number         : 13.30
 File Name                       : 202508111219-000.jpeg
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 4.5 MB
 File Modification Date/Time     : 2025:09:08 22:41:30-06:00
 File Access Date/Time           : 2025:09:22 12:02:42-06:00
@@ -2269,8 +2269,8 @@ GPS Status                      : Measurement Void
 GPS Img Direction Ref           : Magnetic North
 GPS Img Direction               : 356
 XMP Toolkit                     : XMP Core 6.0.0
-Creator                         : 
-Rights                          : 
+Creator                         :
+Rights                          :
 Description                     : OLYMPUS DIGITAL CAMERA
 Subject                         : portaging, Quetico, Royce Dunbar
 Flash Compensation              : 0
@@ -2314,10 +2314,10 @@ Focal Length                    : 5.1 mm (35 mm equivalent: 28.0 mm)
 GPS Position                    : 48 deg 12' 25.00" N, 91 deg 4' 43.00" W
 Hyperfocal Distance             : 1.50 m
 Light Value                     : 12.0
-======== ../Hunters-Island-2025/attachments/202508071248-001.jpeg
+======== ../2025-08-Hunters-Island/docs/attachments/202508071248-001.jpeg
 ExifTool Version Number         : 13.30
 File Name                       : 202508071248-001.jpeg
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 4.3 MB
 File Modification Date/Time     : 2025:09:09 11:32:30-06:00
 File Access Date/Time           : 2025:09:22 12:02:42-06:00
@@ -2381,8 +2381,8 @@ GPS Status                      : Measurement Active
 GPS Img Direction Ref           : Magnetic North
 GPS Img Direction               : 214
 XMP Toolkit                     : XMP Core 6.0.0
-Creator                         : 
-Rights                          : 
+Creator                         :
+Rights                          :
 Description                     : OLYMPUS DIGITAL CAMERA
 Subject                         : Royce Dunbar, canoeing, BWCA
 Flash Compensation              : 0
@@ -2426,10 +2426,10 @@ Focal Length                    : 7.9 mm (35 mm equivalent: 43.0 mm)
 GPS Position                    : 48 deg 11' 59.46" N, 91 deg 44' 32.80" W
 Hyperfocal Distance             : 2.81 m
 Light Value                     : 13.6
-======== ../Hunters-Island-2025/attachments/202508051803-000.jpeg
+======== ../2025-08-Hunters-Island/docs/attachments/202508051803-000.jpeg
 ExifTool Version Number         : 13.30
 File Name                       : 202508051803-000.jpeg
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 2.4 MB
 File Modification Date/Time     : 2025:09:06 19:56:09-06:00
 File Access Date/Time           : 2025:09:22 12:02:42-06:00
@@ -2536,7 +2536,7 @@ Profile File Signature          : acsp
 Primary Platform                : Apple Computer Inc.
 CMM Flags                       : Not Embedded, Independent
 Device Manufacturer             : Apple Computer Inc.
-Device Model                    : 
+Device Model                    :
 Device Attributes               : Reflective, Glossy, Positive, Color
 Rendering Intent                : Perceptual
 Connection Space Illuminant     : 0.9642 1 0.82491
@@ -2581,10 +2581,10 @@ GPS Position                    : 48 deg 18' 53.84" N, 92 deg 18' 35.74" W
 Hyperfocal Distance             : 3.04 m
 Light Value                     : 8.3
 Lens ID                         : iPhone 15 Pro back triple camera 6.765mm f/1.78
-======== ../Hunters-Island-2025/attachments/202508190750-000.jpeg
+======== ../2025-08-Hunters-Island/docs/attachments/202508190750-000.jpeg
 ExifTool Version Number         : 13.30
 File Name                       : 202508190750-000.jpeg
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 6.1 MB
 File Modification Date/Time     : 2025:09:06 19:56:11-06:00
 File Access Date/Time           : 2025:09:22 12:02:59-06:00
@@ -2691,7 +2691,7 @@ Profile File Signature          : acsp
 Primary Platform                : Apple Computer Inc.
 CMM Flags                       : Not Embedded, Independent
 Device Manufacturer             : Apple Computer Inc.
-Device Model                    : 
+Device Model                    :
 Device Attributes               : Reflective, Glossy, Positive, Color
 Rendering Intent                : Perceptual
 Connection Space Illuminant     : 0.9642 1 0.82491
@@ -2736,10 +2736,10 @@ GPS Position                    : 48 deg 22' 15.36" N, 91 deg 56' 4.21" W
 Hyperfocal Distance             : 3.04 m
 Light Value                     : 7.6
 Lens ID                         : iPhone 15 Pro back triple camera 6.765mm f/1.78
-======== ../Hunters-Island-2025/attachments/202508080656-000.jpeg
+======== ../2025-08-Hunters-Island/docs/attachments/202508080656-000.jpeg
 ExifTool Version Number         : 13.30
 File Name                       : 202508080656-000.jpeg
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 3.1 MB
 File Modification Date/Time     : 2025:09:08 12:54:29-06:00
 File Access Date/Time           : 2025:09:22 12:02:42-06:00
@@ -2805,11 +2805,11 @@ GPS Img Direction               : 147
 XMP Toolkit                     : XMP Core 6.0.0
 Person In Image                 : Royce D
 Creator Tool                    : Version 1.0
-Title                           : 
+Title                           :
 Description                     : OLYMPUS DIGITAL CAMERA
-Rights                          : 
+Rights                          :
 Subject                         : camping, Royce Dunbar
-Creator                         : 
+Creator                         :
 Flash Compensation              : 0
 Serial Number                   : BHG214774
 HDR Gain Curve Size             : 287
@@ -2849,10 +2849,10 @@ Focal Length                    : 7.3 mm (35 mm equivalent: 40.0 mm)
 GPS Position                    : 48 deg 8' 48.68" N, 91 deg 41' 48.08" W
 Hyperfocal Distance             : 2.44 m
 Light Value                     : 10.6
-======== ../Hunters-Island-2025/attachments/202508091826-000.jpeg
+======== ../2025-08-Hunters-Island/docs/attachments/202508091826-000.jpeg
 ExifTool Version Number         : 13.30
 File Name                       : 202508091826-000.jpeg
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 4.2 MB
 File Modification Date/Time     : 2025:09:08 21:13:07-06:00
 File Access Date/Time           : 2025:09:22 12:02:42-06:00
@@ -2916,8 +2916,8 @@ GPS Status                      : Measurement Active
 GPS Img Direction Ref           : Magnetic North
 GPS Img Direction               : 11
 XMP Toolkit                     : XMP Core 6.0.0
-Creator                         : 
-Rights                          : 
+Creator                         :
+Rights                          :
 Description                     : OLYMPUS DIGITAL CAMERA
 Subject                         : camping, Royce Dunbar
 Flash Compensation              : 0
@@ -2961,10 +2961,10 @@ Focal Length                    : 7.3 mm (35 mm equivalent: 40.0 mm)
 GPS Position                    : 48 deg 5' 29.54" N, 91 deg 18' 39.84" W
 Hyperfocal Distance             : 3.49 m
 Light Value                     : 10.3
-======== ../Hunters-Island-2025/attachments/202508111116-000.jpeg
+======== ../2025-08-Hunters-Island/docs/attachments/202508111116-000.jpeg
 ExifTool Version Number         : 13.30
 File Name                       : 202508111116-000.jpeg
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 2.6 MB
 File Modification Date/Time     : 2025:09:11 19:31:37-06:00
 File Access Date/Time           : 2025:09:22 12:02:42-06:00
@@ -3026,8 +3026,8 @@ GPS Time Stamp                  : 01:28:20
 GPS Date Stamp                  : 2025:09:12
 GPS Horizontal Positioning Error: 1 m
 XMP Toolkit                     : XMP Core 6.0.0
-Creator                         : 
-Rights                          : 
+Creator                         :
+Rights                          :
 Description                     : OLYMPUS DIGITAL CAMERA
 Subject                         : portaging, Quetico, Royce Dunbar
 Flash Compensation              : 0
@@ -3071,10 +3071,10 @@ Focal Length                    : 9.0 mm (35 mm equivalent: 49.0 mm)
 GPS Position                    : 48 deg 12' 16.67" N, 91 deg 4' 44.87" W
 Hyperfocal Distance             : 4.58 m
 Light Value                     : 10.7
-======== ../Hunters-Island-2025/attachments/202508121303-000.jpeg
+======== ../2025-08-Hunters-Island/docs/attachments/202508121303-000.jpeg
 ExifTool Version Number         : 13.30
 File Name                       : 202508121303-000.jpeg
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 4.1 MB
 File Modification Date/Time     : 2025:09:08 23:04:01-06:00
 File Access Date/Time           : 2025:09:22 12:02:42-06:00
@@ -3138,8 +3138,8 @@ GPS Status                      : Measurement Active
 GPS Img Direction Ref           : Magnetic North
 GPS Img Direction               : 346
 XMP Toolkit                     : XMP Core 6.0.0
-Creator                         : 
-Rights                          : 
+Creator                         :
+Rights                          :
 Description                     : OLYMPUS DIGITAL CAMERA
 Subject                         : Quetico, Royce Dunbar
 Flash Compensation              : 0
@@ -3182,10 +3182,10 @@ Focal Length                    : 4.5 mm (35 mm equivalent: 25.0 mm)
 GPS Position                    : 48 deg 18' 24.03" N, 90 deg 58' 17.67" W
 Hyperfocal Distance             : 0.47 m
 Light Value                     : 13.0
-======== ../Hunters-Island-2025/attachments/202508051556-000.jpeg
+======== ../2025-08-Hunters-Island/docs/attachments/202508051556-000.jpeg
 ExifTool Version Number         : 13.30
 File Name                       : 202508051556-000.jpeg
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 885 kB
 File Modification Date/Time     : 2025:09:08 07:34:00-06:00
 File Access Date/Time           : 2025:09:22 12:02:42-06:00
@@ -3249,8 +3249,8 @@ GPS Status                      : Measurement Active
 GPS Img Direction Ref           : Magnetic North
 GPS Img Direction               : 108
 XMP Toolkit                     : XMP Core 6.0.0
-Creator                         : 
-Rights                          : 
+Creator                         :
+Rights                          :
 Description                     : OLYMPUS DIGITAL CAMERA
 Subject                         : Royce Dunbar, BWCA
 Flash Compensation              : 0
@@ -3294,10 +3294,10 @@ Focal Length                    : 4.5 mm (35 mm equivalent: 25.0 mm)
 GPS Position                    : 48 deg 16' 26.08" N, 92 deg 28' 34.54" W
 Hyperfocal Distance             : 0.47 m
 Light Value                     : 13.3
-======== ../Hunters-Island-2025/attachments/202508141637-000.jpeg
+======== ../2025-08-Hunters-Island/docs/attachments/202508141637-000.jpeg
 ExifTool Version Number         : 13.30
 File Name                       : 202508141637-000.jpeg
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 2.3 MB
 File Modification Date/Time     : 2025:09:09 11:01:30-06:00
 File Access Date/Time           : 2025:09:22 12:02:42-06:00
@@ -3354,8 +3354,8 @@ Contrast                        : High
 Saturation                      : Normal
 Sharpness                       : Hard
 XMP Toolkit                     : XMP Core 6.0.0
-Creator                         : 
-Rights                          : 
+Creator                         :
+Rights                          :
 Description                     : OLYMPUS DIGITAL CAMERA
 Subject                         : Quetico, canoeing
 Flash Compensation              : 0
@@ -3394,10 +3394,10 @@ Field Of View                   : 71.5 deg
 Focal Length                    : 4.5 mm (35 mm equivalent: 25.0 mm)
 Hyperfocal Distance             : 0.47 m
 Light Value                     : 13.6
-======== ../Hunters-Island-2025/attachments/202508111537-000.jpeg
+======== ../2025-08-Hunters-Island/docs/attachments/202508111537-000.jpeg
 ExifTool Version Number         : 13.30
 File Name                       : 202508111537-000.jpeg
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 2.4 MB
 File Modification Date/Time     : 2025:09:08 22:49:54-06:00
 File Access Date/Time           : 2025:09:22 12:02:42-06:00
@@ -3461,8 +3461,8 @@ GPS Status                      : Measurement Active
 GPS Img Direction Ref           : Magnetic North
 GPS Img Direction               : 6
 XMP Toolkit                     : XMP Core 6.0.0
-Creator                         : 
-Rights                          : 
+Creator                         :
+Rights                          :
 Description                     : OLYMPUS DIGITAL CAMERA
 Subject                         : portaging, Quetico, Royce Dunbar
 Flash Compensation              : 0
@@ -3506,10 +3506,10 @@ Focal Length                    : 18.0 mm (35 mm equivalent: 100.0 mm)
 GPS Position                    : 48 deg 14' 3.08" N, 91 deg 4' 15.78" W
 Hyperfocal Distance             : 12.23 m
 Light Value                     : 12.6
-======== ../Hunters-Island-2025/attachments/202508151644-000.jpeg
+======== ../2025-08-Hunters-Island/docs/attachments/202508151644-000.jpeg
 ExifTool Version Number         : 13.30
 File Name                       : 202508151644-000.jpeg
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 3.2 MB
 File Modification Date/Time     : 2025:09:10 17:43:34-06:00
 File Access Date/Time           : 2025:09:22 12:02:42-06:00
@@ -3573,8 +3573,8 @@ GPS Status                      : Measurement Active
 GPS Img Direction Ref           : Magnetic North
 GPS Img Direction               : 260
 XMP Toolkit                     : XMP Core 6.0.0
-Creator                         : 
-Rights                          : 
+Creator                         :
+Rights                          :
 Description                     : OLYMPUS DIGITAL CAMERA
 Subject                         : camping, Quetico, Royce Dunbar
 Flash Compensation              : 0
@@ -3618,10 +3618,10 @@ Focal Length                    : 10.3 mm (35 mm equivalent: 57.0 mm)
 GPS Position                    : 48 deg 28' 32.87" N, 91 deg 27' 24.42" W
 Hyperfocal Distance             : 3.90 m
 Light Value                     : 12.3
-======== ../Hunters-Island-2025/attachments/202508080840-000.jpeg
+======== ../2025-08-Hunters-Island/docs/attachments/202508080840-000.jpeg
 ExifTool Version Number         : 13.30
 File Name                       : 202508080840-000.jpeg
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 2.9 MB
 File Modification Date/Time     : 2025:09:08 13:10:37-06:00
 File Access Date/Time           : 2025:09:22 12:02:42-06:00
@@ -3685,8 +3685,8 @@ GPS Status                      : Measurement Active
 GPS Img Direction Ref           : Magnetic North
 GPS Img Direction               : 217
 XMP Toolkit                     : XMP Core 6.0.0
-Creator                         : 
-Rights                          : 
+Creator                         :
+Rights                          :
 Description                     : OLYMPUS DIGITAL CAMERA
 Subject                         : Landscape, Quetico, BWCA
 Flash Compensation              : 0
@@ -3729,26 +3729,26 @@ Focal Length                    : 18.0 mm (35 mm equivalent: 100.0 mm)
 GPS Position                    : 48 deg 6' 57.09" N, 91 deg 42' 39.41" W
 Hyperfocal Distance             : 12.23 m
 Light Value                     : 11.6
-======== ../Hunters-Island-2025/attachments/exiftool-output.txt
+======== ../2025-08-Hunters-Island/docs/attachments/exiftool-output.txt
 ExifTool Version Number         : 13.30
 File Name                       : exiftool-output.txt
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 172 kB
-File Modification Date/Time     : 2025:09:24 19:55:17-06:00
-File Access Date/Time           : 2025:09:23 18:38:44-06:00
-File Inode Change Date/Time     : 2025:09:24 19:55:17-06:00
+File Modification Date/Time     : 2025:10:07 19:35:24-06:00
+File Access Date/Time           : 2025:09:25 12:52:01-06:00
+File Inode Change Date/Time     : 2025:10:07 19:35:24-06:00
 File Permissions                : -rw-r--r--
 File Type                       : TXT
 File Type Extension             : txt
 MIME Type                       : text/plain
 MIME Encoding                   : us-ascii
 Newlines                        : Unix LF
-Line Count                      : 3595
-Word Count                      : 19034
-======== ../Hunters-Island-2025/attachments/202508181329-000.jpeg
+Line Count                      : 3582
+Word Count                      : 18959
+======== ../2025-08-Hunters-Island/docs/attachments/202508181329-000.jpeg
 ExifTool Version Number         : 13.30
 File Name                       : 202508181329-000.jpeg
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 2.7 MB
 File Modification Date/Time     : 2025:09:07 15:26:16-06:00
 File Access Date/Time           : 2025:09:22 12:02:58-06:00
@@ -3812,8 +3812,8 @@ GPS Status                      : Measurement Active
 GPS Img Direction Ref           : Magnetic North
 GPS Img Direction               : 263
 XMP Toolkit                     : XMP Core 6.0.0
-Creator                         : 
-Rights                          : 
+Creator                         :
+Rights                          :
 Description                     : OLYMPUS DIGITAL CAMERA
 Subject                         : Landscape, Quetico, Royce Dunbar
 Flash Compensation              : 0
@@ -3856,10 +3856,10 @@ Focal Length                    : 14.4 mm (35 mm equivalent: 80.0 mm)
 GPS Position                    : 48 deg 22' 13.84" N, 91 deg 55' 59.97" W
 Hyperfocal Distance             : 8.72 m
 Light Value                     : 10.6
-======== ../Hunters-Island-2025/attachments/202508130753-000.jpeg
+======== ../2025-08-Hunters-Island/docs/attachments/202508130753-000.jpeg
 ExifTool Version Number         : 13.30
 File Name                       : 202508130753-000.jpeg
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 4.6 MB
 File Modification Date/Time     : 2025:09:09 11:52:44-06:00
 File Access Date/Time           : 2025:09:22 12:02:42-06:00
@@ -3970,7 +3970,7 @@ Profile File Signature          : acsp
 Primary Platform                : Apple Computer Inc.
 CMM Flags                       : Not Embedded, Independent
 Device Manufacturer             : Apple Computer Inc.
-Device Model                    : 
+Device Model                    :
 Device Attributes               : Reflective, Glossy, Positive, Color
 Rendering Intent                : Perceptual
 Connection Space Illuminant     : 0.9642 1 0.82491
@@ -4026,10 +4026,10 @@ GPS Position                    : 48 deg 18' 55.40" N, 91 deg 6' 48.88" W
 Hyperfocal Distance             : 3.04 m
 Light Value                     : 8.9
 Lens ID                         : iPhone 15 Pro back triple camera 6.765mm f/1.78
-======== ../Hunters-Island-2025/attachments/202508081915-001.jpeg
+======== ../2025-08-Hunters-Island/docs/attachments/202508081915-001.jpeg
 ExifTool Version Number         : 13.30
 File Name                       : 202508081915-001.jpeg
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 2.4 MB
 File Modification Date/Time     : 2025:09:09 11:32:50-06:00
 File Access Date/Time           : 2025:09:22 12:02:42-06:00
@@ -4093,8 +4093,8 @@ GPS Status                      : Measurement Active
 GPS Img Direction Ref           : Magnetic North
 GPS Img Direction               : 346
 XMP Toolkit                     : XMP Core 6.0.0
-Creator                         : 
-Rights                          : 
+Creator                         :
+Rights                          :
 Description                     : OLYMPUS DIGITAL CAMERA
 Subject                         : camping, Quetico, Royce Dunbar
 Flash Compensation              : 0
@@ -4138,10 +4138,10 @@ Focal Length                    : 6.4 mm (35 mm equivalent: 35.0 mm)
 GPS Position                    : 48 deg 3' 41.69" N, 91 deg 33' 46.70" W
 Hyperfocal Distance             : 2.88 m
 Light Value                     : 7.7
-======== ../Hunters-Island-2025/attachments/202508121837-001.jpeg
+======== ../2025-08-Hunters-Island/docs/attachments/202508121837-001.jpeg
 ExifTool Version Number         : 13.30
 File Name                       : 202508121837-001.jpeg
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 3.4 MB
 File Modification Date/Time     : 2025:09:06 19:56:10-06:00
 File Access Date/Time           : 2025:09:22 12:02:42-06:00
@@ -4251,7 +4251,7 @@ Region Extensions Angle Info Yaw: 48
 Region Extensions Angle Info Roll: 258
 Region Extensions Confidence Level: 281
 Region Extensions Face ID       : 4
-Region Extensions               : 
+Region Extensions               :
 Region Applied To Dimensions H  : 3024
 Region Applied To Dimensions W  : 4032
 Region Applied To Dimensions Unit: pixel
@@ -4265,7 +4265,7 @@ Profile File Signature          : acsp
 Primary Platform                : Apple Computer Inc.
 CMM Flags                       : Not Embedded, Independent
 Device Manufacturer             : Apple Computer Inc.
-Device Model                    : 
+Device Model                    :
 Device Attributes               : Reflective, Glossy, Positive, Color
 Rendering Intent                : Perceptual
 Connection Space Illuminant     : 0.9642 1 0.82491
@@ -4310,10 +4310,10 @@ GPS Position                    : 48 deg 18' 43.87" N, 91 deg 6' 37.46" W
 Hyperfocal Distance             : 6.07 m
 Light Value                     : 11.5
 Lens ID                         : iPhone 15 Pro back triple camera 6.765mm f/1.78
-======== ../Hunters-Island-2025/attachments/202508121837-000.jpeg
+======== ../2025-08-Hunters-Island/docs/attachments/202508121837-000.jpeg
 ExifTool Version Number         : 13.30
 File Name                       : 202508121837-000.jpeg
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 4.0 MB
 File Modification Date/Time     : 2025:09:09 11:34:27-06:00
 File Access Date/Time           : 2025:09:22 12:02:42-06:00
@@ -4434,7 +4434,7 @@ Profile File Signature          : acsp
 Primary Platform                : Apple Computer Inc.
 CMM Flags                       : Not Embedded, Independent
 Device Manufacturer             : Apple Computer Inc.
-Device Model                    : 
+Device Model                    :
 Device Attributes               : Reflective, Glossy, Positive, Color
 Rendering Intent                : Perceptual
 Connection Space Illuminant     : 0.9642 1 0.82491
@@ -4491,14 +4491,14 @@ GPS Position                    : 48 deg 18' 43.87" N, 91 deg 6' 37.49" W
 Hyperfocal Distance             : 6.07 m
 Light Value                     : 11.7
 Lens ID                         : iPhone 15 Pro back triple camera 6.765mm f/1.78
-======== ../Hunters-Island-2025/attachments/202508191030-000.jpeg
+======== ../2025-08-Hunters-Island/docs/attachments/202508191030-000.jpeg
 ExifTool Version Number         : 13.30
 File Name                       : 202508191030-000.jpeg
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 2.1 MB
-File Modification Date/Time     : 2025:09:24 19:10:08-06:00
-File Access Date/Time           : 2025:09:24 19:50:01-06:00
-File Inode Change Date/Time     : 2025:09:24 19:47:24-06:00
+File Modification Date/Time     : 2025:09:24 19:59:58-06:00
+File Access Date/Time           : 2025:10:07 19:28:10-06:00
+File Inode Change Date/Time     : 2025:09:24 19:59:58-06:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -4562,8 +4562,8 @@ Flash Compensation              : 0
 Serial Number                   : BHG214774
 Date Created                    : 2025:08:19 10:30:16-05:00
 Creator Tool                    : Version 1.0
-Creator                         : 
-Rights                          : 
+Creator                         :
+Rights                          :
 Description                     : OLYMPUS DIGITAL CAMERA
 Subject                         : Quetico
 HDR Gain Curve Size             : 215
@@ -4591,10 +4591,10 @@ Focal Length                    : 4.5 mm (35 mm equivalent: 25.0 mm)
 GPS Position                    : 48 deg 22' 41.18" N, 91 deg 57' 19.51" W
 Hyperfocal Distance             : 1.34 m
 Light Value                     : 12.6
-======== ../Hunters-Island-2025/attachments/202508050826-000.jpeg
+======== ../2025-08-Hunters-Island/docs/attachments/202508050826-000.jpeg
 ExifTool Version Number         : 13.30
 File Name                       : 202508050826-000.jpeg
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 1342 kB
 File Modification Date/Time     : 2025:09:06 21:01:37-06:00
 File Access Date/Time           : 2025:09:22 12:02:42-06:00
@@ -4707,7 +4707,7 @@ Profile File Signature          : acsp
 Primary Platform                : Apple Computer Inc.
 CMM Flags                       : Not Embedded, Independent
 Device Manufacturer             : Apple Computer Inc.
-Device Model                    : 
+Device Model                    :
 Device Attributes               : Reflective, Glossy, Positive, Color
 Rendering Intent                : Perceptual
 Connection Space Illuminant     : 0.9642 1 0.82491
@@ -4752,10 +4752,10 @@ GPS Position                    : 44 deg 46' 37.50" N, 91 deg 27' 28.39" W
 Hyperfocal Distance             : 3.29 m
 Light Value                     : 13.1
 Lens ID                         : iPhone 13 Pro back triple camera 5.7mm f/1.5
-======== ../Hunters-Island-2025/attachments/202508151322-001.jpeg
+======== ../2025-08-Hunters-Island/docs/attachments/202508151322-001.jpeg
 ExifTool Version Number         : 13.30
 File Name                       : 202508151322-001.jpeg
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 2.1 MB
 File Modification Date/Time     : 2025:09:10 17:43:34-06:00
 File Access Date/Time           : 2025:09:22 12:02:42-06:00
@@ -4812,8 +4812,8 @@ Contrast                        : Normal
 Saturation                      : Normal
 Sharpness                       : Normal
 XMP Toolkit                     : XMP Core 6.0.0
-Creator                         : 
-Rights                          : 
+Creator                         :
+Rights                          :
 Description                     : OLYMPUS DIGITAL CAMERA
 Subject                         : portaging, Quetico, Royce Dunbar
 Flash Compensation              : 0
@@ -4852,13 +4852,13 @@ Field Of View                   : 32.9 deg
 Focal Length                    : 11.0 mm (35 mm equivalent: 61.0 mm)
 Hyperfocal Distance             : 6.21 m
 Light Value                     : 11.3
-======== ../Hunters-Island-2025/attachments/20250810.png
+======== ../2025-08-Hunters-Island/docs/attachments/20250810.png
 ExifTool Version Number         : 13.30
 File Name                       : 20250810.png
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 821 kB
 File Modification Date/Time     : 2025:09:23 22:36:42-06:00
-File Access Date/Time           : 2025:09:23 22:42:05-06:00
+File Access Date/Time           : 2025:09:30 01:16:19-06:00
 File Inode Change Date/Time     : 2025:09:23 22:36:42-06:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
@@ -4882,7 +4882,7 @@ Profile File Signature          : acsp
 Primary Platform                : Apple Computer Inc.
 CMM Flags                       : Not Embedded, Independent
 Device Manufacturer             : Apple Computer Inc.
-Device Model                    : 
+Device Model                    :
 Device Attributes               : Reflective, Glossy, Positive, Color
 Rendering Intent                : Perceptual
 Connection Space Illuminant     : 0.9642 1 0.82491
@@ -4903,10 +4903,10 @@ Exif Image Width                : 792
 Exif Image Height               : 612
 Image Size                      : 792x612
 Megapixels                      : 0.485
-======== ../Hunters-Island-2025/attachments/202508161848-000.jpeg
+======== ../2025-08-Hunters-Island/docs/attachments/202508161848-000.jpeg
 ExifTool Version Number         : 13.30
 File Name                       : 202508161848-000.jpeg
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 1550 kB
 File Modification Date/Time     : 2025:09:10 17:43:34-06:00
 File Access Date/Time           : 2025:09:23 18:47:55-06:00
@@ -5036,10 +5036,10 @@ Focal Length                    : 5.7 mm (35 mm equivalent: 26.0 mm)
 Hyperfocal Distance             : 3.29 m
 Light Value                     : 9.4
 Lens ID                         : iPhone 13 Pro back triple camera 5.7mm f/1.5
-======== ../Hunters-Island-2025/attachments/202508081609-000.jpeg
+======== ../2025-08-Hunters-Island/docs/attachments/202508081609-000.jpeg
 ExifTool Version Number         : 13.30
 File Name                       : 202508081609-000.jpeg
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 5.1 MB
 File Modification Date/Time     : 2025:09:08 13:20:19-06:00
 File Access Date/Time           : 2025:09:22 12:02:42-06:00
@@ -5097,8 +5097,8 @@ Saturation                      : Normal
 Sharpness                       : Normal
 XMP Toolkit                     : XMP Core 6.0.0
 Person In Image                 : Royce D
-Rights                          : 
-Creator                         : 
+Rights                          :
+Creator                         :
 Description                     : OLYMPUS DIGITAL CAMERA
 Subject                         : portaging, Royce Dunbar
 Flash Compensation              : 0
@@ -5137,10 +5137,10 @@ Field Of View                   : 28.8 deg
 Focal Length                    : 12.6 mm (35 mm equivalent: 70.0 mm)
 Hyperfocal Distance             : 5.24 m
 Light Value                     : 12.6
-======== ../Hunters-Island-2025/attachments/202508111042-001.jpeg
+======== ../2025-08-Hunters-Island/docs/attachments/202508111042-001.jpeg
 ExifTool Version Number         : 13.30
 File Name                       : 202508111042-001.jpeg
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 3.3 MB
 File Modification Date/Time     : 2025:09:10 17:43:34-06:00
 File Access Date/Time           : 2025:09:22 12:02:42-06:00
@@ -5202,8 +5202,8 @@ GPS Time Stamp                  : 18:19:48
 GPS Date Stamp                  : 2025:09:10
 GPS Horizontal Positioning Error: 1 m
 XMP Toolkit                     : XMP Core 6.0.0
-Creator                         : 
-Rights                          : 
+Creator                         :
+Rights                          :
 Description                     : OLYMPUS DIGITAL CAMERA
 Subject                         : Landscape, Quetico
 Flash Compensation              : 0
@@ -5246,10 +5246,10 @@ Focal Length                    : 4.5 mm (35 mm equivalent: 25.0 mm)
 GPS Position                    : 48 deg 10' 41.83" N, 91 deg 5' 20.38" W
 Hyperfocal Distance             : 1.34 m
 Light Value                     : 12.3
-======== ../Hunters-Island-2025/attachments/202508151236-000.jpeg
+======== ../2025-08-Hunters-Island/docs/attachments/202508151236-000.jpeg
 ExifTool Version Number         : 13.30
 File Name                       : 202508151236-000.jpeg
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 1001 kB
 File Modification Date/Time     : 2025:09:15 14:56:22-06:00
 File Access Date/Time           : 2025:09:22 12:02:42-06:00
@@ -5306,8 +5306,8 @@ Contrast                        : High
 Saturation                      : Normal
 Sharpness                       : Hard
 XMP Toolkit                     : XMP Core 6.0.0
-Creator                         : 
-Rights                          : 
+Creator                         :
+Rights                          :
 Description                     : OLYMPUS DIGITAL CAMERA
 Subject                         : Landscape, Quetico
 Flash Compensation              : 0
@@ -5346,10 +5346,10 @@ Field Of View                   : 71.5 deg
 Focal Length                    : 4.5 mm (35 mm equivalent: 25.0 mm)
 Hyperfocal Distance             : 0.47 m
 Light Value                     : 14.3
-======== ../Hunters-Island-2025/attachments/202508180941-000.jpeg
+======== ../2025-08-Hunters-Island/docs/attachments/202508180941-000.jpeg
 ExifTool Version Number         : 13.30
 File Name                       : 202508180941-000.jpeg
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 1505 kB
 File Modification Date/Time     : 2025:09:06 19:56:10-06:00
 File Access Date/Time           : 2025:09:22 12:02:58-06:00
@@ -5455,7 +5455,7 @@ Region Area X                   : 0.5
 Region Area H                   : 0.5
 Region Area Unit                : normalized
 Region Type                     : Focus
-Region Extensions               : 
+Region Extensions               :
 Region Applied To Dimensions H  : 3024
 Region Applied To Dimensions W  : 4032
 Region Applied To Dimensions Unit: pixel
@@ -5469,7 +5469,7 @@ Profile File Signature          : acsp
 Primary Platform                : Apple Computer Inc.
 CMM Flags                       : Not Embedded, Independent
 Device Manufacturer             : Apple Computer Inc.
-Device Model                    : 
+Device Model                    :
 Device Attributes               : Reflective, Glossy, Positive, Color
 Rendering Intent                : Perceptual
 Connection Space Illuminant     : 0.9642 1 0.82491
@@ -5514,13 +5514,13 @@ GPS Position                    : 48 deg 23' 8.33" N, 91 deg 50' 46.26" W
 Hyperfocal Distance             : 8.24 m
 Light Value                     : 9.9
 Lens ID                         : iPhone 15 Pro back triple camera 9mm f/2.8
-======== ../Hunters-Island-2025/attachments/20250811.png
+======== ../2025-08-Hunters-Island/docs/attachments/20250811.png
 ExifTool Version Number         : 13.30
 File Name                       : 20250811.png
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 818 kB
 File Modification Date/Time     : 2025:09:23 22:41:32-06:00
-File Access Date/Time           : 2025:09:23 22:42:06-06:00
+File Access Date/Time           : 2025:09:30 01:16:20-06:00
 File Inode Change Date/Time     : 2025:09:23 22:41:32-06:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
@@ -5544,7 +5544,7 @@ Profile File Signature          : acsp
 Primary Platform                : Apple Computer Inc.
 CMM Flags                       : Not Embedded, Independent
 Device Manufacturer             : Apple Computer Inc.
-Device Model                    : 
+Device Model                    :
 Device Attributes               : Reflective, Glossy, Positive, Color
 Rendering Intent                : Perceptual
 Connection Space Illuminant     : 0.9642 1 0.82491
@@ -5565,14 +5565,14 @@ Exif Image Width                : 612
 Exif Image Height               : 792
 Image Size                      : 612x792
 Megapixels                      : 0.485
-======== ../Hunters-Island-2025/attachments/20250813.png
+======== ../2025-08-Hunters-Island/docs/attachments/20250813.png
 ExifTool Version Number         : 13.30
 File Name                       : 20250813.png
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 798 kB
-File Modification Date/Time     : 2025:09:23 22:53:54-06:00
-File Access Date/Time           : 2025:09:23 22:55:00-06:00
-File Inode Change Date/Time     : 2025:09:23 22:53:54-06:00
+File Modification Date/Time     : 2025:09:24 19:59:57-06:00
+File Access Date/Time           : 2025:10:07 19:07:35-06:00
+File Inode Change Date/Time     : 2025:09:24 19:59:57-06:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -5595,7 +5595,7 @@ Profile File Signature          : acsp
 Primary Platform                : Apple Computer Inc.
 CMM Flags                       : Not Embedded, Independent
 Device Manufacturer             : Apple Computer Inc.
-Device Model                    : 
+Device Model                    :
 Device Attributes               : Reflective, Glossy, Positive, Color
 Rendering Intent                : Perceptual
 Connection Space Illuminant     : 0.9642 1 0.82491
@@ -5616,10 +5616,10 @@ Exif Image Width                : 612
 Exif Image Height               : 792
 Image Size                      : 612x792
 Megapixels                      : 0.485
-======== ../Hunters-Island-2025/attachments/20250807.png
+======== ../2025-08-Hunters-Island/docs/attachments/20250807.png
 ExifTool Version Number         : 13.30
 File Name                       : 20250807.png
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 881 kB
 File Modification Date/Time     : 2025:09:22 16:55:56-06:00
 File Access Date/Time           : 2025:09:23 18:47:52-06:00
@@ -5646,7 +5646,7 @@ Profile File Signature          : acsp
 Primary Platform                : Apple Computer Inc.
 CMM Flags                       : Not Embedded, Independent
 Device Manufacturer             : Apple Computer Inc.
-Device Model                    : 
+Device Model                    :
 Device Attributes               : Reflective, Glossy, Positive, Color
 Rendering Intent                : Perceptual
 Connection Space Illuminant     : 0.9642 1 0.82491
@@ -5667,13 +5667,13 @@ Exif Image Width                : 792
 Exif Image Height               : 612
 Image Size                      : 792x612
 Megapixels                      : 0.485
-======== ../Hunters-Island-2025/attachments/202508191219-000.jpeg
+======== ../2025-08-Hunters-Island/docs/attachments/202508191219-000.jpeg
 ExifTool Version Number         : 13.30
 File Name                       : 202508191219-000.jpeg
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 1418 kB
 File Modification Date/Time     : 2025:09:14 15:07:14-06:00
-File Access Date/Time           : 2025:09:24 19:50:01-06:00
+File Access Date/Time           : 2025:09:26 15:04:55-06:00
 File Inode Change Date/Time     : 2025:09:24 19:47:18-06:00
 File Permissions                : -rw-r--r--
 File Type                       : JPEG
@@ -5808,10 +5808,10 @@ GPS Position                    : 48 deg 16' 40.32" N, 92 deg 17' 42.27" W
 Hyperfocal Distance             : 3.29 m
 Light Value                     : 11.3
 Lens ID                         : iPhone 13 Pro back triple camera 5.7mm f/1.5
-======== ../Hunters-Island-2025/attachments/202508141708-000.jpeg
+======== ../2025-08-Hunters-Island/docs/attachments/202508141708-000.jpeg
 ExifTool Version Number         : 13.30
 File Name                       : 202508141708-000.jpeg
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 4.3 MB
 File Modification Date/Time     : 2025:09:09 15:36:08-06:00
 File Access Date/Time           : 2025:09:22 12:02:42-06:00
@@ -5868,8 +5868,8 @@ Contrast                        : Normal
 Saturation                      : Normal
 Sharpness                       : Normal
 XMP Toolkit                     : XMP Core 6.0.0
-Creator                         : 
-Rights                          : 
+Creator                         :
+Rights                          :
 Description                     : OLYMPUS DIGITAL CAMERA
 Subject                         : portaging, Royce Dunbar
 Flash Compensation              : 0
@@ -5908,10 +5908,10 @@ Field Of View                   : 71.5 deg
 Focal Length                    : 4.5 mm (35 mm equivalent: 25.0 mm)
 Hyperfocal Distance             : 1.34 m
 Light Value                     : 11.6
-======== ../Hunters-Island-2025/attachments/202508162011-000.jpeg
+======== ../2025-08-Hunters-Island/docs/attachments/202508162011-000.jpeg
 ExifTool Version Number         : 13.30
 File Name                       : 202508162011-000.jpeg
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 598 kB
 File Modification Date/Time     : 2025:09:09 20:55:56-06:00
 File Access Date/Time           : 2025:09:22 12:02:42-06:00
@@ -6021,7 +6021,7 @@ Profile File Signature          : acsp
 Primary Platform                : Apple Computer Inc.
 CMM Flags                       : Not Embedded, Independent
 Device Manufacturer             : Apple Computer Inc.
-Device Model                    : 
+Device Model                    :
 Device Attributes               : Reflective, Glossy, Positive, Color
 Rendering Intent                : Perceptual
 Connection Space Illuminant     : 0.9642 1 0.82491
@@ -6074,10 +6074,10 @@ GPS Position                    : 48 deg 25' 38.46" N, 91 deg 43' 1.27" W
 Hyperfocal Distance             : 7.08 m
 Light Value                     : 12.9
 Lens ID                         : iPhone 13 Pro back triple camera 5.7mm f/1.5
-======== ../Hunters-Island-2025/attachments/20250806.png
+======== ../2025-08-Hunters-Island/docs/attachments/20250806.png
 ExifTool Version Number         : 13.30
 File Name                       : 20250806.png
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 833 kB
 File Modification Date/Time     : 2025:09:22 19:18:28-06:00
 File Access Date/Time           : 2025:09:23 18:47:53-06:00
@@ -6104,7 +6104,7 @@ Profile File Signature          : acsp
 Primary Platform                : Apple Computer Inc.
 CMM Flags                       : Not Embedded, Independent
 Device Manufacturer             : Apple Computer Inc.
-Device Model                    : 
+Device Model                    :
 Device Attributes               : Reflective, Glossy, Positive, Color
 Rendering Intent                : Perceptual
 Connection Space Illuminant     : 0.9642 1 0.82491
@@ -6125,13 +6125,13 @@ Exif Image Width                : 792
 Exif Image Height               : 612
 Image Size                      : 792x612
 Megapixels                      : 0.485
-======== ../Hunters-Island-2025/attachments/20250812.png
+======== ../2025-08-Hunters-Island/docs/attachments/20250812.png
 ExifTool Version Number         : 13.30
 File Name                       : 20250812.png
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 805 kB
 File Modification Date/Time     : 2025:09:23 22:46:55-06:00
-File Access Date/Time           : 2025:09:23 22:48:20-06:00
+File Access Date/Time           : 2025:09:30 01:16:20-06:00
 File Inode Change Date/Time     : 2025:09:23 22:46:55-06:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
@@ -6155,7 +6155,7 @@ Profile File Signature          : acsp
 Primary Platform                : Apple Computer Inc.
 CMM Flags                       : Not Embedded, Independent
 Device Manufacturer             : Apple Computer Inc.
-Device Model                    : 
+Device Model                    :
 Device Attributes               : Reflective, Glossy, Positive, Color
 Rendering Intent                : Perceptual
 Connection Space Illuminant     : 0.9642 1 0.82491
@@ -6176,14 +6176,14 @@ Exif Image Width                : 792
 Exif Image Height               : 612
 Image Size                      : 792x612
 Megapixels                      : 0.485
-======== ../Hunters-Island-2025/attachments/20250816.png
+======== ../2025-08-Hunters-Island/docs/attachments/20250816.png
 ExifTool Version Number         : 13.30
 File Name                       : 20250816.png
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 822 kB
-File Modification Date/Time     : 2025:09:24 17:39:56-06:00
-File Access Date/Time           : 2025:09:24 19:45:13-06:00
-File Inode Change Date/Time     : 2025:09:24 17:39:56-06:00
+File Modification Date/Time     : 2025:09:24 19:59:58-06:00
+File Access Date/Time           : 2025:10:07 19:07:35-06:00
+File Inode Change Date/Time     : 2025:09:24 19:59:58-06:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -6206,7 +6206,7 @@ Profile File Signature          : acsp
 Primary Platform                : Apple Computer Inc.
 CMM Flags                       : Not Embedded, Independent
 Device Manufacturer             : Apple Computer Inc.
-Device Model                    : 
+Device Model                    :
 Device Attributes               : Reflective, Glossy, Positive, Color
 Rendering Intent                : Perceptual
 Connection Space Illuminant     : 0.9642 1 0.82491
@@ -6227,10 +6227,10 @@ Exif Image Width                : 792
 Exif Image Height               : 612
 Image Size                      : 792x612
 Megapixels                      : 0.485
-======== ../Hunters-Island-2025/attachments/202508171517-001.jpeg
+======== ../2025-08-Hunters-Island/docs/attachments/202508171517-001.jpeg
 ExifTool Version Number         : 13.30
 File Name                       : 202508171517-001.jpeg
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 4.0 MB
 File Modification Date/Time     : 2025:09:09 21:38:53-06:00
 File Access Date/Time           : 2025:09:22 12:02:58-06:00
@@ -6294,8 +6294,8 @@ GPS Status                      : Measurement Active
 GPS Img Direction Ref           : Magnetic North
 GPS Img Direction               : 136
 XMP Toolkit                     : XMP Core 6.0.0
-Creator                         : 
-Rights                          : 
+Creator                         :
+Rights                          :
 Description                     : OLYMPUS DIGITAL CAMERA
 Subject                         : Landscape, Quetico
 Flash Compensation              : 0
@@ -6338,14 +6338,153 @@ Focal Length                    : 9.0 mm (35 mm equivalent: 49.0 mm)
 GPS Position                    : 48 deg 24' 45.89" N, 91 deg 45' 6.27" W
 Hyperfocal Distance             : 3.26 m
 Light Value                     : 13.0
-======== ../Hunters-Island-2025/attachments/20250817.png
+======== ../2025-08-Hunters-Island/docs/attachments/202508132015-000.jpeg
+ExifTool Version Number         : 13.30
+File Name                       : 202508132015-000.jpeg
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
+File Size                       : 1678 kB
+File Modification Date/Time     : 2025:10:07 19:32:08-06:00
+File Access Date/Time           : 2025:10:07 19:33:55-06:00
+File Inode Change Date/Time     : 2025:10:07 19:33:53-06:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Image Description               : Sunset on island SW of Rose Island on Kawnipi Lake
+Make                            : Apple
+Camera Model Name               : iPhone 13 Pro
+Orientation                     : Horizontal (normal)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Software                        : 18.5
+Modify Date                     : 2025:08:13 20:15:25
+Host Computer                   : iPhone 13 Pro
+Y Cb Cr Positioning             : Centered
+Exposure Time                   : 1/101
+F Number                        : 1.5
+Exposure Program                : Program AE
+ISO                             : 125
+Exif Version                    : 0232
+Date/Time Original              : 2025:08:13 20:15:25
+Create Date                     : 2025:08:13 20:15:25
+Offset Time                     : -05:00
+Offset Time Original            : -05:00
+Offset Time Digitized           : -05:00
+Components Configuration        : Y, Cb, Cr, -
+Shutter Speed Value             : 1/101
+Aperture Value                  : 1.5
+Brightness Value                : 3.13572425
+Exposure Compensation           : 0
+Metering Mode                   : Multi-segment
+Flash                           : Off, Did not fire
+Focal Length                    : 5.7 mm
+Subject Area                    : 2012 1506 2217 1327
+Maker Note Version              : 15
+Run Time Flags                  : Valid
+Run Time Value                  : 54999796666
+Run Time Scale                  : 1000000000
+Run Time Epoch                  : 0
+AE Stable                       : Yes
+AE Target                       : 171
+AE Average                      : 176
+AF Stable                       : Yes
+Acceleration Vector             : -0.9832903742 0.002434412016 -0.1067288667
+Focus Distance Range            : 0.08 - 1.18 m
+Image Capture Type              : Photo
+Live Photo Video Index          : 1112547328
+Photos App Feature Flags        : 0
+HDR Headroom                    : 0.8334157464
+AF Performance                  : 613 1 56
+Signal To Noise Ratio           : 41.42177581
+Photo Identifier                : A7C12E8D-4071-4C71-A4A7-73C7C5BCC3A4
+Color Temperature               : 6988
+Camera Type                     : Back Normal
+Focus Position                  : 53
+HDR Gain                        : 0.04096740115
+AF Measured Depth               : 569
+AF Confidence                   : 2
+Semantic Style                  : {_0=1,_1=0,_2=0,_3=0}
+Sub Sec Time                    : 146
+Sub Sec Time Original           : 146
+Sub Sec Time Digitized          : 146
+Flashpix Version                : 0100
+Color Space                     : Uncalibrated
+Exif Image Width                : 2730
+Exif Image Height               : 1536
+Sensing Method                  : One-chip color area
+Scene Type                      : Directly photographed
+Exposure Mode                   : Auto
+White Balance                   : Auto
+Focal Length In 35mm Format     : 26 mm
+Scene Capture Type              : Standard
+Lens Info                       : 1.570000052-9mm f/1.5-2.8
+Lens Make                       : Apple
+Lens Model                      : iPhone 13 Pro back triple camera 5.7mm f/1.5
+Composite Image                 : General Composite Image
+GPS Latitude Ref                : North
+GPS Longitude Ref               : West
+GPS Altitude Ref                : Above Sea Level
+GPS Time Stamp                  : 23:47:51
+GPS Speed Ref                   : km/h
+GPS Speed                       : 0.1871136129
+GPS Img Direction Ref           : True North
+GPS Img Direction               : 346.9040529
+GPS Date Stamp                  : 2025:08:13
+GPS Horizontal Positioning Error: 19.70530354 m
+XMP Toolkit                     : XMP Core 6.0.0
+Date Created                    : 2025:08:13 20:15:25-05:00
+Creator Tool                    : 18.5
+Description                     : Sunset on island SW of Rose Island on Kawnipi Lake
+Subject                         : camping, Quetcio
+MPF Version                     : 0100
+Number Of Images                : 2
+MP Image Flags                  : (none)
+MP Image Format                 : JPEG
+MP Image Type                   : Undefined
+MP Image Length                 : 157959
+MP Image Start                  : 1520293
+Dependent Image 1 Entry Number  : 0
+Dependent Image 2 Entry Number  : 0
+HDR Gain Curve Size             : 93
+HDR Gain Curve                  : (Binary data 672 bytes, use -b option to extract)
+Image Width                     : 2655
+Image Height                    : 1494
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Run Time Since Power Up         : 0:00:55
+Aperture                        : 1.5
+Image Size                      : 2655x1494
+Megapixels                      : 4.0
+Scale Factor To 35 mm Equivalent: 4.6
+Shutter Speed                   : 1/101
+Create Date                     : 2025:08:13 20:15:25.146-05:00
+Date/Time Original              : 2025:08:13 20:15:25.146-05:00
+Modify Date                     : 2025:08:13 20:15:25.146-05:00
+GPS Altitude                    : 401.7 m Above Sea Level
+GPS Date/Time                   : 2025:08:13 23:47:51Z
+GPS Latitude                    : 48 deg 22' 54.02" N
+GPS Longitude                   : 91 deg 18' 16.60" W
+MP Image 2                      : (Binary data 157959 bytes, use -b option to extract)
+Circle Of Confusion             : 0.007 mm
+Field Of View                   : 69.4 deg
+Focal Length                    : 5.7 mm (35 mm equivalent: 26.0 mm)
+GPS Position                    : 48 deg 22' 54.02" N, 91 deg 18' 16.60" W
+Hyperfocal Distance             : 3.29 m
+Light Value                     : 7.5
+Lens ID                         : iPhone 13 Pro back triple camera 5.7mm f/1.5
+======== ../2025-08-Hunters-Island/docs/attachments/20250817.png
 ExifTool Version Number         : 13.30
 File Name                       : 20250817.png
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 759 kB
-File Modification Date/Time     : 2025:09:24 17:45:50-06:00
-File Access Date/Time           : 2025:09:24 19:45:13-06:00
-File Inode Change Date/Time     : 2025:09:24 17:45:50-06:00
+File Modification Date/Time     : 2025:09:24 19:59:58-06:00
+File Access Date/Time           : 2025:10:07 19:07:35-06:00
+File Inode Change Date/Time     : 2025:09:24 19:59:58-06:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -6368,7 +6507,7 @@ Profile File Signature          : acsp
 Primary Platform                : Apple Computer Inc.
 CMM Flags                       : Not Embedded, Independent
 Device Manufacturer             : Apple Computer Inc.
-Device Model                    : 
+Device Model                    :
 Device Attributes               : Reflective, Glossy, Positive, Color
 Rendering Intent                : Perceptual
 Connection Space Illuminant     : 0.9642 1 0.82491
@@ -6389,14 +6528,14 @@ Exif Image Width                : 792
 Exif Image Height               : 612
 Image Size                      : 792x612
 Megapixels                      : 0.485
-======== ../Hunters-Island-2025/attachments/20250815.png
+======== ../2025-08-Hunters-Island/docs/attachments/20250815.png
 ExifTool Version Number         : 13.30
 File Name                       : 20250815.png
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 749 kB
-File Modification Date/Time     : 2025:09:24 17:33:07-06:00
-File Access Date/Time           : 2025:09:24 19:45:13-06:00
-File Inode Change Date/Time     : 2025:09:24 17:33:07-06:00
+File Modification Date/Time     : 2025:09:24 19:59:58-06:00
+File Access Date/Time           : 2025:10:07 19:07:35-06:00
+File Inode Change Date/Time     : 2025:09:24 19:59:58-06:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -6419,7 +6558,7 @@ Profile File Signature          : acsp
 Primary Platform                : Apple Computer Inc.
 CMM Flags                       : Not Embedded, Independent
 Device Manufacturer             : Apple Computer Inc.
-Device Model                    : 
+Device Model                    :
 Device Attributes               : Reflective, Glossy, Positive, Color
 Rendering Intent                : Perceptual
 Connection Space Illuminant     : 0.9642 1 0.82491
@@ -6440,10 +6579,10 @@ Exif Image Width                : 792
 Exif Image Height               : 612
 Image Size                      : 792x612
 Megapixels                      : 0.485
-======== ../Hunters-Island-2025/attachments/202508071813-000.jpeg
+======== ../2025-08-Hunters-Island/docs/attachments/202508071813-000.jpeg
 ExifTool Version Number         : 13.30
 File Name                       : 202508071813-000.jpeg
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 1872 kB
 File Modification Date/Time     : 2025:09:06 19:56:09-06:00
 File Access Date/Time           : 2025:09:22 12:02:42-06:00
@@ -6550,7 +6689,7 @@ Profile File Signature          : acsp
 Primary Platform                : Apple Computer Inc.
 CMM Flags                       : Not Embedded, Independent
 Device Manufacturer             : Apple Computer Inc.
-Device Model                    : 
+Device Model                    :
 Device Attributes               : Reflective, Glossy, Positive, Color
 Rendering Intent                : Perceptual
 Connection Space Illuminant     : 0.9642 1 0.82491
@@ -6595,14 +6734,14 @@ GPS Position                    : 48 deg 8' 48.11" N, 91 deg 41' 47.93" W
 Hyperfocal Distance             : 8.24 m
 Light Value                     : 11.6
 Lens ID                         : iPhone 15 Pro back triple camera 9mm f/2.8
-======== ../Hunters-Island-2025/attachments/20250814.png
+======== ../2025-08-Hunters-Island/docs/attachments/20250814.png
 ExifTool Version Number         : 13.30
 File Name                       : 20250814.png
-Directory                       : ../Hunters-Island-2025/attachments
+Directory                       : ../2025-08-Hunters-Island/docs/attachments
 File Size                       : 779 kB
-File Modification Date/Time     : 2025:09:24 17:13:29-06:00
-File Access Date/Time           : 2025:09:24 19:45:13-06:00
-File Inode Change Date/Time     : 2025:09:24 17:13:29-06:00
+File Modification Date/Time     : 2025:09:24 19:59:58-06:00
+File Access Date/Time           : 2025:10:07 19:07:35-06:00
+File Inode Change Date/Time     : 2025:09:24 19:59:58-06:00
 File Permissions                : -rw-r--r--
 File Type                       : PNG
 File Type Extension             : png
@@ -6625,7 +6764,7 @@ Profile File Signature          : acsp
 Primary Platform                : Apple Computer Inc.
 CMM Flags                       : Not Embedded, Independent
 Device Manufacturer             : Apple Computer Inc.
-Device Model                    : 
+Device Model                    :
 Device Attributes               : Reflective, Glossy, Positive, Color
 Rendering Intent                : Perceptual
 Connection Space Illuminant     : 0.9642 1 0.82491
@@ -6647,4 +6786,4 @@ Exif Image Height               : 792
 Image Size                      : 612x792
 Megapixels                      : 0.485
     1 directories scanned
-   61 image files read
+   62 image files read

@@ -696,7 +696,9 @@ required navigating around underwater obstructions.
 
 We arrived in camp around 17:00. The landing is sandy, which makes it easy to
 hop in and out of the canoe, but does make it difficult to gather un-silted
-water to  filter.
+water to filter.
+
+![SSunset on island SW of Rose Island on Kawnipi Lake2025-08-13 20:15](./attachments/202508132015-000.jpeg "Sunset on island SW of Rose Island on Kawnipi Lake 2025-08-13 20:15")
 
 Some trees have been taken down and left. We can't think why. We understood that
 Quetico does not do campsite maintenance and they don't look to have been
