@@ -29,6 +29,8 @@ bars, look at pictures from earlier Quetico trips, and chat.
 
 *Mighty were their preparations.*
 
+![Royce's preparations. 2025-08-01 10:48](./attachments/202508011048-000.jpeg "Royce's preparations")
+
 Royce has done a good job of organizing. He bought and packaged food, drink, and
 fuel, and found, tested, and organized the necessary gear. But we still manage
 to run hither and thither, until we start putting things into things, those
@@ -206,7 +208,9 @@ this map? A nearby Quetico campsite was right where the map said it should be
 *and* it had a broken BWCA fire grate. Maybe some enterprising soul borrowed the
 grate from the closed site?
 
-![Royce. Lunch break on Crooked Lake north of Thursday Bay 2025-08-07 12:48](./attachments/202508071248-001.jpeg "Royce. Lunch break on Crooked Lake north of Thursday Bay 2025-08-07 12:48")
+![![Ben lunch break on Crooked Lake north of Thursday Bay2025-08-07 12:48](./attachments/202508071248-000.jpeg)
+
+![Royce lnch break on Crooked Lake north of Thursday Bay 2025-08-07 12:48](./attachments/202508071248-001.jpeg "Royce. Lunch break on Crooked Lake north of Thursday Bay 2025-08-07 12:48")
 
 The narrows of Crooked Lake/Basswood River have a lot more current than I
 remember; even though we paddled hard, the current slowed us to just over 1 mph.
@@ -450,6 +454,8 @@ are old and bleached, but could they be from before that?
 
 ![Royce on Big Knife Portage 2025-08-10 11:33](./attachments/202508101133-000.jpeg "Royce on Big Knife Portage 2025-08-10 11:33")
 
+![Royce paddling on Knife Lake near Big Knife Portage 2025-08-10 12:28](./attachments/202508101228-000.jpeg "Royce paddling on Knife Lake near Big Knife Portage 2025-08-10 12:28")
+
 ### 2025-08-10T20:28:15-05:00 (48.15676, -91.12724) 1409 feet: Camp on Ottertrack Lake
 
 We were paddling into a headwind when we left camp this morning but for most of
@@ -520,6 +526,8 @@ into Jasper, and head further north into Quetico.
 
 ### 2025-08-11T19:04:01-05:00 (48.26726, -91.04823) 1411 feet: Camp on Saganagons Lake
 
+![Puzzling over maps before leaving Ottertrack camp 2025-08-11 08:30](./attachments/202508110830-000.jpeg "Puzzling over maps before leaving Ottertrack camp 2025-08-11 08:30")
+
 Ottertrack Lake was as pretty as I remember. I snapped a few pictures that do
 not do it justice.
 
@@ -527,7 +535,7 @@ not do it justice.
 
 Even by Quetico standards, the portage to Jasper was hard to find.
 
-![Royce on Ottertrack to Jasper Lake portage 2025-08-11 11:16](./attachments/202508111116-000.jpeg "Royce on Ottertrack to Jasper Lake portage 2025-08-11 11:16")
+![Royce showing that he has two paddles - Ottertrack to Jasper Lake portage 2025-08-11 11:16](./attachments/202508111116-000.jpeg "Royce showing that he has two paddles - Ottertrack to Jasper Lake portage 2025-08-11 11:16")
 
 The portage from Ottertrack to Jasper stopped at a pond (48.20708, -91.07873 to
 48.20694, -91.07861), where we had to paddle for a few hundred feet to get to
@@ -568,6 +576,8 @@ The much forecast smoke started to blow in after lunch. The sky is red now, even
 though the sun is a couple hand-widths above the horizon.
 
 Reached camp around 16:00.
+
+![Sun setting through smoke on Saganagons Lake 2025-08-11 19:54](./attachments/202508111954-000.jpeg "Sun setting through smoke on Saganagons Lake 2025-08-11 19:54")
 
 In tent at 20:20. When the wind started to die down, the mosquitoes started to
 buzz. By then, we had camp set for the night, our teeth brushed, etc., and so
