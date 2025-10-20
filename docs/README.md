@@ -210,7 +210,7 @@ grate from the closed site?
 
 ![![Ben lunch break on Crooked Lake north of Thursday Bay2025-08-07 12:48](./attachments/202508071248-000.jpeg)
 
-![Royce lnch break on Crooked Lake north of Thursday Bay 2025-08-07 12:48](./attachments/202508071248-001.jpeg "Royce. Lunch break on Crooked Lake north of Thursday Bay 2025-08-07 12:48")
+![Royce lunch break on Crooked Lake north of Thursday Bay 2025-08-07 12:48](./attachments/202508071248-001.jpeg "Royce. Lunch break on Crooked Lake north of Thursday Bay 2025-08-07 12:48")
 
 The narrows of Crooked Lake/Basswood River have a lot more current than I
 remember; even though we paddled hard, the current slowed us to just over 1 mph.
@@ -1101,8 +1101,10 @@ Perhaps a combination of latitude and that there are many more trees? Anyway, I
 did more post processing to add coordinates to pictures than I expected.
 
 One of the many pleasures of adventuring with Royce for so many years is that we
-trust each other, instinctively lean on each other's strengths, know each
-other's quirks, and have developed a vocabulary and style of communication that
-works for us&mdash;&ldquo;switching to scut!&rdquo;
+trust each other, instinctively lean on each other's strengths, know and
+tolerate each other's quirks, and have developed a vocabulary and style of
+communication that works for us&mdash;&ldquo;switching to scut!&rdquo;
 
 [To Do, Lessons Learned, Considerations](./To-Do_Lessons-Learned_Considerations.md)
+
+[Packing List for flight](./Packing-List-for-flight.md)
