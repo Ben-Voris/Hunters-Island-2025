@@ -103,8 +103,8 @@ We headed to bed when the mosquitoes started to bite. Rain is threatening.
 
 [Lac la Croix, Bottle Lake, Iron Lake, Crooked Lake. 11.1 miles](./GPS/2025-08-06.pdf)
 
-A boat picked us up at our room promptly at 6:30 and took us to the dinning
-hall. Breakfast is endless pancakes, coffee, and juice, with a few sausage.
+Promptly at 6:30, a boat picked us up at our room and took us to the dinning
+hall. Breakfast is endless pancakes, coffee, juice, and a few sausage.
 
 After breakfast, we shared the boat with a family that was taking their first
 canoe trip. Mom was *way* out of her comfort zone but was being brave&mdash;her
@@ -113,7 +113,7 @@ swim lessons to prepare for this trip. Dad had been on canoe fishing trips
 before but had not led one. The daughter, who I guessed to be about 10, was all
 in on whatever dad was doing. Grandma and grandpa seemed bemused. Based on his
 gear choices, mom's brother seemed to think he would be lounging on a beach.
-Their tent was huge and was meant for car camping&mdash;it even included a
+Their tent was huge and was meant for car camping and even included a
 porch. Its case had little wheels that might've been appropriate for a paved
 campground but not for even the best of portages. As I understood them, their
 plan was to put six people in one large canoe and to tow a solo canoe, which
@@ -136,15 +136,14 @@ The paddle through Bottle Lake and Iron Lake was easy, and and we moved fast.
 
 ![Royce at Crooked Lake side of Curtain Falls 2025-08-06 12:09](./attachments/20250806120921.jpeg "Royce at Crooked Lake side of Curtain Falls 2025-08-06 12:09")
 
-The Curtain Falls portage took something out of both of us. And, as we paddled
-into Crooked, the SSW wind steadily increased in force. Because of that, I
+![Royce with partly loaded canoe on Crooked Lake side of Curtain Falls 2025-08-06 13:19](./attachments/20250806131944.jpeg "Royce with partly loaded canoe on Crooked Lake side of Curtain Falls 2025-08-06 13:19")
+
+The Curtain Falls portage took something out of us.
+
+As we paddled into Crooked, the force of the SSW wind kept increasing, so I
 skirting the shore of Sunday Bay, which added a few miles to our day. The gusts
 were my biggest concern. After a few hours of, we were both so tired that we
 pulled up next to shore, and took a breather.
-
-48 deg 14' 14.00" N, 91 deg 54' 23.00" W
-
-![Royce with partly loaded canoe on Crooked Lake side of Curtain Falls 2025-08-06 13:19](./attachments/20250806131944.jpeg "Royce with partly loaded canoe on Crooked Lake side of Curtain Falls 2025-08-06 13:19")
 
 Since we have a BWCA permit, we decided to not fight the wind any more and
 camped on the US side.
@@ -153,7 +152,7 @@ We leapfrogged a group of seven young people that are using aluminum canoes. (We
 later learned they are scouts.) Because of the MN2 is a fast boat and our
 technique is better, we moved faster on the water than they did.
 
-![Ben tying down canoe on Crooked Lake 2025-08-06 16:11](./attachments/20250806161132.jpeg "en tying down canoe on Crooked Lake 2025-08-06 16:11")
+![Ben tying down canoe on Crooked Lake 2025-08-06 16:11](./attachments/20250806161132.jpeg "Ben tying down canoe on Crooked Lake 2025-08-06 16:11")
 
 The wind made it somewhat difficult to set up the tent, but with that done, we
 have &ldquo;cocktail a few minutes&rdquo;&mdash;El Jimador with lime and salt,
@@ -165,9 +164,8 @@ boys.
 Dinner is a bag salad and Royce's *ropa vieja* (old rope), with &ldquo;that's
 not rice&rdquo; rice. Royce continues to make sure we eat well.
 
-As we were pitching the tent, green beetles&mdash;the same hue as the
-rainfly&mdash;landed on the tent. They had perfect camouflage, just in the wrong
-place. We both got a kick out of that.
+As we were pitching the tent, green beetles the same hue as the rainfly landed
+on the tent. They had perfect camouflage. We both got a kick out of that.
 
 There are a few breaks in the clouds. It is quite still and humid, and the bugs
 are whining outside of tent.
