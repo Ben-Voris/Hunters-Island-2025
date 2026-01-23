@@ -1,8 +1,10 @@
 # Quetico Hunter Island 2025
 
-<--  Rename pictures with this command: exiftool -v -d '%Y%m%d%H%M%S%%-c.%%e' '-filename<CreateDate' '<filename>'
-     This adds seconds instead of a sequence number. '-v' prints the new name.
-     Prefer a suffix of .jpeg over .jpg -->
+<!--  Rename pictures with this command:
+       exiftool -v -d '%Y%m%d%H%M%S%%-c.%%e' '-filename<CreateDate' '<filename>'
+     This uses seconds instead of a sequence number. '-v' prints the new name.
+     Prefer a suffix of .jpeg over .jpg
+-->
 
 ## Index
 
