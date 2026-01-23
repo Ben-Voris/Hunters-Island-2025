@@ -1,5 +1,9 @@
 # Quetico Hunter Island 2025
 
+<--  Rename pictures with this command: exiftool -v -d '%Y%m%d%H%M%S%%-c.%%e' '-filename<CreateDate' '<filename>'
+     This adds seconds instead of a sequence number. '-v' prints the new name.
+     Prefer a suffix of .jpeg over .jpg -->
+
 ## Index
 
  1. 2025-08-06 - [Bottle Portage on Lac la Croix to island N of Saturday Bay Crooked Lake](#2025-08-06-day-1-bottle-portage-on-lac-la-croix-to-island-n-of-saturday-bay-crooked-lake)
@@ -29,7 +33,7 @@ bars, look at pictures from earlier Quetico trips, and chat.
 
 *Mighty were their preparations.*
 
-![Royce's preparations. 2025-08-01 10:48](./attachments/202508011048-000.jpeg "Royce's preparations")
+![Royce's preparations. 2025-08-01 10:48](./attachments/202508011048-000.jpeg "Royce's preparations 2025-08-01 10:48")
 
 Royce has done a good job of organizing. He bought and packaged food, drink, and
 fuel, and found, tested, and organized the necessary gear. But we still manage
@@ -128,7 +132,7 @@ We saw a few groups on the portages.
 
 The paddle through Bottle Lake and Iron Lake was easy, and and we moved fast.
 
-![Royce at Crooked Lake side of Curtain Falls 2025-08-06 12:09](./attachments/202508061209-002.jpeg "Royce at Crooked Lake side of Curtain Falls 2025-08-06 12:09")
+![Royce at Crooked Lake side of Curtain Falls 2025-08-06 12:09](./attachments/20250806120921.jpeg "Royce at Crooked Lake side of Curtain Falls 2025-08-06 12:09")
 
 The Curtain Falls portage took something out of both of us. And, as we paddled
 into Crooked, the SSW wind steadily increased in force. Because of that, I
@@ -136,12 +140,18 @@ skirting the shore of Sunday Bay, which added a few miles to our day. The gusts
 were my biggest concern. After a few hours of, we were both so tired that we
 pulled up next to shore, and took a breather.
 
+48 deg 14' 14.00" N, 91 deg 54' 23.00" W
+
+![Royce with partly loaded canoe on Crooked Lake side of Curtain Falls 2025-08-06 13:19](./attachments/20250806131944.jpeg "Royce with partly loaded canoe on Crooked Lake side of Curtain Falls 2025-08-06 13:19")
+
 Since we have a BWCA permit, we decided to not fight the wind any more and
 camped on the US side.
 
 We leapfrogged a group of seven young people that are using aluminum canoes. (We
 later learned they are scouts.) Because of the MN2 is a fast boat and our
 technique is better, we moved faster on the water than they did.
+
+![Ben tying down canoe on Crooked Lake 2025-08-06 16:11](./attachments/20250806161132.jpeg "en tying down canoe on Crooked Lake 2025-08-06 16:11")
 
 The wind made it somewhat difficult to set up the tent, but with that done, we
 have &ldquo;cocktail a few minutes&rdquo;&mdash;El Jimador with lime and salt,
@@ -177,7 +187,7 @@ without allowing it to twist.
 
 ![Royce having coffee. Crooked Lake north of Saturday Bay 2025-08-07 07:51](./attachments/202508070751-000.jpeg "Royce having coffee. Crooked Lake north of Saturday Bay 2025-08-07 07:51")
 
-I'm not sure when we were on the water, but it was well after 8:00.
+I didn't note when we were on the water, but it was well after 8:00.
 
 Sunny, calm, enervating humidity.
 
@@ -208,7 +218,9 @@ this map? A nearby Quetico campsite was right where the map said it should be
 *and* it had a broken BWCA fire grate. Maybe some enterprising soul borrowed the
 grate from the closed site?
 
-![![Ben lunch break on Crooked Lake north of Thursday Bay2025-08-07 12:48](./attachments/202508071248-000.jpeg)
+![Loaded canoe lunch break on Crooked Lake north of Thursday Bay 2025-08-07 12:19](./attachments/20250807121933.jpeg "Loaded canoe lunch break on Crooked Lake north of Thursday Bay 2025-08-07 12:19")
+
+![Ben lunch break on Crooked Lake north of Thursday Bay 2025-08-07 12:48](./attachments/202508071248-000.jpeg "Ben lunch break on Crooked Lake north of Thursday Bay 2025-08-07 12:48")
 
 ![Royce lunch break on Crooked Lake north of Thursday Bay 2025-08-07 12:48](./attachments/202508071248-001.jpeg "Royce. Lunch break on Crooked Lake north of Thursday Bay 2025-08-07 12:48")
 
@@ -233,6 +245,8 @@ weather well into the evening.
 
 ![Royce cooking. Moose Bay on Basswood River 2025-08-07 18:13](./attachments/202508071813-000.jpeg "Royce cooking. Moose Bay on Basswood River 2025-08-07 18:13")
 
+![Canoe and view of Moose Bay on Basswood River 2025-08-07 18:15](./attachments/20250807181525.jpeg "Canoe and view of Moose Bay on Basswood River 2025-08-07 18:15")
+
 [index](#index)
 
 ## 2025-08-08 Day 3: Moose Bay of Basswood River to Canadian Point on Basswood Lake
@@ -250,6 +264,8 @@ Oh God, the bugs last night. We've been lucky that they're not nearly as active 
 morning.
 
 ![Royce and canoe. Camp on Moose Bay of Basswood River 2025-08-08 06:56](./attachments/202508080656-000.jpeg "Royce and canoe. Camp on Moose Bay of Basswood River 2025-08-08 06:56")
+
+![Ben and canoe. Camp on Moose Bay of Basswood River 2025-08-08 07:39](./attachments/20250808073911.jpeg "Ben and canoe. Camp on Moose Bay of Basswood River 2025-08-08 07:39")
 
 We leapfrogged the group of seven and learned that they are a scouting group
 doing their
@@ -334,8 +350,12 @@ moving in a desultory way to put camp to bed.
 
 ![Royce in camp on Canadian Point of Basswood Lake 2025-08-08 19:15](./attachments/202508081915-001.jpeg "Royce in camp on Canadian Point of Basswood Lake 2025-08-08 19:15")
 
+![View from camp on Canadian Point of Basswood Lake 2025-08-08 19:17](./attachments/20250808191756.jpeg "View from camp on Canadian Point of Basswood Lake 2025-08-08 19:17")
+
+![Canoe in camp on Canadian Point of Basswood Lake 2025-08-08 19:18](./attachments/20250808191803.jpeg "Canoe in camp on Canadian Point of Basswood Lake 2025-08-08 19:18")
+
 Then the bugs came. Double-plus ungood. So bad that I put my bug net on and
-didn't brush my teeth. The net helped a lot under the bill of my cap but not so
+didn't brush my teeth. The net helped a lot under the bill of my cap, but not so
 much around the ears.
 
 We weren't fast enough to properly close one of the tent doors, and so spent
@@ -385,6 +405,8 @@ Saw two Osprey hanging around their nest.
 We made very good time on the paddle to Prairie Portage, arriving there just
 before 15:00.
 
+![Royce on Prairie Portage 2025-08-09 14:34](./attachments/20250809143455.jpeg "Royce on Prairie Portage 2025-08-09 14:34")
+
 All of the campsites on the US side of Carp were occupied.
 
 As we turned north into the main body of the lake, we offended a beaver.
@@ -407,6 +429,8 @@ to make the portages between Carp and there.
 
 Royce made the popular hash browns with hamburger and gravy for dinner. There
 will be leftovers.
+
+[Ben at tent Carp Lake 2025-08-09 19:02](./attachments/20250809190237.jpeg "Ben at tent Carp Lake 2025-08-09 19:02")
 
 [index](#index)
 
@@ -451,6 +475,8 @@ I choose to paddle along the north shore of Birch Lake. I'd forgotten how many
 down trees there are in the water. A few trees are standing well out in the
 lake. The first dam at Prairie Portage was built around 1900. The standing trees
 are old and bleached, but could they be from before that?
+
+![Royce landing on Big Knife Portage 2025-08-10 11:20](./attachments/202508101120.jpeg "Royce landing on Big Knife Portage 2025-08-10 11:20")
 
 ![Royce on Big Knife Portage 2025-08-10 11:33](./attachments/202508101133-000.jpeg "Royce on Big Knife Portage 2025-08-10 11:33")
 
@@ -526,12 +552,14 @@ into Jasper, and head further north into Quetico.
 
 ### 2025-08-11T19:04:01-05:00 (48.26726, -91.04823) 1411 feet: Camp on Saganagons Lake
 
-![Puzzling over maps before leaving Ottertrack camp 2025-08-11 08:30](./attachments/202508110830-000.jpeg "Puzzling over maps before leaving Ottertrack camp 2025-08-11 08:30")
+![Puzzling over maps before leaving Ottertrack camp 2025-08-11 08:30](./attachments/20250811083028.jpeg "Puzzling over maps before leaving Ottertrack camp 2025-08-11 08:30")
+
+![View on camp on Ottertrack Lake 2025-08-11 08:31](./attachments/20250811083116.jpeg "View on camp on Ottertrack Lake 2025-08-11 08:31")
 
 Ottertrack Lake was as pretty as I remember. I snapped a few pictures that do
 not do it justice.
 
-![Cliffs on Ottertrack 2025-08-11 10:42](attachments/202508111042-001.jpeg "Cliffs on Ottertrack 2025-08-11 10:42")
+![Cliffs on Ottertrack 2025-08-11 10:42](./attachments/202508111042-001.jpeg "Cliffs on Ottertrack 2025-08-11 10:42")
 
 Even by Quetico standards, the portage to Jasper was hard to find.
 
@@ -577,6 +605,8 @@ though the sun is a couple hand-widths above the horizon.
 
 Reached camp around 16:00.
 
+![View of tent on Saganagons Lake 2025-08-11 18:56](./attachments/20250811185624.jpeg "View of tent on Saganagons Lake 2025-08-11 18:56")
+
 ![Sun setting through smoke on Saganagons Lake 2025-08-11 19:54](./attachments/202508111954-000.jpeg "Sun setting through smoke on Saganagons Lake 2025-08-11 19:54")
 
 In tent at 20:20. When the wind started to die down, the mosquitoes started to
@@ -591,6 +621,12 @@ only had to pop into the tent.
 
 [Saganagons Lake, Little Falls, Koko Falls. 17.2 miles](./GPS/2025-08-12.pdf)
 
+![Ben in camp Saganagons Lake 2025-08-12 08:40](./attachments/20250812084059.jpeg "Ben in camp Saganagons Lake 2025-08-12 08:40")
+
+![View of Saganagons Lake from camp 2025-08-12 08:41](./attachments/20250812084139.jpeg "View of Saganagons Lake from camp 2025-08-12 08:41")
+
+![View of camp on Saganagons Lake 2025-08-12 08:41](./attachments/20250812084144.jpeg "View of camp on Saganagons Lake 2025-08-12 08:41")
+
 On Saganagons Lake, we'd planned to take a shortcut portage across a long
 peninsula that points east, but the portage was not where either the *Fisher* or
 *NatGeo* maps show it. (One thing about the GPS&mdash;we know exactly where we
@@ -603,6 +639,10 @@ day. I don't know how much extra time&mdash;if any&mdash;this cost compared to
 the unknown portage.
 
 ![Royce. Lunch break on Saganagons Lake 2025-08-12 13:03](./attachments/202508121303-000.jpeg "Royce. Lunch break on Saganagons Lake 2025-08-12 13:03")
+
+![Ben. Lunch break on Saganagons Lake 2025-08-12 13:04](./attachments/20250812130457.jpeg "Ben. Lunch break on Saganagons Lake 2025-08-12 13:04")
+
+![Ben. Falls Chain 2025-08-12 16:28](./attachments/20250812162805.jpeg "Ben. Falls Chain 2025-08-12 16:28")
 
 ### 2025-08-12T18:35:35-05:00 (48.31220, -91.11031) 1346 feet
 
@@ -708,7 +748,9 @@ We arrived in camp around 17:00. The landing is sandy, which makes it easy to
 hop in and out of the canoe, but does make it difficult to gather un-silted
 water to filter.
 
-![SSunset on island SW of Rose Island on Kawnipi Lake2025-08-13 20:15](./attachments/202508132015-000.jpeg "Sunset on island SW of Rose Island on Kawnipi Lake 2025-08-13 20:15")
+![Camp and sunset on island SW of Rose Island on Kawnipi Lake 2025-08-13 20:15](./attachments/20250813201525.jpeg "Camp and sunset on island SW of Rose Island on Kawnipi Lake 2025-08-13 20:15")
+
+![Sunset on island SW of Rose Island on Kawnipi Lake 2025-08-13 20:17](./attachments/20250813201735.jpeg "Sunset on island SW of Rose Island on Kawnipi Lake 2025-08-13 20:17")
 
 Some trees have been taken down and left. We can't think why. We understood that
 Quetico does not do campsite maintenance and they don't look to have been

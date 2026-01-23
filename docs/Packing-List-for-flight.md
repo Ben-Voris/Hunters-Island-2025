@@ -34,8 +34,6 @@
 - [x] Sleeping bag
 - [x] RidgeRest
 
-PFD, 35° synthetic bag, and RidgeRest are at Dunbar Canoe Outfitting.
-
 ### Clothes
 
 - [ ] Pants
@@ -48,11 +46,11 @@ PFD, 35° synthetic bag, and RidgeRest are at Dunbar Canoe Outfitting.
 - [ ] Raincoat & pants
 - [ ] Umbrella
 - [ ] Socks
-- [ ] Briefs
+- [ ] Synthetic Briefs
 - [ ] Light long john bottoms
 - [ ] Light toque
 - [ ] Belt
-- [ ] Canoe boots
+- [x] Canoe boots
 - [ ] Magic sandals
 - [ ] Waterproof socks
 - [ ] Bandanna
@@ -83,3 +81,10 @@ PFD, 35° synthetic bag, and RidgeRest are at Dunbar Canoe Outfitting.
 - [ ] Reading glasses
 - [ ] Mac
 - [ ] Mac charger
+
+## At Dunbar Canoe Outfitting
+
+- PFD
+- 35° synthetic bag
+- RidgeRest
+- canoe boots
