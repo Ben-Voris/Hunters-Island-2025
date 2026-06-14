@@ -4,6 +4,7 @@
 
 - [ ] Replace the failed, large waterproof bag. See
       [To waterproof clothes, sleeping bags, etc.](#how-to-waterproof-clothes-sleeping-bags-etc)
+- [ ] Replace Royce's paddle 
 - [ ] Buy 2 or 3 large pack liners
 - [ ] Buy a small waterproof bag for guide pack. The failed pack was a 20L Black
       Canyon from Seal Line. It was amply large. This bag must be at large
